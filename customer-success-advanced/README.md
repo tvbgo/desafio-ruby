@@ -6,6 +6,6 @@ Percebemos que um cliente ficar sem atendimento não era uma boa prática e reso
 
 É a sua missão nesse novo desafio analisar quantos clientes ficarão sem atendimento, qual a média de score desses clientes e fazer uma nova recomendação de contratação para atender 90% dos clientes que ficarão sem atendimento. 
 
-Para deixar o seu código mais organizado, dividimos as responsabilidades de cada analise em diferentes arquivos e classes. A sua resposnsabilidade é implementar a class NoMatches no arquivo analyze_matched.rb, localizado na pasta analytics_tools.
+Para deixar o seu código mais organizado, dividimos as responsabilidades da analise em um arquivo e class separados. A sua resposnsabilidade é implementar a class NoMatches no arquivo analyze_matched.rb, localizado na pasta analytics_tools.
 
 
