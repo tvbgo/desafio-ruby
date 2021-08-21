@@ -1,4 +1,4 @@
-## Desafios Ruby - 23/08 - 01/09
+## Desafios Ruby
 
 Que se inicie a temporada de desafios em Ruby!! A cada 10 dias essa pasta será atualizada com novos desafios com objetivo de aprender e praticar na linguagem Ruby.
 
@@ -13,3 +13,4 @@ https://en.wikibooks.org/wiki/Ruby_Programming
 Caso tenha qualquer dúvida, pergunte no canal #ruby e para melhoria e sugestões, não hesite em me pingar no slack @tomas
 
 
+23/08 - 01/09 - Iterando com condições + customer success advanced
