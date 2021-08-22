@@ -8,4 +8,6 @@ Percebemos que um cliente ficar sem atendimento não era uma boa prática e reso
 
 Para deixar o seu código mais organizado, dividimos as responsabilidades da analise em um arquivo e class separados. A sua resposnsabilidade é implementar a class NoMatches no arquivo analyze_matched.rb, localizado na pasta analytics_tools.
 
+PARA TESTAR A SUA SOLUÇÃO, COLE O SEGUINTE COMANDO NO TERMINAL: ruby customer_success_balancing_test.rb
+
 

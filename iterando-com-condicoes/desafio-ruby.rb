@@ -10,6 +10,7 @@
     
 # https://ruby-doc.org/core-2.5.3/Array.html 
 
+## PARA TESTAR A SUA SOLUÇAO COLE O SEGUINTE COMANDO NO TERMINAL: ruby test-desafio-ruby.rb
 
 
 
