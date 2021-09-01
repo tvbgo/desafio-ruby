@@ -11,4 +11,8 @@ Cidade: "Casimiro de Abreu/RJ" deve se tornar => "Casimiro de Abreu"
 
 Para te ajudar nesse desafio: https://ruby-doc.org/stdlib-2.6.1/libdoc/csv/rdoc/CSV.html 
 
-IMPORTANTE: VOCÊ NÃO DEVE ALTERAR O CSV ORIGINAL, E SIM CRIAR UM NOVO PARA RECEBER O SEU RETORNO!!
+IMPORTANTE: 
+
+1. VOCÊ NÃO DEVE ALTERAR O CSV ORIGINAL, E SIM CRIAR UM NOVO PARA RECEBER O SEU RETORNO!!
+
+2. A SOLUÇÃO É O PRÓPRIO CSV CRIADO, VERIFIQUE SE ESTÁ "LIMPO"
