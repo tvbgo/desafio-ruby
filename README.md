@@ -14,3 +14,5 @@ Caso tenha qualquer dúvida, pergunte no canal #ruby e para melhoria e sugestõe
 
 
 23/08 - 01/09 - Iterando com condições + customer success advanced
+
+01 - 13/09 - CSV Parser
