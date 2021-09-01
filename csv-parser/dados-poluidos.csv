@@ -1,0 +1,1000 @@
+empresa,sindicato,tipo,categoria,estado,endereço,bairro,cep,Cidade,email
+Empresa 1,Empresa 1,Trabalhador,Categoria 1,*Rio de Janeiro*: Casimiro de Abreu.,Endereço 1,CENTRO,28.860-000,Casimiro de Abreu/RJ,1email@emailfalso.com
+Empresa 2,Empresa 2,Trabalhador,Categoria 2,"*Minas Gerais*: Brazópolis, Conceição das Pedras, Conceição dos Ouros, Consolação, Delfim Moreira, Gonçalves, Maria da Fé, Marmelópolis, Paraisópolis, Pedralva, Piranguçu, Piranguinho, São José do Alegre, Sapucaí-Mirim e Wenceslau Braz.",Endereço 2,Varginha,37.501-056,Itajubá/MG,2email@emailfalso.com
+Empresa 3,Empresa 3,Trabalhador,Categoria 3,*Bahia*.,Endereço 3,Pituba,41.830-000,Salvador/BA,3email@emailfalso.com
+Empresa 4,Empresa 4,Trabalhador,Categoria 4,*Paraná*: Corbélia.,Endereço 4,VILA UNIDA,85.420-000,Corbélia/PR,4email@emailfalso.com
+Empresa 5,Empresa 5,Trabalhador,Categoria 5,*Piauí*: Campo Maior.,Endereço 5,CENTRO,64.280-000,Campo Maior/PI,5email@emailfalso.com
+Empresa 6,Empresa 6,Trabalhador,Categoria 6,*Bahia*: Acajutiba.,Endereço 6,CENTRO,48.360-000,Acajutiba/BA,6email@emailfalso.com
+Empresa 7,Empresa 7,Trabalhador,Categoria 7,*Ceará*: Fortaleza.,Endereço 7,Centro,60.055-080,Fortaleza/CE,7email@emailfalso.com
+Empresa 8,Empresa 8,Trabalhador,Categoria 8,*Piauí*: São Raimundo Nonato.,Endereço 8,CENTRO,64.770-000,São Raimundo Nonato/PI,8email@emailfalso.com
+Empresa 9,Empresa 9,Trabalhador,Categoria 9,*Rondônia*.,Endereço 9,Nossa Senhora das Graças,76.804-142,Porto Velho/RO,9email@emailfalso.com
+Empresa 10,Empresa 10,Trabalhador,Categoria 10,*Rondônia*: Machadinho D'Oeste.,Endereço 10,centro,76.868-000,Machadinho D`Oeste/RO,10email@emailfalso.com
+Empresa 11,Empresa 11,Trabalhador,Categoria 11,*Paraná*: Teixeira Soares.,Endereço 11,Centro,84.530-000,Teixeira Soares/PR,11email@emailfalso.com
+Empresa 12,Empresa 12,Trabalhador,Categoria 12,*São Paulo*.,Endereço 12,Vila Teixeira,13.032-385,Campinas/SP,12email@emailfalso.com
+Empresa 13,Empresa 13,Trabalhador,Categoria 13,"*Maranhão*: Açailândia, Bom Jesus das Selvas, Buriticupu, Cidelândia, Itinga do Maranhão, São Francisco do Brejão, São Pedro da Água Branca e Vila Nova dos Martírios.",Endereço 13,CENTRO,65.930-000,Açailândia/MA,13email@emailfalso.com
+Empresa 14,Empresa 14,Trabalhador,Categoria 14,*Rio Grande do Sul*: Rolador.,Endereço 14,Centro,97.843-000,Rolador/RS,14email@emailfalso.com
+Empresa 15,Empresa 15,Trabalhador,Categoria 15,*São Paulo*: Coroados.,Endereço 15,Granville,16.260-000,Coroados/SP,15email@emailfalso.com
+Empresa 16,Empresa 16,Trabalhador,Categoria 16,*Rio Grande do Sul*: Novo Cabrais.,Endereço 16,Centro,96.545-000,Novo Cabrais/RS,16email@emailfalso.com
+Empresa 17,Empresa 17,Trabalhador,Categoria 17,"*Santa Catarina*: Balneário Camboriú, Balneário Piçarras, Camboriú, Ilhota, Itajaí, Itapema, Luiz Alves, Navegantes, Penha e Porto Belo.",Endereço 17,Centro,88.303-140,Itajaí/SC,17email@emailfalso.com
+Empresa 18,Empresa 18,Trabalhador,Categoria 18,*Bahia*: Itiúba.,Endereço 18,CENTRO,48.850-000,Itiúba/BA,18email@emailfalso.com
+Empresa 19,Empresa 19,Trabalhador,Categoria 19,*Amapá*.,Endereço 19,Perpétuo Socorro,68.905-670,Macapá/AP,19email@emailfalso.com
+Empresa 20,Empresa 20,Trabalhador,Categoria 20,*Sergipe*: Lagarto.,Endereço 20,Centro,49.400-000,Lagarto/SE,20email@emailfalso.com
+Empresa 21,Empresa 21,Trabalhador,Categoria 21,*Bahia*: Jeremoabo.,Endereço 21,centro,48.540-000,Jeremoabo/BA,21email@emailfalso.com
+Empresa 22,Empresa 22,Trabalhador,Categoria 22,*Rio Grande do Sul*: São Luiz Gonzaga.,Endereço 22,centro,97.800-000,São Luiz Gonzaga/RS,22email@emailfalso.com
+Empresa 23,Empresa 23,Trabalhador,Categoria 23,*Mato Grosso*: Paranaíta.,Endereço 23,Centro,78.590-000,Paranaitá/MT,23email@emailfalso.com
+Empresa 24,Empresa 24,Trabalhador,Categoria 24,*Mato Grosso*: Campo Verde.,Endereço 24,RECANTO DO BOSQUE II,78.840-000,Campo Verde/MT,24email@emailfalso.com
+Empresa 25,Empresa 25,Trabalhador,Categoria 25,*Bahia*: Governador Mangabeira.,Endereço 25,Centro,44.350-000,Governador Mangabeira/BA,25email@emailfalso.com
+Empresa 26,Empresa 26,Trabalhador,Categoria 26,"*Paraná*: Clevelândia, Mangueirinha e Mariópolis.",Endereço 26,Centro,85.530-000,Clevelândia/PR,26email@emailfalso.com
+Empresa 27,Empresa 27,Trabalhador,Categoria 27,*Santa Catarina*: São Francisco do Sul.,Endereço 27,Água Branca,89.240-000,São Francisco do Sul/SC,27email@emailfalso.com
+Empresa 28,Empresa 28,Trabalhador,Categoria 28,*Piauí*: Piripiri.,Endereço 28,CENTRO,64.260-000,Piripiri/PI,28email@emailfalso.com
+Empresa 29,Empresa 29,Trabalhador,Categoria 29,*São Paulo*.,Endereço 29,Bela Vista,01.319-000,São Paulo/SP,29email@emailfalso.com
+Empresa 30,Empresa 30,Trabalhador,Categoria 30,"*São Paulo*: Anhembi, Arandu, Areiópolis, Avaré, Barra Bonita, Bofete, Botucatu, Cerqueira César, Conchas, Coronel Macedo, Dois Córregos, Fartura, Igaraçu do Tietê, Itaju, Itatinga, Laranjal Paulista, Macatuba, Manduri, Mineiros do Tietê, Pardinho, Pereiras, Piraju, Porangaba, Santa Maria da Serra, São Manuel, Sarutaiá, Taguaí, Taquarituba, Tejupá e Timburi.",Endereço 30,Centro,18.650-000,São Manuel/SP,30email@emailfalso.com
+Empresa 31,Empresa 31,Trabalhador,Categoria 31,*Espírito Santo*.,Endereço 31,Santa Luíza,29.045-402,Vitória/ES,31email@emailfalso.com
+Empresa 32,Empresa 32,Trabalhador,Categoria 32,*São Paulo*.,Endereço 32,Jardim Planalto,13.468-200,Americana/SP,32email@emailfalso.com
+Empresa 33,Empresa 33,Trabalhador,Categoria 33,*Minas Gerais*: Mantena.,Endereço 33,BELA VISTA,35.290-000,Mantena/MG,33email@emailfalso.com
+Empresa 34,Empresa 34,Trabalhador,Categoria 34,*Alagoas*.,Endereço 34,Centro,57.020-091,Maceió/AL,34email@emailfalso.com
+Empresa 35,Empresa 35,Trabalhador,Categoria 35,*Rio Grande do Sul*: Venâncio Aires.,Endereço 35,CENTRO,95.800-000,Venâncio Aires/RS,35email@emailfalso.com
+Empresa 36,Empresa 36,Trabalhador,Categoria 36,,Endereço 36,,,Brasília/DF,36email@emailfalso.com
+Empresa 37,Empresa 37,Trabalhador,Categoria 37,*Distrito Federal*.,Endereço 37,Asa Norte,70.040-905,Brasília/DF,37email@emailfalso.com
+Empresa 38,Empresa 38,Trabalhador,Categoria 38,*Minas Gerais*: Caratinga.,Endereço 38,Santa Cruz,35.300-181,Caratinga/MG,38email@emailfalso.com
+Empresa 39,Empresa 39,Trabalhador,Categoria 39,*Espírito Santo*: São Mateus.,Endereço 39,Boa Vista,29.931-640,São Mateus/ES,39email@emailfalso.com
+Empresa 40,Empresa 40,Trabalhador,Categoria 40,"*Alagoas*, *Amapá*, *Amazonas*, *Bahia*, *Ceará*, *Distrito Federal*, *Espírito Santo*, *Goiás*, *Maranhão*, *Mato Grosso*, *Mato Grosso do Sul*, *Minas Gerais*, *Pará*, *Paraíba*, *Paraná*, *Pernambuco*, *Piauí*, *Rio de Janeiro*, *Rio Grande do Norte*, *Rio Grande do Sul*, *Rondônia*, *Roraima*, *Santa Catarina*, *São Paulo*, *Sergipe* e *Tocantins*.",Endereço 40,Asa Sul,70.300-902,Brasília/DF,40email@emailfalso.com
+Empresa 41,Empresa 41,Trabalhador,Categoria 41,*Minas Gerais*: Santana do Deserto.,Endereço 41,Centro,36.620-000,Santana do Deserto/MG,41email@emailfalso.com
+Empresa 42,Empresa 42,Trabalhador,Categoria 42,*Bahia*: Cícero Dantas.,Endereço 42,CENTRO,48.410-000,Cícero Dantas/BA,42email@emailfalso.com
+Empresa 43,Empresa 43,Trabalhador,Categoria 43,*Bahia*: Caém.,Endereço 43,Centro,44.730-000,Caém/BA,43email@emailfalso.com
+Empresa 44,Empresa 44,Trabalhador,Categoria 44,*São Paulo*: Orlândia.,Endereço 44,Centro,14.620-000,Orlândia/SP,44email@emailfalso.com
+Empresa 45,Empresa 45,Trabalhador,Categoria 45,*Ceará*: Ocara.,Endereço 45,Centro,62.755-000,Ocara/CE,45email@emailfalso.com
+Empresa 46,Empresa 46,Trabalhador,Categoria 46,*São Paulo*: Votuporanga.,Endereço 46,San Remo,15.502-105,Votuporanga/SP,46email@emailfalso.com
+Empresa 47,Empresa 47,Trabalhador,Categoria 47,*Rio de Janeiro*: Araruama.,Endereço 47,Centro,28.970-000,Araruama/RJ,47email@emailfalso.com
+Empresa 48,Empresa 48,Trabalhador,Categoria 48,*Sergipe*.,Endereço 48,São José,49.015-000,Aracaju/SE,48email@emailfalso.com
+Empresa 49,Empresa 49,Trabalhador,Categoria 49,*Paraná*: Pérola.,Endereço 49,Centro,87.540-000,Pérola/PR,49email@emailfalso.com
+Empresa 50,Empresa 50,Trabalhador,Categoria 50,*Rio de Janeiro*: Macaé.,Endereço 50,Barra,27.973-470,Macaé/RJ,50email@emailfalso.com
+Empresa 51,Empresa 51,Trabalhador,Categoria 51,"*Pará*: Afuá, Anajás, Bagre, Breves, Chaves, Curralinho, Gurupá, Melgaço, Muaná, Oeiras do Pará, Ponta de Pedras, Portel, Salvaterra, Santa Cruz do Arari, São Sebastião da Boa Vista e Soure.",Endereço 51,CASTANHEIRA,68.800-000,Breves/PA,51email@emailfalso.com
+Empresa 52,Empresa 52,Trabalhador,Categoria 52,*Mato Grosso do Sul*: Pedro Gomes.,Endereço 52,Centro,79.410-000,Pedro Gomes/MS,52email@emailfalso.com
+Empresa 53,Empresa 53,Trabalhador,Categoria 53,*Goiás*.,Endereço 53,Setor Bela Vista,74.823-460,Goiânia/GO,53email@emailfalso.com
+Empresa 54,Empresa 54,Trabalhador,Categoria 54,*Goiás*.,Endereço 54,Setor Sul,74.080-100,Goiânia/GO,54email@emailfalso.com
+Empresa 55,Empresa 55,Trabalhador,Categoria 55,*Minas Gerais*: Pirajuba.,Endereço 55,centro,38.210-000,Pirajuba/MG,55email@emailfalso.com
+Empresa 56,Empresa 56,Trabalhador,Categoria 56,*Pará*.,Endereço 56,Souza,66.613-060,Belém/PA,56email@emailfalso.com
+Empresa 57,Empresa 57,Trabalhador,Categoria 57,*Paraná*: Londrina.,Endereço 57,Igapó,86.046-280,Londrina/PR,57email@emailfalso.com
+Empresa 58,Empresa 58,Trabalhador,Categoria 58,*Rio Grande do Sul*: Redentora.,Endereço 58,Centro,98.550-000,Redentora/RS,58email@emailfalso.com
+Empresa 59,Empresa 59,Trabalhador,Categoria 59,*São Paulo*: Jumirim e Tietê.,Endereço 59,Centro,18.530-000,Tietê/SP,59email@emailfalso.com
+Empresa 60,Empresa 60,Trabalhador,Categoria 60,"*Paraná*: Antonina, Guaraqueçaba, Guaratuba, Morretes e Paranaguá.",Endereço 60,Costeira,83.203-500,Paranaguá/PR,60email@emailfalso.com
+Empresa 61,Empresa 61,Trabalhador,Categoria 61,*São Paulo*: Itaí.,Endereço 61,Centro,18.730-000,Itaí/SP,61email@emailfalso.com
+Empresa 62,Empresa 62,Trabalhador,Categoria 62,*Minas Gerais*: Juatuba.,Endereço 62,Cidade Nova II,35.675-000,Juatuba/MG,62email@emailfalso.com
+Empresa 63,Empresa 63,Trabalhador,Categoria 63,*Bahia*: Aurelino Leal.,Endereço 63,CENTRO,45.675-000,Aurelino Leal/BA,63email@emailfalso.com
+Empresa 64,Empresa 64,Trabalhador,Categoria 64,*Mato Grosso*: Rondonópolis.,Endereço 64,Centro,78.700-090,Rondonópolis/MT,64email@emailfalso.com
+Empresa 65,Empresa 65,Trabalhador,Categoria 65,*Minas Gerais*: Unaí.,Endereço 65,Centro,38.610-000,Unaí/MG,65email@emailfalso.com
+Empresa 66,Empresa 66,Trabalhador,Categoria 66,*Bahia*: Antônio Gonçalves.,Endereço 66,Centro,44.780-000,Antônio Gonçalves/BA,66email@emailfalso.com
+Empresa 67,Empresa 67,Trabalhador,Categoria 67,*Piauí*: São João do Piauí.,Endereço 67,CENTRO,64.760-000,São João do Piauí/PI,67email@emailfalso.com
+Empresa 68,Empresa 68,Trabalhador,Categoria 68,*Rio Grande do Sul*: Campinas do Sul.,Endereço 68,CENTRO,99.660-000,Campinas do Sul/RS,68email@emailfalso.com
+Empresa 69,Empresa 69,Trabalhador,Categoria 69,*Ceará*: Itaitinga.,Endereço 69,Centro,61.880-000,Itaitinga/CE,69email@emailfalso.com
+Empresa 70,Empresa 70,Trabalhador,Categoria 70,*São Paulo*: Batatais.,Endereço 70,Riachuelo,14.300-000,Batatais/SP,70email@emailfalso.com
+Empresa 71,Empresa 71,Trabalhador,Categoria 71,*São Paulo*: São João da Boa Vista.,Endereço 71,Centro,13.870-070,São João da Boa Vista/SP,71email@emailfalso.com
+Empresa 72,Empresa 72,Trabalhador,Categoria 72,*Pernambuco*: Palmares.,Endereço 72,centro,55.540-000,Palmares/PE,72email@emailfalso.com
+Empresa 73,Empresa 73,Trabalhador,Categoria 73,*Ceará*: Itapajé.,Endereço 73,Centro,62.600-000,Itapagé/CE,73email@emailfalso.com
+Empresa 74,Empresa 74,Trabalhador,Categoria 74,*Rio Grande do Sul*: Canoas.,Endereço 74,Marechal Rondon,92.020-340,Canoas/RS,74email@emailfalso.com
+Empresa 75,Empresa 75,Trabalhador,Categoria 75,*Bahia*: Senhor do Bonfim.,Endereço 75,Centro,48.970-000,Senhor do Bonfim/BA,75email@emailfalso.com
+Empresa 76,Empresa 76,Trabalhador,Categoria 76,"*Bahia*, *Distrito Federal* e *Espírito Santo*.",Endereço 76,Asa Sul,70.070-050,Brasília/DF,76email@emailfalso.com
+Empresa 77,Empresa 77,Trabalhador,Categoria 77,*Minas Gerais*: Belo Horizonte.,Endereço 77,Centro,30.130-003,Belo Horizonte/MG,77email@emailfalso.com
+Empresa 78,Empresa 78,Trabalhador,Categoria 78,*Mato Grosso*.,Endereço 78,Alvorada,78.048-487,Cuiabá/MT,78email@emailfalso.com
+Empresa 79,Empresa 79,Trabalhador,Categoria 79,*Minas Gerais*: Cana Verde.,Endereço 79,Centro,37.267-000,Cana Verde/MG,79email@emailfalso.com
+Empresa 80,Empresa 80,Trabalhador,Categoria 80,*Rio Grande do Sul*: Santo Ângelo.,Endereço 80,Meller Sul,98.801-630,Santo Ângelo/RS,80email@emailfalso.com
+Empresa 81,Empresa 81,Trabalhador,Categoria 81,*Rio Grande do Sul*.,Endereço 81,Centro,90.030-140,Porto Alegre/RS,81email@emailfalso.com
+Empresa 82,Empresa 82,Trabalhador,Categoria 82,*Rio Grande do Sul*: Bagé.,Endereço 82,Centro,96.400-040,Bagé/RS,82email@emailfalso.com
+Empresa 83,Empresa 83,Trabalhador,Categoria 83,*Rio Grande do Sul*: Farroupilha.,Endereço 83,Centro,95.180-000,Farroupilha/RS,83email@emailfalso.com
+Empresa 84,Empresa 84,Trabalhador,Categoria 84,*Rio Grande do Sul*: Santa Maria.,Endereço 84,Centro,97.010-040,Santa Maria/RS,84email@emailfalso.com
+Empresa 85,Empresa 85,Trabalhador,Categoria 85,*Rio Grande do Sul*: Santa Rosa.,Endereço 85,centro,98.900-000,Santa Rosa/RS,85email@emailfalso.com
+Empresa 86,Empresa 86,Trabalhador,Categoria 86,*Rio Grande do Sul*.,Endereço 86,Centro,90.010-460,Porto Alegre/RS,86email@emailfalso.com
+Empresa 87,Empresa 87,Trabalhador,Categoria 87,,Endereço 87,,,Santa Cruz do Sul/RS,87email@emailfalso.com
+Empresa 88,Empresa 88,Trabalhador,Categoria 88,*Rio Grande do Sul*: Frederico Westphalen.,Endereço 88,Centro,98.400-000,Frederico Westphalen/RS,88email@emailfalso.com
+Empresa 89,Empresa 89,Trabalhador,Categoria 89,*Rio Grande do Sul*: Santo Ângelo.,Endereço 89,Meller Sul,98.801-630,Santo Ângelo/RS,89email@emailfalso.com
+Empresa 90,Empresa 90,Trabalhador,Categoria 90,*Rio Grande do Sul*: Itaqui.,Endereço 90,Centro,97.650-000,Itaqui/RS,90email@emailfalso.com
+Empresa 91,Empresa 91,Trabalhador,Categoria 91,*Rondônia*.,Endereço 91,Olaria,76.801-230,Porto Velho/RO,91email@emailfalso.com
+Empresa 92,Empresa 92,Trabalhador,Categoria 92,*Paraná*: Roncador.,Endereço 92,CENTRO,87.320-000,Roncador/PR,92email@emailfalso.com
+Empresa 93,Empresa 93,Trabalhador,Categoria 93,*Rio Grande do Sul*: Ijuí.,Endereço 93,Centro,98.700-000,Ijuí/RS,93email@emailfalso.com
+Empresa 94,Empresa 94,Trabalhador,Categoria 94,*Paraná*: Marechal Cândido Rondon.,Endereço 94,CENTRO,85.960-000,Marechal Cândido Rondon/PR,94email@emailfalso.com
+Empresa 95,Empresa 95,Trabalhador,Categoria 95,*Minas Gerais*: Francisco Sá.,Endereço 95,São Jorge,39.580-000,Francisco Sá/MG,95email@emailfalso.com
+Empresa 96,Empresa 96,Trabalhador,Categoria 96,*Santa Catarina*: Palhoça.,Endereço 96,Passa Vinte,88.132-149,Palhoça/SC,96email@emailfalso.com
+Empresa 97,Empresa 97,Trabalhador,Categoria 97,*Espírito Santo*: Mantenópolis.,Endereço 97,CENTRO,29.770-000,Mantenópolis/ES,97email@emailfalso.com
+Empresa 98,Empresa 98,Trabalhador,Categoria 98,*Goiás*.,Endereço 98,Setor Sul,74.083-195,Goiânia/GO,98email@emailfalso.com
+Empresa 99,Empresa 99,Trabalhador,Categoria 99,*Santa Catarina*: Ituporanga.,Endereço 99,Ceentro,88.400-000,Ituporanga/SC,99email@emailfalso.com
+Empresa 100,Empresa 100,Trabalhador,Categoria 100,*Goiás*: Senador Canedo.,Endereço 100,Vila Santa Rosa,75.250-000,Senador Canedo/GO,100email@emailfalso.com
+Empresa 101,Empresa 101,Trabalhador,Categoria 101,"*Pernambuco*: Águas Belas, Angelim, Arcoverde, Betânia, Bom Conselho, Brejão, Buíque, Caetés, Calçado, Calumbi, Canhotinho, Capoeiras, Carnaubeira da Penha, Correntes, Custódia, Flores, Floresta, Garanhuns, Iati, Ibimirim, Inajá, Itacuruba, Itaíba, Jatobá, Jucati, Jupi, Lagoa do Ouro, Lajedo, Manari, Palmeirina, Paranatama, Pedra, Petrolândia, Saloá, Santa Cruz da Baixa Verde, São João, São José do Belmonte, Serra Talhada, Sertânia, Tacaratu, Terezinha, Triunfo, Tupanatinga e Venturosa.",Endereço 101,Centro,55.385-000,Lajedo/PE,101email@emailfalso.com
+Empresa 102,Empresa 102,Trabalhador,Categoria 102,*Rio Grande do Sul*: Restinga Sêca.,Endereço 102,centro,97.200-000,Restinga Seca/RS,102email@emailfalso.com
+Empresa 103,Empresa 103,Trabalhador,Categoria 103,*Paraná*.,Endereço 103,Centro,80.010-000,Curitiba/PR,103email@emailfalso.com
+Empresa 104,Empresa 104,Trabalhador,Categoria 104,*Goiás*: Padre Bernardo.,Endereço 104,Centro,73.700-000,Padre Bernardo/GO,104email@emailfalso.com
+Empresa 105,Empresa 105,Trabalhador,Categoria 105,"*Minas Gerais*: Alvinópolis, Dom Silvério, João Monlevade e Nova Era.",Endereço 105,Lucília,35.930-250,João Monlevade/MG,105email@emailfalso.com
+Empresa 106,Empresa 106,Trabalhador,Categoria 106,*São Paulo*: Embu-Guaçu.,Endereço 106,CENTRO,06.900-000,Embu-Guaçu/SP,106email@emailfalso.com
+Empresa 107,Empresa 107,Trabalhador,Categoria 107,*Paraná*: Cascavel.,Endereço 107,Centro,85.812-011,Cascavel/PR,107email@emailfalso.com
+Empresa 108,Empresa 108,Trabalhador,Categoria 108,*Sergipe*: Lagarto e Simão Dias.,Endereço 108,,49.400-000,Lagarto/SE,108email@emailfalso.com
+Empresa 109,Empresa 109,Trabalhador,Categoria 109,*Rio Grande do Norte*.,Endereço 109,Capim Macio,59.078-130,Natal/RN,109email@emailfalso.com
+Empresa 110,Empresa 110,Trabalhador,Categoria 110,*Ceará*: Barbalha.,Endereço 110,rosario,63.180-000,Barbalha/CE,110email@emailfalso.com
+Empresa 111,Empresa 111,Trabalhador,Categoria 111,*Espírito Santo*: Afonso Cláudio.,Endereço 111,CENTRO,29.600-000,Afonso Cláudio/ES,111email@emailfalso.com
+Empresa 112,Empresa 112,Trabalhador,Categoria 112,*Goiás*: Anápolis.,Endereço 112,Setor Central,75.020-010,Anápolis/GO,112email@emailfalso.com
+Empresa 113,Empresa 113,Trabalhador,Categoria 113,*Roraima*.,Endereço 113,Buritis,69.309-189,Boa Vista/RR,113email@emailfalso.com
+Empresa 114,Empresa 114,Trabalhador,Categoria 114,*Pernambuco*: Cabo de Santo Agostinho.,Endereço 114,Centro,54.505-240,Cabo de Santo Agostinho/PE,114email@emailfalso.com
+Empresa 115,Empresa 115,Trabalhador,Categoria 115,*Pará*.,Endereço 115,São Brás,66.093-000,Belém/PA,115email@emailfalso.com
+Empresa 116,Empresa 116,Trabalhador,Categoria 116,*Piauí*.,Endereço 116,Noivos,64.046-040,Teresina/PI,116email@emailfalso.com
+Empresa 117,Empresa 117,Trabalhador,Categoria 117,*Pernambuco*: Ribeirão.,Endereço 117,CENTRO,55.520-000,Ribeirão/PE,117email@emailfalso.com
+Empresa 118,Empresa 118,Trabalhador,Categoria 118,*Goiás*.,Endereço 118,Setor Leste Universitário,74.610-155,Goiânia/GO,118email@emailfalso.com
+Empresa 119,Empresa 119,Trabalhador,Categoria 119,*Mato Grosso do Sul*: Aquidauana.,Endereço 119,Bairro Alto,79.200-000,Aquidauana/MS,119email@emailfalso.com
+Empresa 120,Empresa 120,Trabalhador,Categoria 120,*São Paulo*: Caieiras.,Endereço 120,JD. SÃO FRANCISCO,07.700-000,Caieiras/SP,120email@emailfalso.com
+Empresa 121,Empresa 121,Trabalhador,Categoria 121,"*São Paulo*: Pilar do Sul, São Miguel Arcanjo, Sarapuí e Tapiraí.",Endereço 121,Jardim Nova Pilar,18.185-000,Pilar do Sul/SP,121email@emailfalso.com
+Empresa 122,Empresa 122,Trabalhador,Categoria 122,*Alagoas*: São Miguel dos Campos.,Endereço 122,PARAÍSO,57.240-000,São Miguel dos Campos/AL,122email@emailfalso.com
+Empresa 123,Empresa 123,Trabalhador,Categoria 123,"*Ceará*: Abaiara, Acarape, Acaraú, Acopiara, Aiuaba, Alcântaras, Altaneira, Alto Santo, Amontada, Antonina do Norte, Apuiarés, Aquiraz, Aracati, Aracoiaba, Ararendá, Araripe, Aratuba, Arneiroz, Assaré, Aurora, Baixio, Banabuiú, Barbalha, Barreira, Barro, Barroquinha, Baturité, Beberibe, Bela Cruz, Boa Viagem, Brejo Santo, Camocim, Campos Sales, Canindé, Capistrano, Caridade, Cariré, Caririaçu, Cariús, Carnaubal, Cascavel, Catarina, Catunda, Caucaia, Cedro, Chaval, Choró, Chorozinho, Coreaú, Crateús, Crato, Croatá, Cruz, Deputado Irapuan Pinheiro, Ererê, Eusébio, Farias Brito, Forquilha, Fortim, Frecheirinha, General Sampaio, Graça, Granja, Granjeiro, Groaíras, Guaiúba, Guaraciaba do Norte, Guaramiranga, Hidrolândia, Horizonte, Ibaretama, Ibiapina, Ibicuitinga, Icapuí, Icó, Iguatu, Independência, Ipaporanga, Ipaumirim, Ipu, Ipueiras, Iracema, Irauçuba, Itaiçaba, Itaitinga, Itapajé, Itapipoca, Itapiúna, Itarema, Itatira, Jaguaretama, Jaguaribara, Jaguaribe, Jaguaruana, Jardim, Jati, Jijoca de Jericoacoara, Juazeiro do Norte, Jucás, Lavras da Mangabeira, Limoeiro do Norte, Madalena, Maracanaú, Maranguape, Marco, Martinópole, Massapê, Mauriti, Meruoca, Milagres, Milhã, Miraíma, Missão Velha, Mombaça, Monsenhor Tabosa, Morada Nova, Moraújo, Morrinhos, Mucambo, Mulungu, Nova Olinda, Nova Russas, Novo Oriente, Ocara, Orós, Pacajus, Pacatuba, Pacoti, Pacujá, Palhano, Palmácia, Paracuru, Paraipaba, Parambu, Paramoti, Pedra Branca, Penaforte, Pereiro, Pindoretama, Piquet Carneiro, Pires Ferreira, Poranga, Porteiras, Potengi, Potiretama, Quiterianópolis, Quixadá, Quixelô, Quixeramobim, Quixeré, Redenção, Reriutaba, Russas, Saboeiro, Salitre, Santa Quitéria, Santana do Acaraú, Santana do Cariri, São Benedito, São Gonçalo do Amarante, São João do Jaguaribe, São Luís do Curu, Senador Pompeu, Senador Sá, Sobral, Solonópole, Tabuleiro do Norte, Tamboril, Tarrafas, Tauá, Tejuçuoca, Tianguá, Trairi, Tururu, Ubajara, Umari, Umirim, Uruburetama, Uruoca, Varjota, Várzea Alegre e Viçosa do Ceará.",Endereço 123,BULANDEIRA,63.180-000,Barbalha/CE,123email@emailfalso.com
+Empresa 124,Empresa 124,Trabalhador,Categoria 124,,Endereço 124,,,Rio de Janeiro/RJ,124email@emailfalso.com
+Empresa 125,Empresa 125,Trabalhador,Categoria 125,*Rio Grande do Sul*: Novo Hamburgo.,Endereço 125,Hamburgo Velho,93.510-160,Novo Hamburgo/RS,125email@emailfalso.com
+Empresa 126,Empresa 126,Trabalhador,Categoria 126,"*Rio de Janeiro*: Angra dos Reis, Aperibé, Araruama, Areal, Armação dos Búzios, Arraial do Cabo, Barra do Piraí, Barra Mansa, Belford Roxo, Bom Jardim, Bom Jesus do Itabapoana, Cabo Frio, Cachoeiras de Macacu, Cambuci, Campos dos Goytacazes, Cantagalo, Carapebus, Cardoso Moreira, Carmo, Casimiro de Abreu, Comendador Levy Gasparian, Conceição de Macabu, Cordeiro, Duas Barras, Duque de Caxias, Engenheiro Paulo de Frontin, Guapimirim, Iguaba Grande, Itaboraí, Itaguaí, Italva, Itaperuna, Itatiaia, Japeri, Laje do Muriaé, Macaé, Macuco, Magé, Mangaratiba, Maricá, Mendes, Mesquita, Miguel Pereira, Miracema, Natividade, Nilópolis, Niterói, Nova Friburgo, Nova Iguaçu, Paracambi, Paraíba do Sul, Paraty, Paty do Alferes, Petrópolis, Pinheiral, Piraí, Porciúncula, Porto Real, Quatis, Queimados, Quissamã, Resende, Rio Bonito, Rio Claro, Rio das Flores, Rio das Ostras, Rio de Janeiro, Santa Maria Madalena, Santo Antônio de Pádua, São Fidélis, São Francisco de Itabapoana, São Gonçalo, São João da Barra, São João de Meriti, São José de Ubá, São José do Vale do Rio Preto, São Pedro da Aldeia, São Sebastião do Alto, Sapucaia, Saquarema, Seropédica, Silva Jardim, Sumidouro, Tanguá, Teresópolis, Trajano de Moraes, Três Rios, Valença, Varre-Sai, Vassouras e Volta Redonda.",Endereço 126,Santo Antônio da Prata,26.130-570,Belford Roxo/RJ,126email@emailfalso.com
+Empresa 127,Empresa 127,Trabalhador,Categoria 127,*Acre*.,Endereço 127,Centro,69.900-076,Rio Branco/AC,127email@emailfalso.com
+Empresa 128,Empresa 128,Trabalhador,Categoria 128,*Piauí*: Barro Duro.,Endereço 128,Centro,64.455-000,Barro Duro/PI,128email@emailfalso.com
+Empresa 129,Empresa 129,Trabalhador,Categoria 129,*Mato Grosso*.,Endereço 129,Morada do Ouro - Setor Centro Sul,78.053-204,Cuiabá/MT,129email@emailfalso.com
+Empresa 130,Empresa 130,Trabalhador,Categoria 130,*Alagoas*: Campo Alegre.,Endereço 130,Centro,57.250-000,Campo Alegre/AL,130email@emailfalso.com
+Empresa 131,Empresa 131,Trabalhador,Categoria 131,*Minas Gerais*: Poço Fundo.,Endereço 131,centro,37.757-000,Poço Fundo/MG,131email@emailfalso.com
+Empresa 132,Empresa 132,Trabalhador,Categoria 132,*Sergipe*: Carira.,Endereço 132,CENTRO,49.550-000,Carira/SE,132email@emailfalso.com
+Empresa 133,Empresa 133,Trabalhador,Categoria 133,*Ceará*: Apuiarés.,Endereço 133,Centro,62.630-000,Apuiarés/CE,133email@emailfalso.com
+Empresa 134,Empresa 134,Trabalhador,Categoria 134,*Mato Grosso do Sul*.,Endereço 134,Vila Glória,79.004-410,Campo Grande/MS,134email@emailfalso.com
+Empresa 135,Empresa 135,Trabalhador,Categoria 135,*Minas Gerais*: Serrania.,Endereço 135,Centro,37.136-000,Serrania/MG,135email@emailfalso.com
+Empresa 136,Empresa 136,Trabalhador,Categoria 136,"*Minas Gerais*: Descoberto, Guarani, Rio Novo, Rochedo de Minas e São João Nepomuceno.",Endereço 136,Centro,36.680-000,São João Nepomuceno/MG,136email@emailfalso.com
+Empresa 137,Empresa 137,Trabalhador,Categoria 137,*Santa Catarina*: Lauro Müller.,Endereço 137,Centro,88.880-000,Lauro Müller/SC,137email@emailfalso.com
+Empresa 138,Empresa 138,Trabalhador,Categoria 138,*Bahia*: Dias d'Ávila.,Endereço 138,CENTRO,42.850-000,Dias D`Ávila/BA,138email@emailfalso.com
+Empresa 139,Empresa 139,Trabalhador,Categoria 139,*Ceará*: Chorozinho.,Endereço 139,Cidade NOva,62.875-000,Chorozinho/CE,139email@emailfalso.com
+Empresa 140,Empresa 140,Trabalhador,Categoria 140,*Pernambuco*: Camocim de São Félix.,Endereço 140,CENTRO,55.665-000,Camocim de São Félix/PE,140email@emailfalso.com
+Empresa 141,Empresa 141,Trabalhador,Categoria 141,*Paraíba*: Conde.,Endereço 141,centro,58.322-000,Conde/PB,141email@emailfalso.com
+Empresa 142,Empresa 142,Trabalhador,Categoria 142,*Pará*.,Endereço 142,Castanheira,66.645-435,Belém/PA,142email@emailfalso.com
+Empresa 143,Empresa 143,Trabalhador,Categoria 143,*Espírito Santo*: Itaguaçu.,Endereço 143,CENTRO,29.690-000,Itaguaçu/ES,143email@emailfalso.com
+Empresa 144,Empresa 144,Trabalhador,Categoria 144,"*Bahia*: Abaíra, Abaré, Acajutiba, Adustina, Água Fria, Aiquara, Alagoinhas, Alcobaça, Almadina, Amargosa, Amélia Rodrigues, América Dourada, Anagé, Andaraí, Andorinha, Angical, Anguera, Antas, Antônio Cardoso, Antônio Gonçalves, Aporá, Apuarema, Araçás, Aracatu, Araci, Aramari, Arataca, Aratuípe, Aurelino Leal, Baianópolis, Baixa Grande, Banzaê, Barra, Barra da Estiva, Barra do Choça, Barra do Mendes, Barra do Rocha, Barro Alto, Barro Preto, Barrocas, Belmonte, Belo Campo, Biritinga, Boa Nova, Boa Vista do Tupim, Bom Jesus da Lapa, Bom Jesus da Serra, Boninal, Bonito, Boquira, Botuporã, Brejões, Brejolândia, Brotas de Macaúbas, Brumado, Buerarema, Buritirama, Caatiba, Cabaceiras do Paraguaçu, Cachoeira, Caculé, Caém, Caetanos, Caetité, Cafarnaum, Cairu, Caldeirão Grande, Camacan, Camaçari, Camamu, Campo Alegre de Lourdes, Campo Formoso, Canápolis, Canarana, Canavieiras, Candeal, Candeias, Candiba, Cândido Sales, Cansanção, Canudos, Capela do Alto Alegre, Capim Grosso, Caraíbas, Caravelas, Cardeal da Silva, Carinhanha, Casa Nova, Castro Alves, Catolândia, Catu, Caturama, Central, Chorrochó, Cícero Dantas, Cipó, Coaraci, Cocos, Conceição da Feira, Conceição do Almeida, Conceição do Coité, Conceição do Jacuípe, Conde, Condeúba, Contendas do Sincorá, Coração de Maria, Cordeiros, Coribe, Coronel João Sá, Cotegipe, Cravolândia, Crisópolis, Cristópolis, Cruz das Almas, Curaçá, Dário Meira, Dias d'Ávila, Dom Basílio, Dom Macedo Costa, Elísio Medrado, Encruzilhada, Entre Rios, Érico Cardoso, Esplanada, Euclides da Cunha, Eunápolis, Fátima, Feira da Mata, Feira de Santana, Filadélfia, Firmino Alves, Floresta Azul, Formosa do Rio Preto, Gandu, Gavião, Gentio do Ouro, Glória, Gongogi, Governador Mangabeira, Guajeru, Guanambi, Guaratinga, Heliópolis, Iaçu, Ibiassucê, Ibicaraí, Ibicoara, Ibicuí, Ibipeba, Ibipitanga, Ibiquera, Ibirapitanga, Ibirapuã, Ibirataia, Ibitiara, Ibititá, Ibotirama, Ichu, Igaporã, Igrapiúna, Iguaí, Ilhéus, Inhambupe, Ipecaetá, Ipiaú, Ipirá, Ipupiara, Irajuba, Iramaia, Iraquara, Irará, Irecê, Itabela, Itaberaba, Itabuna, Itacaré, Itaeté, Itagi, Itagibá, Itagimirim, Itaguaçu da Bahia, Itaju do Colônia, Itajuípe, Itamaraju, Itamari, Itambé, Itanagra, Itanhém, Itaparica, Itapé, Itapebi, Itapetinga, Itapicuru, Itapitanga, Itaquara, Itarantim, Itatim, Itiruçu, Itiúba, Itororó, Ituaçu, Ituberá, Iuiu, Jaborandi, Jacaraci, Jacobina, Jaguaquara, Jaguarari, Jaguaripe, Jandaíra, Jequié, Jeremoabo, Jiquiriçá, Jitaúna, João Dourado, Juazeiro, Jucuruçu, Jussara, Jussari, Jussiape, Lafaiete Coutinho, Lagoa Real, Laje, Lajedão, Lajedinho, Lajedo do Tabocal, Lamarão, Lapão, Lauro de Freitas, Lençóis, Licínio de Almeida, Livramento de Nossa Senhora, Luís Eduardo Magalhães, Macajuba, Macarani, Macaúbas, Macururé, Madre de Deus, Maetinga, Maiquinique, Mairi, Malhada, Malhada de Pedras, Manoel Vitorino, Mansidão, Maracás, Maragogipe, Maraú, Marcionílio Souza, Mascote, Mata de São João, Matina, Medeiros Neto, Miguel Calmon, Milagres, Mirangaba, Mirante, Monte Santo, Morpará, Morro do Chapéu, Mortugaba, Mucugê, Mucuri, Mulungu do Morro, Mundo Novo, Muniz Ferreira, Muquém do São Francisco, Muritiba, Mutuípe, Nazaré, Nilo Peçanha, Nordestina, Nova Canaã, Nova Fátima, Nova Ibiá, Nova Itarana, Nova Redenção, Nova Soure, Nova Viçosa, Novo Horizonte, Novo Triunfo, Olindina, Oliveira dos Brejinhos, Ouriçangas, Ourolândia, Palmas de Monte Alto, Palmeiras, Paramirim, Paratinga, Paripiranga, Pau Brasil, Paulo Afonso, Pé de Serra, Pedrão, Pedro Alexandre, Piatã, Pilão Arcado, Pindaí, Pindobaçu, Pintadas, Piraí do Norte, Piripá, Piritiba, Planaltino, Planalto, Poções, Pojuca, Ponto Novo, Porto Seguro, Potiraguá, Prado, Presidente Dutra, Presidente Jânio Quadros, Presidente Tancredo Neves, Queimadas, Quijingue, Quixabeira, Rafael Jambeiro, Remanso, Retirolândia, Riachão das Neves, Riachão do Jacuípe, Riacho de Santana, Ribeira do Amparo, Ribeira do Pombal, Ribeirão do Largo, Rio de Contas, Rio do Antônio, Rio do Pires, Rio Real, Rodelas, Ruy Barbosa, Salinas da Margarida, Salvador, Santa Bárbara, Santa Brígida, Santa Cruz Cabrália, Santa Cruz da Vitória, Santa Inês, Santa Luzia, Santa Maria da Vitória, Santa Rita de Cássia, Santa Terezinha, Santaluz, Santana, Santanópolis, Santo Amaro, Santo Antônio de Jesus, Santo Estêvão, São Desidério, São Domingos, São Felipe, São Félix, São Félix do Coribe, São Francisco do Conde, São Gabriel, São Gonçalo dos Campos, São José da Vitória, São José do Jacuípe, São Miguel das Matas, São Sebastião do Passé, Sapeaçu, Sátiro Dias, Saubara, Saúde, Seabra, Sebastião Laranjeiras, Senhor do Bonfim, Sento Sé, Serra do Ramalho, Serra Dourada, Serra Preta, Serrinha, Serrolândia, Simões Filho, Sítio do Mato, Sítio do Quinto, Sobradinho, Souto Soares, Tabocas do Brejo Velho, Tanhaçu, Tanque Novo, Tanquinho, Taperoá, Tapiramutá, Teixeira de Freitas, Teodoro Sampaio, Teofilândia, Teolândia, Terra Nova, Tremedal, Tucano, Uauá, Ubaíra, Ubaitaba, Ubatã, Uibaí, Umburanas, Una, Urandi, Uruçuca, Utinga, Valença, Valente, Várzea da Roça, Várzea do Poço, Várzea Nova, Varzedo, Vera Cruz, Vereda, Vitória da Conquista, Wagner, Wanderley, Wenceslau Guimarães e Xique-Xique.",Endereço 144,Nazaré,40.040-465,Salvador/BA,144email@emailfalso.com
+Empresa 145,Empresa 145,Trabalhador,Categoria 145,*São Paulo*: Cosmópolis.,Endereço 145,centro,13.150-000,Cosmópolis/SP,145email@emailfalso.com
+Empresa 146,Empresa 146,Trabalhador,Categoria 146,*Mato Grosso do Sul*.,Endereço 146,Amambaí,79.008-100,Campo Grande/MS,146email@emailfalso.com
+Empresa 147,Empresa 147,Trabalhador,Categoria 147,"*Santa Catarina*: Abelardo Luz, Águas de Chapecó, Águas Frias, Bom Jesus, Caibi, Caxambu do Sul, Chapecó, Cordilheira Alta, Coronel Freitas, Coronel Martins, Cunha Porã, Cunhataí, Entre Rios, Faxinal dos Guedes, Flor do Sertão, Formosa do Sul, Galvão, Guatambú, Ipuaçu, Iraceminha, Irati, Jardinópolis, Jupiá, Lajeado Grande, Maravilha, Marema, Modelo, Nova Erechim, Nova Itaberaba, Novo Horizonte, Ouro Verde, Palmitos, Passos Maia, Pinhalzinho, Planalto Alegre, Ponte Serrada, Quilombo, São Carlos, São Domingos, São Miguel da Boa Vista, Saudades, Serra Alta, Sul Brasil, Tigrinhos, União do Oeste, Vargeão, Xanxerê e Xaxim.",Endereço 147,Centro,89.801-040,Chapecó/SC,147email@emailfalso.com
+Empresa 148,Empresa 148,Trabalhador,Categoria 148,*São Paulo*: Dobrada.,Endereço 148,Nova Dobrada,15.980-000,Dobrada/SP,148email@emailfalso.com
+Empresa 149,Empresa 149,Trabalhador,Categoria 149,*Paraná*: Lindoeste.,Endereço 149,centro,85.826-000,Lindoeste/PR,149email@emailfalso.com
+Empresa 150,Empresa 150,Trabalhador,Categoria 150,*Pernambuco*: Feira Nova.,Endereço 150,centro,55.715-000,Feira Nova/PE,150email@emailfalso.com
+Empresa 151,Empresa 151,Trabalhador,Categoria 151,*Bahia*: Muritiba.,Endereço 151,Centro,44.340-000,Muritiba/BA,151email@emailfalso.com
+Empresa 152,Empresa 152,Trabalhador,Categoria 152,*Mato Grosso*: Campo Novo do Parecis.,Endereço 152,Centro,78.360-000,Campo Novo do Parecis/MT,152email@emailfalso.com
+Empresa 153,Empresa 153,Trabalhador,Categoria 153,*Minas Gerais*: Claro dos Poções.,Endereço 153,CENTRO,39.380-000,Claro dos Poções/MG,153email@emailfalso.com
+Empresa 154,Empresa 154,Trabalhador,Categoria 154,*São Paulo*: Salto de Pirapora.,Endereço 154,Campo Largo,18.160-000,Salto de Pirapora/SP,154email@emailfalso.com
+Empresa 155,Empresa 155,Trabalhador,Categoria 155,*Rio Grande do Sul*.,Endereço 155,Centro,90.020-007,Porto Alegre/RS,155email@emailfalso.com
+Empresa 156,Empresa 156,Trabalhador,Categoria 156,*Goiás*.,Endereço 156,Aeroviário,74.435-250,Goiânia/GO,156email@emailfalso.com
+Empresa 157,Empresa 157,Trabalhador,Categoria 157,*São Paulo*: Quatá.,Endereço 157,centro,19.780-000,Quatá/SP,157email@emailfalso.com
+Empresa 158,Empresa 158,Trabalhador,Categoria 158,*São Paulo*: Santa Cruz do Rio Pardo.,Endereço 158,Estação,18.900-000,Santa Cruz do Rio Pardo/SP,158email@emailfalso.com
+Empresa 159,Empresa 159,Trabalhador,Categoria 159,*São Paulo*: Iracemápolis.,Endereço 159,Centro,13.495-000,Iracemápolis/SP,159email@emailfalso.com
+Empresa 160,Empresa 160,Trabalhador,Categoria 160,*São Paulo*.,Endereço 160,Belenzinho,03.059-040,São Paulo/SP,160email@emailfalso.com
+Empresa 161,Empresa 161,Trabalhador,Categoria 161,*Rio Grande do Sul*.,Endereço 161,Centro,90.020-022,Porto Alegre/RS,161email@emailfalso.com
+Empresa 162,Empresa 162,Trabalhador,Categoria 162,*Rio Grande do Sul*.,Endereço 162,Floresta,90.035-030,Porto Alegre/RS,162email@emailfalso.com
+Empresa 163,Empresa 163,Trabalhador,Categoria 163,*Rio Grande do Sul*: Porto Alegre.,Endereço 163,Centro Histórico,90.010-460,Porto Alegre/RS,163email@emailfalso.com
+Empresa 164,Empresa 164,Trabalhador,Categoria 164,*Rio Grande do Sul*.,Endereço 164,Centro,98.801-630,Santo Ângelo/RS,164email@emailfalso.com
+Empresa 165,Empresa 165,Trabalhador,Categoria 165,*Rio Grande do Sul*.,Endereço 165,Navegantes,90.230-100,Porto Alegre/RS,165email@emailfalso.com
+Empresa 166,Empresa 166,Trabalhador,Categoria 166,*Rio Grande do Sul*.,Endereço 166,Centro,90.020-007,Porto Alegre/RS,166email@emailfalso.com
+Empresa 167,Empresa 167,Trabalhador,Categoria 167,*Rio Grande do Sul*.,Endereço 167,Centro Histórico,90.020-005,Porto Alegre/RS,167email@emailfalso.com
+Empresa 168,Empresa 168,Trabalhador,Categoria 168,*Rio Grande do Sul*.,Endereço 168,Azenha,90.160-093,Porto Alegre/RS,168email@emailfalso.com
+Empresa 169,Empresa 169,Trabalhador,Categoria 169,*Rio Grande do Sul*.,Endereço 169,Centro,90.010-140,Porto Alegre/RS,169email@emailfalso.com
+Empresa 170,Empresa 170,Trabalhador,Categoria 170,*Rio Grande do Sul*.,Endereço 170,Centro Histórico,90.020-123,Porto Alegre/RS,170email@emailfalso.com
+Empresa 171,Empresa 171,Trabalhador,Categoria 171,*Rio Grande do Sul*: Uruguaiana.,Endereço 171,Centro,97.500-180,Uruguaiana/RS,171email@emailfalso.com
+Empresa 172,Empresa 172,Trabalhador,Categoria 172,*Rio Grande do Sul*.,Endereço 172,Azenha,90.050-110,Porto Alegre/RS,172email@emailfalso.com
+Empresa 173,Empresa 173,Trabalhador,Categoria 173,*Rio Grande do Sul*.,Endereço 173,Centro,90.020-008,Porto Alegre/RS,173email@emailfalso.com
+Empresa 174,Empresa 174,Trabalhador,Categoria 174,*Rio Grande do Sul*: Torres.,Endereço 174,Centro,95.560-000,Torres/RS,174email@emailfalso.com
+Empresa 175,Empresa 175,Trabalhador,Categoria 175,*Rio Grande do Sul*: Sant'Ana do Livramento.,Endereço 175,Centro,97.573-470,Santana do Livramento/RS,175email@emailfalso.com
+Empresa 176,Empresa 176,Trabalhador,Categoria 176,*Rio Grande do Sul*: São Lourenço do Sul.,Endereço 176,Centro,96.170-000,São Lourenço do Sul/RS,176email@emailfalso.com
+Empresa 177,Empresa 177,Trabalhador,Categoria 177,*Rio Grande do Sul*: Porto Alegre.,Endereço 177,Centro Histórico,90.010-300,Porto Alegre/RS,177email@emailfalso.com
+Empresa 178,Empresa 178,Trabalhador,Categoria 178,*Rio Grande do Sul*: Osório.,Endereço 178,Centro,95.520-000,Osório/RS,178email@emailfalso.com
+Empresa 179,Empresa 179,Trabalhador,Categoria 179,*Rio Grande do Sul*.,Endereço 179,Centro,90.020-123,Porto Alegre/RS,179email@emailfalso.com
+Empresa 180,Empresa 180,Trabalhador,Categoria 180,*Paraná*: Primeiro de Maio.,Endereço 180,Popular Velha,86.140-000,Primeiro de Maio/PR,180email@emailfalso.com
+Empresa 181,Empresa 181,Trabalhador,Categoria 181,*Espírito Santo*: Anchieta.,Endereço 181,Oliveira,29.230-000,Anchieta/ES,181email@emailfalso.com
+Empresa 182,Empresa 182,Trabalhador,Categoria 182,*Mato Grosso*: Porto Esperidião.,Endereço 182,PQ MARIA DA CONCEIÇÃ,78.240-000,Porto Esperidião/MT,182email@emailfalso.com
+Empresa 183,Empresa 183,Trabalhador,Categoria 183,*Rio Grande do Sul*: Sinimbu.,Endereço 183,Centro,96.890-000,Sinimbu/RS,183email@emailfalso.com
+Empresa 184,Empresa 184,Trabalhador,Categoria 184,*Sergipe*.,Endereço 184,Siqueira Campos,49.075-540,Aracaju/SE,184email@emailfalso.com
+Empresa 185,Empresa 185,Trabalhador,Categoria 185,*Amapá*: Santana.,Endereço 185,Paraíso,68.925-000,Santana/AP,185email@emailfalso.com
+Empresa 186,Empresa 186,Trabalhador,Categoria 186,*São Paulo*: Jundiaí.,Endereço 186,Vila Rafael de Oliveira,13.201-100,Jundiaí/SP,186email@emailfalso.com
+Empresa 187,Empresa 187,Trabalhador,Categoria 187,*Roraima*.,Endereço 187,Centro,69.301-120,Boa Vista/RR,187email@emailfalso.com
+Empresa 188,Empresa 188,Trabalhador,Categoria 188,*Pará*.,Endereço 188,Umarizal,66.050-240,Belém/PA,188email@emailfalso.com
+Empresa 189,Empresa 189,Trabalhador,Categoria 189,*Pernambuco*: Paulista.,Endereço 189,Centro,53.401-500,Paulista/PE,189email@emailfalso.com
+Empresa 190,Empresa 190,Trabalhador,Categoria 190,*Ceará*.,Endereço 190,Benfica,60.020-180,Fortaleza/CE,190email@emailfalso.com
+Empresa 191,Empresa 191,Trabalhador,Categoria 191,*Rio Grande do Sul*: Arvorezinha.,Endereço 191,,95.995-000,Arvorezinha/RS,191email@emailfalso.com
+Empresa 192,Empresa 192,Trabalhador,Categoria 192,*Minas Gerais*.,Endereço 192,Centro,30.130-003,Belo Horizonte/MG,192email@emailfalso.com
+Empresa 193,Empresa 193,Trabalhador,Categoria 193,*Pernambuco*: Abreu e Lima.,Endereço 193,Alto São Miguel,53.565-250,Abreu e Lima/PE,193email@emailfalso.com
+Empresa 194,Empresa 194,Trabalhador,Categoria 194,*São Paulo*: Piracicaba.,Endereço 194,Alto,13.419-030,Piracicaba/SP,194email@emailfalso.com
+Empresa 195,Empresa 195,Trabalhador,Categoria 195,*Minas Gerais*: Lavras.,Endereço 195,CENTRO,37.200-000,Lavras/MG,195email@emailfalso.com
+Empresa 196,Empresa 196,Trabalhador,Categoria 196,*Rio Grande do Sul*: Independência.,Endereço 196,Centro,98.915-000,Independência/RS,196email@emailfalso.com
+Empresa 197,Empresa 197,Trabalhador,Categoria 197,*Maranhão*.,Endereço 197,Vinhais,65.070-380,São Luís/MA,197email@emailfalso.com
+Empresa 198,Empresa 198,Trabalhador,Categoria 198,*Paraíba*.,Endereço 198,Estrada de Cabedelo,58.310-000,Cabedelo/PB,198email@emailfalso.com
+Empresa 199,Empresa 199,Trabalhador,Categoria 199,*Paraná*.,Endereço 199,Centro,80.010-200,Curitiba/PR,199email@emailfalso.com
+Empresa 200,Empresa 200,Trabalhador,Categoria 200,"*Rondônia*: Alta Floresta D'Oeste, Alto Alegre dos Parecis, Alto Paraíso, Alvorada D'Oeste, Ariquemes, Buritis, Cabixi, Cacaulândia, Cacoal, Campo Novo de Rondônia, Castanheiras, Cerejeiras, Chupinguaia, Colorado do Oeste, Corumbiara, Costa Marques, Cujubim, Espigão D'Oeste, Governador Jorge Teixeira, Guajará-Mirim, Itapuã do Oeste, Jaru, Ji-Paraná, Machadinho D'Oeste, Ministro Andreazza, Mirante da Serra, Monte Negro, Nova Brasilândia D'Oeste, Nova Mamoré, Nova União, Novo Horizonte do Oeste, Ouro Preto do Oeste, Parecis, Pimenta Bueno, Pimenteiras do Oeste, Porto Velho, Presidente Médici, Primavera de Rondônia, Rio Crespo, Rolim de Moura, Santa Luzia D'Oeste, São Felipe D'Oeste, São Francisco do Guaporé, São Miguel do Guaporé, Seringueiras, Teixeirópolis, Theobroma, Urupá, Vale do Anari, Vale do Paraíso e Vilhena.",Endereço 200,Centro,76.801-105,Porto Velho/RO,200email@emailfalso.com
+Empresa 201,Empresa 201,Trabalhador,Categoria 201,*Goiás*.,Endereço 201,Expansul,74.986-310,Aparecida de Goiânia/GO,201email@emailfalso.com
+Empresa 202,Empresa 202,Trabalhador,Categoria 202,*Maranhão*: Alcântara.,Endereço 202,centro,65.250-000,Alcântara/MA,202email@emailfalso.com
+Empresa 203,Empresa 203,Trabalhador,Categoria 203,*Paraná*: Palmas.,Endereço 203,Santuário,85.555-000,Palmas/PR,203email@emailfalso.com
+Empresa 204,Empresa 204,Trabalhador,Categoria 204,*Sergipe*.,Endereço 204,Ponto Novo,49.097-670,Aracaju/SE,204email@emailfalso.com
+Empresa 205,Empresa 205,Trabalhador,Categoria 205,*Piauí*: Teresina.,Endereço 205,Centro,64.000-240,Teresina/PI,205email@emailfalso.com
+Empresa 206,Empresa 206,Trabalhador,Categoria 206,*Espírito Santo*: Itapemirim.,Endereço 206,Serra mar,29.330-000,Itapemirim/ES,206email@emailfalso.com
+Empresa 207,Empresa 207,Trabalhador,Categoria 207,*Ceará*: Missão Velha.,Endereço 207,CENTRO,63.200-000,Missão Velha/CE,207email@emailfalso.com
+Empresa 208,Empresa 208,Trabalhador,Categoria 208,*Minas Gerais*.,Endereço 208,Centro,36.060-010,Juiz de Fora/MG,208email@emailfalso.com
+Empresa 209,Empresa 209,Trabalhador,Categoria 209,*Santa Catarina*: Tijucas.,Endereço 209,Centro,88.200-000,Tijucas/SC,209email@emailfalso.com
+Empresa 210,Empresa 210,Trabalhador,Categoria 210,,Endereço 210,,,Brasília/DF,210email@emailfalso.com
+Empresa 211,Empresa 211,Trabalhador,Categoria 211,*Alagoas*.,Endereço 211,Poço,57.025-340,Maceió/AL,211email@emailfalso.com
+Empresa 212,Empresa 212,Trabalhador,Categoria 212,*Espírito Santo*: Marechal Floriano.,Endereço 212,CENTRO,29.255-000,Marechal Floriano/ES,212email@emailfalso.com
+Empresa 213,Empresa 213,Trabalhador,Categoria 213,"*Paraná*: Capanema, Pérola d'Oeste e Planalto.",Endereço 213,CENTRO,85.750-000,Planalto/PR,213email@emailfalso.com
+Empresa 214,Empresa 214,Trabalhador,Categoria 214,*Ceará*: Jaguaruana.,Endereço 214,,62.823-000,Jaguaruana/CE,214email@emailfalso.com
+Empresa 215,Empresa 215,Trabalhador,Categoria 215,*São Paulo*: Agudos.,Endereço 215,Centro,17.120-000,Agudos/SP,215email@emailfalso.com
+Empresa 216,Empresa 216,Trabalhador,Categoria 216,*Minas Gerais*: Boa Esperança.,Endereço 216,CENTRO,37.170-000,Boa Esperança/MG,216email@emailfalso.com
+Empresa 217,Empresa 217,Trabalhador,Categoria 217,*Minas Gerais*.,Endereço 217,Califórnia,30.855-450,Belo Horizonte/MG,217email@emailfalso.com
+Empresa 218,Empresa 218,Trabalhador,Categoria 218,*Paraná*: Cornélio Procópio.,Endereço 218,centro,86.300-000,Cornélio Procópio/PR,218email@emailfalso.com
+Empresa 219,Empresa 219,Trabalhador,Categoria 219,*Rondônia*: Espigão D'Oeste.,Endereço 219,Vista Alegre,76.974-000,Espigão do Oeste/RO,219email@emailfalso.com
+Empresa 220,Empresa 220,Trabalhador,Categoria 220,"*Maranhão*: Amapá do Maranhão, Araguanã, Boa Vista do Gurupi, Cândido Mendes, Carutapera, Centro do Guilherme, Centro Novo do Maranhão, Godofredo Viana, Governador Newton Bello, Governador Nunes Freire, Junco do Maranhão, Luís Domingues, Maracaçumé, Maranhãozinho, Nova Olinda do Maranhão, Presidente Médici, Santa Luzia do Paruá e Zé Doca.",Endereço 220,Vila Gusmão,65.365-000,Zé Doca/MA,220email@emailfalso.com
+Empresa 221,Empresa 221,Trabalhador,Categoria 221,*Mato Grosso*.,Endereço 221,Morada do Ouro - Setor Norte,78.053-505,Cuiabá/MT,221email@emailfalso.com
+Empresa 222,Empresa 222,Trabalhador,Categoria 222,*Piauí*.,Endereço 222,Centro,64.000-360,Teresina/PI,222email@emailfalso.com
+Empresa 223,Empresa 223,Trabalhador,Categoria 223,*Paraná*: São Jorge d'Oeste.,Endereço 223,CENTRO,85.575-000,São Jorge D`Oeste/PR,223email@emailfalso.com
+Empresa 224,Empresa 224,Trabalhador,Categoria 224,*Bahia*: Poções.,Endereço 224,Santa Felicidade,45.260-000,Poções/BA,224email@emailfalso.com
+Empresa 225,Empresa 225,Trabalhador,Categoria 225,*São Paulo*: Paulínia.,Endereço 225,Nova Paulínia,13.140-287,Paulínia/SP,225email@emailfalso.com
+Empresa 226,Empresa 226,Trabalhador,Categoria 226,*Amapá*.,Endereço 226,Alvorada,68.906-698,Macapá/AP,226email@emailfalso.com
+Empresa 227,Empresa 227,Trabalhador,Categoria 227,*Ceará*.,Endereço 227,Meireles,60.115-000,Fortaleza/CE,227email@emailfalso.com
+Empresa 228,Empresa 228,Trabalhador,Categoria 228,*Pará*.,Endereço 228,Nazaré,66.040-180,Belém/PA,228email@emailfalso.com
+Empresa 229,Empresa 229,Trabalhador,Categoria 229,*Paraná*: Mandirituba.,Endereço 229,Centro,83.800-000,Mandirituba/PR,229email@emailfalso.com
+Empresa 230,Empresa 230,Trabalhador,Categoria 230,*Distrito Federal*.,Endereço 230,Asa Norte,70.753-530,Brasília/DF,230email@emailfalso.com
+Empresa 231,Empresa 231,Trabalhador,Categoria 231,*Piauí*.,Endereço 231,Centro,64.001-110,Teresina/PI,231email@emailfalso.com
+Empresa 232,Empresa 232,Trabalhador,Categoria 232,*São Paulo*: Mauá.,Endereço 232,Vila Bocaina,09.310-130,Mauá/SP,232email@emailfalso.com
+Empresa 233,Empresa 233,Trabalhador,Categoria 233,"*São Paulo*: Américo de Campos, Bálsamo, Mirassolândia e Tanabi.",Endereço 233,Centro,15.170-000,Tanabi/SP,233email@emailfalso.com
+Empresa 234,Empresa 234,Trabalhador,Categoria 234,*São Paulo*: Matão.,Endereço 234,Centro,15.990-020,Matão/SP,234email@emailfalso.com
+Empresa 235,Empresa 235,Trabalhador,Categoria 235,*Minas Gerais*: Ressaquinha.,Endereço 235,Centro,36.270-000,Ressaquinha/MG,235email@emailfalso.com
+Empresa 236,Empresa 236,Trabalhador,Categoria 236,*Mato Grosso do Sul*: Rio Brilhante.,Endereço 236,Progresso,79.130-000,Rio Brilhante/MS,236email@emailfalso.com
+Empresa 237,Empresa 237,Trabalhador,Categoria 237,*Minas Gerais*: Padre Paraíso.,Endereço 237,CENTRO,39.818-000,Padre Paraíso/MG,237email@emailfalso.com
+Empresa 238,Empresa 238,Trabalhador,Categoria 238,*Pará*.,Endereço 238,Campina,66.010-080,Belém/PA,238email@emailfalso.com
+Empresa 239,Empresa 239,Trabalhador,Categoria 239,"*Goiás*: Abadia de Goiás, Abadiânia, Acreúna, Adelândia, Água Fria de Goiás, Água Limpa, Águas Lindas de Goiás, Alexânia, Aloândia, Alto Horizonte, Alto Paraíso de Goiás, Alvorada do Norte, Amaralina, Americano do Brasil, Amorinópolis, Anápolis, Anhanguera, Anicuns, Aparecida de Goiânia, Aparecida do Rio Doce, Aporé, Araçu, Aragarças, Aragoiânia, Araguapaz, Arenópolis, Aruanã, Aurilândia, Avelinópolis, Baliza, Barro Alto, Bela Vista de Goiás, Bom Jardim de Goiás, Bom Jesus de Goiás, Bonfinópolis, Bonópolis, Brazabrantes, Britânia, Buriti Alegre, Buriti de Goiás, Buritinópolis, Cabeceiras, Cachoeira Alta, Cachoeira de Goiás, Cachoeira Dourada, Caçu, Caiapônia, Caldas Novas, Caldazinha, Campestre de Goiás, Campinaçu, Campinorte, Campo Alegre de Goiás, Campo Limpo de Goiás, Campos Belos, Campos Verdes, Carmo do Rio Verde, Castelândia, Catalão, Caturaí, Cavalcante, Ceres, Cezarina, Chapadão do Céu, Cidade Ocidental, Cocalzinho de Goiás, Colinas do Sul, Córrego do Ouro, Corumbá de Goiás, Corumbaíba, Cristalina, Cristianópolis, Crixás, Cromínia, Cumari, Damianópolis, Damolândia, Davinópolis, Diorama, Divinópolis de Goiás, Doverlândia, Edealina, Edéia, Estrela do Norte, Faina, Fazenda Nova, Firminópolis, Flores de Goiás, Formosa, Formoso, Gameleira de Goiás, Goianápolis, Goiandira, Goianésia, Goiânia, Goianira, Goiás, Goiatuba, Gouvelândia, Guapó, Guaraíta, Guarani de Goiás, Guarinos, Heitoraí, Hidrolândia, Hidrolina, Iaciara, Inaciolândia, Indiara, Inhumas, Ipameri, Ipiranga de Goiás, Iporá, Israelândia, Itaberaí, Itaguari, Itaguaru, Itajá, Itapaci, Itapirapuã, Itapuranga, Itarumã, Itauçu, Itumbiara, Ivolândia, Jandaia, Jaraguá, Jataí, Jaupaci, Jesúpolis, Joviânia, Jussara, Lagoa Santa, Leopoldo de Bulhões, Luziânia, Mairipotaba, Mambaí, Mara Rosa, Marzagão, Matrinchã, Maurilândia, Mimoso de Goiás, Minaçu, Mineiros, Moiporá, Monte Alegre de Goiás, Montes Claros de Goiás, Montividiu, Montividiu do Norte, Morrinhos, Morro Agudo de Goiás, Mossâmedes, Mozarlândia, Mundo Novo, Mutunópolis, Nazário, Nerópolis, Niquelândia, Nova América, Nova Aurora, Nova Crixás, Nova Glória, Nova Iguaçu de Goiás, Nova Roma, Nova Veneza, Novo Brasil, Novo Gama, Novo Planalto, Orizona, Ouro Verde de Goiás, Ouvidor, Padre Bernardo, Palestina de Goiás, Palmeiras de Goiás, Palmelo, Palminópolis, Panamá, Paranaiguara, Paraúna, Perolândia, Petrolina de Goiás, Pilar de Goiás, Piracanjuba, Piranhas, Pirenópolis, Pires do Rio, Planaltina, Pontalina, Porangatu, Porteirão, Portelândia, Posse, Professor Jamil, Quirinópolis, Rialma, Rianápolis, Rio Quente, Rubiataba, Sanclerlândia, Santa Bárbara de Goiás, Santa Cruz de Goiás, Santa Fé de Goiás, Santa Helena de Goiás, Santa Isabel, Santa Rita do Araguaia, Santa Rita do Novo Destino, Santa Rosa de Goiás, Santa Tereza de Goiás, Santa Terezinha de Goiás, Santo Antônio da Barra, Santo Antônio de Goiás, Santo Antônio do Descoberto, São Domingos, São Francisco de Goiás, São João da Paraúna, São João d'Aliança, São Luís de Montes Belos, São Luiz do Norte, São Miguel do Araguaia, São Miguel do Passa Quatro, São Patrício, São Simão, Senador Canedo, Serranópolis, Silvânia, Simolândia, Sítio d'Abadia, Taquaral de Goiás, Teresina de Goiás, Terezópolis de Goiás, Três Ranchos, Trindade, Trombas, Turvânia, Turvelândia, Uirapuru, Uruaçu, Uruana, Urutaí, Valparaíso de Goiás, Varjão, Vianópolis, Vicentinópolis, Vila Boa e Vila Propício.",Endereço 239,Setor Coimbra,74.535-030,Goiânia/GO,239email@emailfalso.com
+Empresa 240,Empresa 240,Trabalhador,Categoria 240,*Sergipe*.,Endereço 240,Atalaia,49.037-510,Aracaju/SE,240email@emailfalso.com
+Empresa 241,Empresa 241,Trabalhador,Categoria 241,*Minas Gerais*: Arcos.,Endereço 241,centro,35.588-000,Arcos/MG,241email@emailfalso.com
+Empresa 242,Empresa 242,Trabalhador,Categoria 242,*São Paulo*: Borborema.,Endereço 242,Centro,14.955-000,Borborema/SP,242email@emailfalso.com
+Empresa 243,Empresa 243,Trabalhador,Categoria 243,*São Paulo*: Bauru.,Endereço 243,Centro,17.015-350,Bauru/SP,243email@emailfalso.com
+Empresa 244,Empresa 244,Trabalhador,Categoria 244,*Rio Grande do Norte*.,Endereço 244,Cidade Alta,59.025-370,Natal/RN,244email@emailfalso.com
+Empresa 245,Empresa 245,Trabalhador,Categoria 245,*Bahia*: Nordestina e Queimadas.,Endereço 245,CENTRO,48.860-000,Queimadas/BA,245email@emailfalso.com
+Empresa 246,Empresa 246,Trabalhador,Categoria 246,"*Paraná*: Alvorada do Sul, Apucarana, Arapongas, Assaí, Bela Vista do Paraíso, Bom Sucesso, Borrazópolis, Cafeara, Califórnia, Cambé, Cambira, Centenário do Sul, Congonhinhas, Cornélio Procópio, Faxinal, Florestópolis, Grandes Rios, Guaraci, Ibiporã, Ivaiporã, Jaguapitã, Jandaia do Sul, Jardim Alegre, Jataizinho, Kaloré, Leópolis, Londrina, Lunardelli, Lupionópolis, Mandaguari, Manoel Ribas, Marilândia do Sul, Marumbi, Miraselva, Nova América da Colina, Nova Fátima, Porecatu, Primeiro de Maio, Rancho Alegre, Rio Bom, Rolândia, Rosário do Ivaí, Sabáudia, Santa Cecília do Pavão, Santa Mariana, Santo Antônio do Paraíso, São Jerônimo da Serra, São João do Ivaí, São Pedro do Ivaí, São Sebastião da Amoreira, Sertaneja, Sertanópolis e Uraí.",Endereço 246,Centro,86.010-210,Londrina/PR,246email@emailfalso.com
+Empresa 247,Empresa 247,Trabalhador,Categoria 247,*Bahia*: Capela do Alto Alegre.,Endereço 247,CENTRO,44.645-000,Capela do Alto Alegre/BA,247email@emailfalso.com
+Empresa 248,Empresa 248,Trabalhador,Categoria 248,*Sergipe*: Canindé de São Francisco.,Endereço 248,Centro,49.820-000,Canindé de São Francisco/SE,248email@emailfalso.com
+Empresa 249,Empresa 249,Trabalhador,Categoria 249,*Distrito Federal*.,Endereço 249,Asa Norte,70.910-900,Brasília/DF,249email@emailfalso.com
+Empresa 250,Empresa 250,Trabalhador,Categoria 250,*Paraná*: Cândido de Abreu.,Endereço 250,Jardim Bela Vista,84.470-000,Cândido de Abreu/PR,250email@emailfalso.com
+Empresa 251,Empresa 251,Trabalhador,Categoria 251,*Alagoas*: Arapiraca.,Endereço 251,Centro,57.300-340,Arapiraca/AL,251email@emailfalso.com
+Empresa 252,Empresa 252,Trabalhador,Categoria 252,*Mato Grosso*.,Endereço 252,Poção,78.015-630,Cuiabá/MT,252email@emailfalso.com
+Empresa 253,Empresa 253,Trabalhador,Categoria 253,"*Maranhão*: Altamira do Maranhão, Bacabal, Bom Lugar, Brejo de Areia, Conceição do Lago-Açu, Lago Verde, Marajá do Sena, Olho d'Água das Cunhãs, Paulo Ramos, São Luís Gonzaga do Maranhão e Vitorino Freire.",Endereço 253,Cururupu,65.700-000,Bacabal/MA,253email@emailfalso.com
+Empresa 254,Empresa 254,Trabalhador,Categoria 254,*Ceará*: Hidrolândia.,Endereço 254,Centro,62.270-000,Hidrolândia/CE,254email@emailfalso.com
+Empresa 255,Empresa 255,Trabalhador,Categoria 255,*Santa Catarina*: Rio Negrinho.,Endereço 255,CENTRO,89.295-000,Rio Negrinho/SC,255email@emailfalso.com
+Empresa 256,Empresa 256,Trabalhador,Categoria 256,*Ceará*: Aratuba.,Endereço 256,Centro,62.762-000,Aratuba/CE,256email@emailfalso.com
+Empresa 257,Empresa 257,Trabalhador,Categoria 257,*Paraná*: Ortigueira.,Endereço 257,centro,84.350-000,Ortigueira/PR,257email@emailfalso.com
+Empresa 258,Empresa 258,Trabalhador,Categoria 258,*Paraná*: Cambé e Londrina.,Endereço 258,Centro,86.010-510,Londrina/PR,258email@emailfalso.com
+Empresa 259,Empresa 259,Trabalhador,Categoria 259,*Rondônia*.,Endereço 259,São João Bosco,78.904-300,Porto Velho/RO,259email@emailfalso.com
+Empresa 260,Empresa 260,Trabalhador,Categoria 260,*Paraíba*: São João do Rio do Peixe.,Endereço 260,Centro,58.910-000,São João do Rio do Peixe/PB,260email@emailfalso.com
+Empresa 261,Empresa 261,Trabalhador,Categoria 261,*Santa Catarina*: Laguna.,Endereço 261,Centro,88.790-000,Laguna/SC,261email@emailfalso.com
+Empresa 262,Empresa 262,Trabalhador,Categoria 262,*Rio Grande do Norte*.,Endereço 262,Lagoa Nova,59.075-210,Natal/RN,262email@emailfalso.com
+Empresa 263,Empresa 263,Trabalhador,Categoria 263,*Paraná*: Iporã.,Endereço 263,CENTRO,87.560-000,Iporã/PR,263email@emailfalso.com
+Empresa 264,Empresa 264,Trabalhador,Categoria 264,*São Paulo*: Ubatuba.,Endereço 264,centro,11.680-000,Ubatuba/SP,264email@emailfalso.com
+Empresa 265,Empresa 265,Trabalhador,Categoria 265,*Pernambuco*: Santa Maria da Boa Vista.,Endereço 265,centro,56.380-000,Santa Maria da Boa Vista/PE,265email@emailfalso.com
+Empresa 266,Empresa 266,Trabalhador,Categoria 266,*Santa Catarina*: Curitibanos.,Endereço 266,Centro,89.520-000,Curitibanos/SC,266email@emailfalso.com
+Empresa 267,Empresa 267,Trabalhador,Categoria 267,*Santa Catarina*: Trombudo Central.,Endereço 267,Cetro,89.176-000,Trombudo Central/SC,267email@emailfalso.com
+Empresa 268,Empresa 268,Trabalhador,Categoria 268,*Pará*: Novo Repartimento.,Endereço 268,Parque Espigão.,68.473-000,Novo Repartimento/PA,268email@emailfalso.com
+Empresa 269,Empresa 269,Trabalhador,Categoria 269,*Pará*.,Endereço 269,Souza,66.613-080,Belém/PA,269email@emailfalso.com
+Empresa 270,Empresa 270,Trabalhador,Categoria 270,*Paraná*: Apucarana.,Endereço 270,Barra Funda,86.800-605,Apucarana/PR,270email@emailfalso.com
+Empresa 271,Empresa 271,Trabalhador,Categoria 271,*Paraná*.,Endereço 271,Bairro Alto,82.820-330,Curitiba/PR,271email@emailfalso.com
+Empresa 272,Empresa 272,Trabalhador,Categoria 272,*Paraná*: Icaraíma.,Endereço 272,Centro,87.530-000,Icaraíma/PR,272email@emailfalso.com
+Empresa 273,Empresa 273,Trabalhador,Categoria 273,*Paraná*: Paranavaí.,Endereço 273,Centro,87.702-050,Paranavaí/PR,273email@emailfalso.com
+Empresa 274,Empresa 274,Trabalhador,Categoria 274,*Paraná*.,Endereço 274,Centro,80.060-030,Curitiba/PR,274email@emailfalso.com
+Empresa 275,Empresa 275,Trabalhador,Categoria 275,*Santa Catarina*.,Endereço 275,Centro,88.015-010,Florianópolis/SC,275email@emailfalso.com
+Empresa 276,Empresa 276,Trabalhador,Categoria 276,*Santa Catarina*: Florianópolis.,Endereço 276,Centro,88.020-130,Florianópolis/SC,276email@emailfalso.com
+Empresa 277,Empresa 277,Trabalhador,Categoria 277,*Santa Catarina*.,Endereço 277,Campinas,88.101-000,São José/SC,277email@emailfalso.com
+Empresa 278,Empresa 278,Trabalhador,Categoria 278,*Santa Catarina*: Água Doce.,Endereço 278,Centro,89.654-000,Água Doce/SC,278email@emailfalso.com
+Empresa 279,Empresa 279,Trabalhador,Categoria 279,*Santa Catarina*: Joaçaba.,Endereço 279,Centro,89.600-000,Joaçaba/SC,279email@emailfalso.com
+Empresa 280,Empresa 280,Trabalhador,Categoria 280,*Santa Catarina*: Caçador.,Endereço 280,GIOPPO,89.500-000,Caçador/SC,280email@emailfalso.com
+Empresa 281,Empresa 281,Trabalhador,Categoria 281,*Santa Catarina*.,Endereço 281,Centro,88.020-600,Florianópolis/SC,281email@emailfalso.com
+Empresa 282,Empresa 282,Trabalhador,Categoria 282,*Paraná*.,Endereço 282,Batel,80.420-160,Curitiba/PR,282email@emailfalso.com
+Empresa 283,Empresa 283,Trabalhador,Categoria 283,*Paraná*.,Endereço 283,Rebouças,80.230-020,Curitiba/PR,283email@emailfalso.com
+Empresa 284,Empresa 284,Trabalhador,Categoria 284,*Maranhão*: São Luís.,Endereço 284,Centro,65.010-640,São Luís/MA,284email@emailfalso.com
+Empresa 285,Empresa 285,Trabalhador,Categoria 285,*Maranhão*: Açailândia.,Endereço 285,centro,65.930-000,Açailândia/MA,285email@emailfalso.com
+Empresa 286,Empresa 286,Trabalhador,Categoria 286,"*Alagoas*, *Ceará*, *Paraíba*, *Pernambuco*, *Piauí*, *Rio Grande do Norte* e *Sergipe*.",Endereço 286,Aldeota,60.170-002,Fortaleza/CE,286email@emailfalso.com
+Empresa 287,Empresa 287,Trabalhador,Categoria 287,*Paraná*.,Endereço 287,Alto da Rua XV,80.045-090,Curitiba/PR,287email@emailfalso.com
+Empresa 288,Empresa 288,Trabalhador,Categoria 288,*São Paulo*: Vinhedo.,Endereço 288,Centro,13.280-000,Vinhedo/SP,288email@emailfalso.com
+Empresa 289,Empresa 289,Trabalhador,Categoria 289,*São Paulo*: Ituverava.,Endereço 289,CENTRO,14.500-000,Ituverava/SP,289email@emailfalso.com
+Empresa 290,Empresa 290,Trabalhador,Categoria 290,*São Paulo*: São Paulo.,Endereço 290,República,01.047-010,São Paulo/SP,290email@emailfalso.com
+Empresa 291,Empresa 291,Trabalhador,Categoria 291,*Rio de Janeiro*.,Endereço 291,Vila da Penha,21.211-030,Rio de Janeiro/RJ,291email@emailfalso.com
+Empresa 292,Empresa 292,Trabalhador,Categoria 292,*São Paulo*: Aguaí.,Endereço 292,Centro,13.860-000,Aguaí/SP,292email@emailfalso.com
+Empresa 293,Empresa 293,Trabalhador,Categoria 293,*São Paulo*: Itatiba.,Endereço 293,Jardim Ipê,13.256-520,Itatiba/SP,293email@emailfalso.com
+Empresa 294,Empresa 294,Trabalhador,Categoria 294,*São Paulo*: Jardinópolis.,Endereço 294,CENTRO,14.680-000,Jardinópolis/SP,294email@emailfalso.com
+Empresa 295,Empresa 295,Trabalhador,Categoria 295,*São Paulo*: São Simão.,Endereço 295,Centro,14.200-000,São Simão/SP,295email@emailfalso.com
+Empresa 296,Empresa 296,Trabalhador,Categoria 296,*São Paulo*: São Joaquim da Barra.,Endereço 296,VILA MARTUS,14.600-000,São Joaquim da Barra/SP,296email@emailfalso.com
+Empresa 297,Empresa 297,Trabalhador,Categoria 297,"*São Paulo*: Arujá, Bom Jesus dos Perdões, Igaratá, Nazaré Paulista e Santa Isabel.",Endereço 297,Arujamérica,07.400-000,Arujá/SP,297email@emailfalso.com
+Empresa 298,Empresa 298,Trabalhador,Categoria 298,*São Paulo*.,Endereço 298,Centro,01.014-000,São Paulo/SP,298email@emailfalso.com
+Empresa 299,Empresa 299,Trabalhador,Categoria 299,"*Distrito Federal*, *Rio de Janeiro* e *São Paulo*.",Endereço 299,Cidade Universitária,13.083-859,Campinas/SP,299email@emailfalso.com
+Empresa 300,Empresa 300,Trabalhador,Categoria 300,*São Paulo*: Santa Bárbara d'Oeste.,Endereço 300,Centro,13.450-033,Santa Bárbara D`Oeste/SP,300email@emailfalso.com
+Empresa 301,Empresa 301,Trabalhador,Categoria 301,,Endereço 301,,,Brasília/DF,301email@emailfalso.com
+Empresa 302,Empresa 302,Trabalhador,Categoria 302,*São Paulo*.,Endereço 302,Vila Mariana,04.107-021,São Paulo/SP,302email@emailfalso.com
+Empresa 303,Empresa 303,Trabalhador,Categoria 303,*São Paulo*: São Paulo e Suzano.,Endereço 303,Pinheiros,05.406-000,São Paulo/SP,303email@emailfalso.com
+Empresa 304,Empresa 304,Trabalhador,Categoria 304,"*São Paulo*: Altinópolis, Américo Brasiliense, Aramina, Araraquara, Batatais, Boa Esperança do Sul, Borborema, Brodowski, Buritizal, Cajuru, Cássia dos Coqueiros, Cravinhos, Cristais Paulista, Descalvado, Dobrada, Dourado, Dumont, Franca, Guará, Ibaté, Ibitinga, Igarapava, Ipuã, Itapirapuã Paulista, Itápolis, Ituverava, Jardinópolis, Jeriquara, Luís Antônio, Matão, Miguelópolis, Morro Agudo, Nova Europa, Nuporanga, Orlândia, Patrocínio Paulista, Pedregulho, Pontal, Porto Ferreira, Restinga, Ribeirão Bonito, Ribeirão Corrente, Ribeirão Preto, Rifaina, Rincão, Sales Oliveira, Santa Lúcia, Santa Rita do Passa Quatro, Santa Rita d'Oeste, Santa Rosa de Viterbo, Santo Antônio da Alegria, São Carlos, São João da Boa Vista, São Joaquim da Barra, São Simão, Serra Azul, Serrana, Sertãozinho e Tabatinga.",Endereço 304,Campos Elíseos,14.085-460,Ribeirão Preto/SP,304email@emailfalso.com
+Empresa 305,Empresa 305,Trabalhador,Categoria 305,*São Paulo*: Votorantim.,Endereço 305,Jardim Paraíso,18.110-365,Votorantim/SP,305email@emailfalso.com
+Empresa 306,Empresa 306,Trabalhador,Categoria 306,*São Paulo*: Angatuba e Campina do Monte Alegre.,Endereço 306,CENTRO,18.240-000,Angatuba/SP,306email@emailfalso.com
+Empresa 307,Empresa 307,Trabalhador,Categoria 307,*São Paulo*: Pompéia.,Endereço 307,CENTRO,17.580-000,Pompéia/SP,307email@emailfalso.com
+Empresa 308,Empresa 308,Trabalhador,Categoria 308,"*São Paulo*: Assis, Avaré, Bauru, Marília, Mirandópolis, Pirajuí, Presidente Prudente, Presidente Venceslau e São José do Rio Preto.",Endereço 308,Centro,17.015-172,Bauru/SP,308email@emailfalso.com
+Empresa 309,Empresa 309,Trabalhador,Categoria 309,*São Paulo*.,Endereço 309,Sé,01.019-020,São Paulo/SP,309email@emailfalso.com
+Empresa 310,Empresa 310,Trabalhador,Categoria 310,*São Paulo*: São Paulo.,Endereço 310,Centro,01.012-010,São Paulo/SP,310email@emailfalso.com
+Empresa 311,Empresa 311,Trabalhador,Categoria 311,"*São Paulo*: Biritiba Mirim, Paraibuna, Salesópolis e Santa Branca.",Endereço 311,Centro,08.970-000,Salesópolis/SP,311email@emailfalso.com
+Empresa 312,Empresa 312,Trabalhador,Categoria 312,"*São Paulo*: Estiva Gerbi, Lindóia, Mogi Guaçu, Monte Alegre do Sul, Pedreira e Serra Negra.",Endereço 312,Parque Cidade Nova,13.845-426,Mogi Guaçu/SP,312email@emailfalso.com
+Empresa 313,Empresa 313,Trabalhador,Categoria 313,*São Paulo*: Campo Limpo Paulista.,Endereço 313,Vila Tavares,13.230-075,Campo Limpo Paulista/SP,313email@emailfalso.com
+Empresa 314,Empresa 314,Trabalhador,Categoria 314,*São Paulo*: Poá.,Endereço 314,Centro,08.550-350,Poá/SP,314email@emailfalso.com
+Empresa 315,Empresa 315,Trabalhador,Categoria 315,*São Paulo*: Suzano.,Endereço 315,Parque Suzano,08.673-000,Suzano/SP,315email@emailfalso.com
+Empresa 316,Empresa 316,Trabalhador,Categoria 316,"*São Paulo*: Bragança Paulista, Joanópolis, Pedra Bela, Piracaia, Tuiuti e Vargem.",Endereço 316,Jardim São Lourenço,12.908-592,Bragança Paulista/SP,316email@emailfalso.com
+Empresa 317,Empresa 317,Trabalhador,Categoria 317,*São Paulo*: Ribeirão Pires.,Endereço 317,Centro,09.400-130,Ribeirão Pires/SP,317email@emailfalso.com
+Empresa 318,Empresa 318,Trabalhador,Categoria 318,*São Paulo*: Presidente Venceslau.,Endereço 318,Vila Carmem,19.400-000,Presidente Venceslau/SP,318email@emailfalso.com
+Empresa 319,Empresa 319,Trabalhador,Categoria 319,*São Paulo*: Guaratinguetá.,Endereço 319,Santa Rita,12.502-080,Guaratinguetá/SP,319email@emailfalso.com
+Empresa 320,Empresa 320,Trabalhador,Categoria 320,*Paraná*: Ponta Grossa.,Endereço 320,Uvaranas,84.031-000,Ponta Grossa/PR,320email@emailfalso.com
+Empresa 321,Empresa 321,Trabalhador,Categoria 321,*Paraná*: Guarapuava.,Endereço 321,Centro,85.010-240,Guarapuava/PR,321email@emailfalso.com
+Empresa 322,Empresa 322,Trabalhador,Categoria 322,"*Paraná*: Nova Tebas, Palmital e Pitanga.",Endereço 322,Centro,85.200-000,Pitanga/PR,322email@emailfalso.com
+Empresa 323,Empresa 323,Trabalhador,Categoria 323,*Paraná*.,Endereço 323,Boa Vista,82.540-060,Curitiba/PR,323email@emailfalso.com
+Empresa 324,Empresa 324,Trabalhador,Categoria 324,*Santa Catarina*.,Endereço 324,Agronômica,88.025-260,Florianópolis/SC,324email@emailfalso.com
+Empresa 325,Empresa 325,Trabalhador,Categoria 325,"*Santa Catarina*: Botuverá, Brusque e Guabiruba.",Endereço 325,Centro,88.350-450,Brusque/SC,325email@emailfalso.com
+Empresa 326,Empresa 326,Trabalhador,Categoria 326,*Santa Catarina*.,Endereço 326,Centro,88.010-320,Florianópolis/SC,326email@emailfalso.com
+Empresa 327,Empresa 327,Trabalhador,Categoria 327,*Paraná*: Ponta Grossa.,Endereço 327,Centro,84.010-360,Ponta Grossa/PR,327email@emailfalso.com
+Empresa 328,Empresa 328,Trabalhador,Categoria 328,*Paraná*: Curitiba.,Endereço 328,Parolin,80.220-070,Curitiba/PR,328email@emailfalso.com
+Empresa 329,Empresa 329,Trabalhador,Categoria 329,*Paraná*: Curitiba.,Endereço 329,Rebouças,80.220-070,Curitiba/PR,329email@emailfalso.com
+Empresa 330,Empresa 330,Trabalhador,Categoria 330,*Paraná*.,Endereço 330,Cabral,80.035-030,Curitiba/PR,330email@emailfalso.com
+Empresa 331,Empresa 331,Trabalhador,Categoria 331,"*Santa Catarina*: Abdon Batista, Arroio Trinta, Brunópolis, Calmon, Fraiburgo, Frei Rogério, Ibiam, Ibicaré, Iomerê, Lebon Régis, Macieira, Matos Costa, Monte Carlo, Pinheiro Preto, Rio das Antas, Salto Veloso, São José do Cerrito, Tangará, Treze Tílias e Vargem.",Endereço 331,São José,89.580-000,Fraiburgo/SC,331email@emailfalso.com
+Empresa 332,Empresa 332,Trabalhador,Categoria 332,*Paraná*: Foz do Iguaçu e Santa Terezinha de Itaipu.,Endereço 332,Centro,85.851-220,Foz do Iguaçu/PR,332email@emailfalso.com
+Empresa 333,Empresa 333,Trabalhador,Categoria 333,*Paraná*: Santa Helena.,Endereço 333,Centro,85.892-000,Santa Helena/PR,333email@emailfalso.com
+Empresa 334,Empresa 334,Trabalhador,Categoria 334,"*Paraná*: Abatiá, Alvorada do Sul, Andirá, Apucarana, Arapongas, Assaí, Astorga, Bandeirantes, Barra do Jacaré, Bela Vista do Paraíso, Cafeara, Califórnia, Cambará, Cambé, Centenário do Sul, Congonhinhas, Conselheiro Mairinck, Cornélio Procópio, Curiúva, Faxinal, Florestópolis, Guapirama, Guaraci, Ibaiti, Ibiporã, Jacarezinho, Jaguapitã, Jataizinho, Jundiaí do Sul, Leópolis, Londrina, Lupionópolis, Marilândia do Sul, Miraselva, Nossa Senhora das Graças, Nova América da Colina, Nova Fátima, Ortigueira, Porecatu, Primeiro de Maio, Rancho Alegre, Ribeirão Claro, Ribeirão do Pinhal, Rio Bom, Rolândia, Sabáudia, Santa Amélia, Santa Cecília do Pavão, Santa Inês, Santa Mariana, Santo Antônio da Platina, Santo Inácio, São Jerônimo da Serra, São Sebastião da Amoreira, Sapopema, Sertaneja, Sertanópolis e Uraí.",Endereço 334,Canadá,86.020-480,Londrina/PR,334email@emailfalso.com
+Empresa 335,Empresa 335,Trabalhador,Categoria 335,*Rio de Janeiro*.,Endereço 335,Centro,20.230-010,Rio de Janeiro/RJ,335email@emailfalso.com
+Empresa 336,Empresa 336,Trabalhador,Categoria 336,*Bahia*.,Endereço 336,Barris,40.070-190,Salvador/BA,336email@emailfalso.com
+Empresa 337,Empresa 337,Trabalhador,Categoria 337,*Paraná*: Capitão Leônidas Marques.,Endereço 337,Centro,85.790-000,Capitão Leônidas Marques/PR,337email@emailfalso.com
+Empresa 338,Empresa 338,Trabalhador,Categoria 338,*Paraná*: Alvorada do Sul.,Endereço 338,centro,86.150-000,Alvorada do Sul/PR,338email@emailfalso.com
+Empresa 339,Empresa 339,Trabalhador,Categoria 339,*São Paulo*: Catanduva.,Endereço 339,Centro,15.800-080,Catanduva/SP,339email@emailfalso.com
+Empresa 340,Empresa 340,Trabalhador,Categoria 340,*São Paulo*: Birigui e Brejo Alegre.,Endereço 340,Jardim São Paulo,16.203-104,Birigüi/SP,340email@emailfalso.com
+Empresa 341,Empresa 341,Trabalhador,Categoria 341,*São Paulo*: Pereira Barreto.,Endereço 341,Jardim Universitário,15.370-000,Pereira Barreto/SP,341email@emailfalso.com
+Empresa 342,Empresa 342,Trabalhador,Categoria 342,*São Paulo*: São Bernardo do Campo.,Endereço 342,Vila Olga,09.721-200,São Bernardo do Campo/SP,342email@emailfalso.com
+Empresa 343,Empresa 343,Trabalhador,Categoria 343,*São Paulo*: Cândido Mota.,Endereço 343,Centro,19.880-000,Cândido Mota/SP,343email@emailfalso.com
+Empresa 344,Empresa 344,Trabalhador,Categoria 344,*São Paulo*: Bastos.,Endereço 344,CENTRO,17.690-000,Bastos/SP,344email@emailfalso.com
+Empresa 345,Empresa 345,Trabalhador,Categoria 345,"*São Paulo*: Álvaro de Carvalho, Alvinlândia, Bernardino de Campos, Campina do Monte Alegre, Campos Novos Paulista, Canitar, Chavantes, Duartina, Espírito Santo do Turvo, Gália, Ibirarema, Ipaussu, Lupércio, Ocauçu, Oscar Bressane, Ourinhos, Ribeirão do Sul, Salto Grande, São Pedro do Turvo e Ubirajara.",Endereço 345,Jardim Matilde,19.901-510,Ourinhos/SP,345email@emailfalso.com
+Empresa 346,Empresa 346,Trabalhador,Categoria 346,*São Paulo*: Maracaí.,Endereço 346,CENTRO,19.840-000,Maracaí/SP,346email@emailfalso.com
+Empresa 347,Empresa 347,Trabalhador,Categoria 347,*São Paulo*: Araras e São Carlos.,Endereço 347,Jardim Guanabara,13.565-905,São Carlos/SP,347email@emailfalso.com
+Empresa 348,Empresa 348,Trabalhador,Categoria 348,*Bahia*.,Endereço 348,Graça,40.150-360,Salvador/BA,348email@emailfalso.com
+Empresa 349,Empresa 349,Trabalhador,Categoria 349,"*Rio de Janeiro*: Angra dos Reis, Aperibé, Araruama, Areal, Armação dos Búzios, Arraial do Cabo, Barra do Piraí, Barra Mansa, Belford Roxo, Bom Jardim, Bom Jesus do Itabapoana, Cabo Frio, Cachoeiras de Macacu, Cambuci, Cantagalo, Carapebus, Cardoso Moreira, Carmo, Casimiro de Abreu, Comendador Levy Gasparian, Conceição de Macabu, Cordeiro, Duas Barras, Duque de Caxias, Engenheiro Paulo de Frontin, Guapimirim, Iguaba Grande, Itaboraí, Itaguaí, Italva, Itaocara, Itaperuna, Itatiaia, Japeri, Laje do Muriaé, Macaé, Macuco, Magé, Mangaratiba, Maricá, Mendes, Mesquita, Miguel Pereira, Miracema, Natividade, Nilópolis, Niterói, Nova Friburgo, Paracambi, Paraíba do Sul, Paraty, Paty do Alferes, Petrópolis, Pinheiral, Piraí, Porciúncula, Porto Real, Quatis, Queimados, Quissamã, Resende, Rio Bonito, Rio Claro, Rio das Flores, Rio das Ostras, Rio de Janeiro, Santa Maria Madalena, Santo Antônio de Pádua, São Fidélis, São Francisco de Itabapoana, São Gonçalo, São João da Barra, São João de Meriti, São José de Ubá, São José do Vale do Rio Preto, São Pedro da Aldeia, São Sebastião do Alto, Sapucaia, Saquarema, Silva Jardim, Sumidouro, Tanguá, Teresópolis, Trajano de Moraes, Valença, Varre-Sai, Vassouras e Volta Redonda.",Endereço 349,Galeão,21.941-590,Rio de Janeiro/RJ,349email@emailfalso.com
+Empresa 350,Empresa 350,Trabalhador,Categoria 350,*Piauí*.,Endereço 350,Centro,64.000-128,Teresina/PI,350email@emailfalso.com
+Empresa 351,Empresa 351,Trabalhador,Categoria 351,*Rio Grande do Norte*: Caraúbas.,Endereço 351,Centro,59.780-000,Caraúbas/RN,351email@emailfalso.com
+Empresa 352,Empresa 352,Trabalhador,Categoria 352,*Espírito Santo*: Conceição da Barra.,Endereço 352,Centro,29.960-000,Conceição da Barra/ES,352email@emailfalso.com
+Empresa 353,Empresa 353,Trabalhador,Categoria 353,*Paraná*.,Endereço 353,Centro,80.010-910,Curitiba/PR,353email@emailfalso.com
+Empresa 354,Empresa 354,Trabalhador,Categoria 354,*Rio de Janeiro*: Barra do Piraí.,Endereço 354,Centro,27.135-480,Barra do Piraí/RJ,354email@emailfalso.com
+Empresa 355,Empresa 355,Trabalhador,Categoria 355,"*Bahia*: Almadina, Arataca, Aurelino Leal, Buerarema, Camacan, Canavieiras, Coaraci, Firmino Alves, Floresta Azul, Gongogi, Ibicaraí, Ibirapitanga, Ilhéus, Itabuna, Itacaré, Itajuípe, Itapé, Itapetinga, Itapitanga, Itororó, Jussari, Maraú, Pau Brasil, Porto Seguro, Santa Cruz da Vitória, Santa Luzia, São José da Vitória, Ubaitaba, Una e Uruçuca.",Endereço 355,Centro,45.600-004,Itabuna/BA,355email@emailfalso.com
+Empresa 356,Empresa 356,Trabalhador,Categoria 356,*Minas Gerais*: Padre Carvalho.,Endereço 356,Centro,39.573-000,Padre Carvalho/MG,356email@emailfalso.com
+Empresa 357,Empresa 357,Trabalhador,Categoria 357,*Distrito Federal*.,Endereço 357,Asa Sul,70.302-914,Brasília/DF,357email@emailfalso.com
+Empresa 358,Empresa 358,Trabalhador,Categoria 358,*Tocantins*.,Endereço 358,Plano Diretor Sul,77.023-484,Palmas/TO,358email@emailfalso.com
+Empresa 359,Empresa 359,Trabalhador,Categoria 359,,Endereço 359,,,Brasília/DF,359email@emailfalso.com
+Empresa 360,Empresa 360,Trabalhador,Categoria 360,*Paraíba*.,Endereço 360,Centro,58.013-310,João Pessoa/PB,360email@emailfalso.com
+Empresa 361,Empresa 361,Trabalhador,Categoria 361,*Maranhão*.,Endereço 361,Centro,65.021-000,São Luís/MA,361email@emailfalso.com
+Empresa 362,Empresa 362,Trabalhador,Categoria 362,*Goiás*.,Endereço 362,Setor Central,74.020-030,Goiânia/GO,362email@emailfalso.com
+Empresa 363,Empresa 363,Trabalhador,Categoria 363,*Ceará*: Beberibe.,Endereço 363,Centro,62.840-000,Beberibe/CE,363email@emailfalso.com
+Empresa 364,Empresa 364,Trabalhador,Categoria 364,"*Paraná*: Dois Vizinhos, Salto do Lontra e Verê.",Endereço 364,Centro Sul,85.660-000,Dois Vizinhos/PR,364email@emailfalso.com
+Empresa 365,Empresa 365,Trabalhador,Categoria 365,*Minas Gerais*: Muzambinho.,Endereço 365,Centro,37.890-000,Muzambinho/MG,365email@emailfalso.com
+Empresa 366,Empresa 366,Trabalhador,Categoria 366,"*Bahia*: Abaré, Acajutiba, Adustina, Água Fria, Aiquara, Alagoinhas, Almadina, Amargosa, Amélia Rodrigues, América Dourada, Andorinha, Angical, Anguera, Antas, Antônio Cardoso, Antônio Gonçalves, Aporá, Apuarema, Araçás, Araci, Aramari, Arataca, Aurelino Leal, Baianópolis, Baixa Grande, Banzaê, Barra, Barra do Choça, Barra do Mendes, Barra do Rocha, Barreiras, Barro Alto, Barro Preto, Barrocas, Belmonte, Belo Campo, Biritinga, Boa Nova, Bom Jesus da Lapa, Bom Jesus da Serra, Boquira, Botuporã, Brejões, Brejolândia, Brotas de Macaúbas, Buerarema, Buritirama, Caatiba, Cabaceiras do Paraguaçu, Cachoeira, Caém, Caetanos, Cafarnaum, Caldeirão Grande, Camacan, Camaçari, Camamu, Campo Alegre de Lourdes, Campo Formoso, Canápolis, Canarana, Canavieiras, Candeal, Candeias, Cândido Sales, Cansanção, Canudos, Capela do Alto Alegre, Capim Grosso, Cardeal da Silva, Casa Nova, Castro Alves, Catolândia, Catu, Caturama, Central, Chorrochó, Cícero Dantas, Cipó, Coaraci, Cocos, Conceição da Feira, Conceição do Almeida, Conceição do Coité, Conceição do Jacuípe, Conde, Contendas do Sincorá, Coração de Maria, Coribe, Coronel João Sá, Correntina, Cotegipe, Cravolândia, Crisópolis, Cristópolis, Cruz das Almas, Curaçá, Dário Meira, Dias d'Ávila, Dom Macedo Costa, Elísio Medrado, Encruzilhada, Entre Rios, Esplanada, Euclides da Cunha, Eunápolis, Fátima, Feira da Mata, Feira de Santana, Filadélfia, Firmino Alves, Floresta Azul, Formosa do Rio Preto, Gandu, Gavião, Gentio do Ouro, Glória, Gongogi, Governador Mangabeira, Guaratinga, Heliópolis, Ibicaraí, Ibicuí, Ibipeba, Ibipitanga, Ibirapitanga, Ibirataia, Ibititá, Ibotirama, Ichu, Iguaí, Ilhéus, Inhambupe, Ipecaetá, Ipiaú, Ipirá, Ipupiara, Irajuba, Iramaia, Irará, Irecê, Itabela, Itabuna, Itacaré, Itagi, Itagibá, Itagimirim, Itaguaçu da Bahia, Itaju do Colônia, Itajuípe, Itamari, Itambé, Itanagra, Itaparica, Itapé, Itapebi, Itapetinga, Itapicuru, Itapitanga, Itaquara, Itarantim, Itatim, Itiruçu, Itiúba, Itororó, Jaborandi, Jacobina, Jaguaquara, Jaguarari, Jandaíra, Jequié, Jeremoabo, Jiquiriçá, Jitaúna, João Dourado, Juazeiro, Jussara, Jussari, Lafaiete Coutinho, Laje, Lajedo do Tabocal, Lamarão, Lapão, Lauro de Freitas, Luís Eduardo Magalhães, Macarani, Macaúbas, Macururé, Madre de Deus, Maiquinique, Mairi, Manoel Vitorino, Mansidão, Maracás, Maragogipe, Maraú, Mascote, Mata de São João, Miguel Calmon, Milagres, Mirangaba, Mirante, Monte Santo, Morpará, Morro do Chapéu, Mulungu do Morro, Mundo Novo, Muquém do São Francisco, Muritiba, Mutuípe, Nordestina, Nova Canaã, Nova Fátima, Nova Ibiá, Nova Itarana, Nova Redenção, Nova Soure, Novo Horizonte, Novo Triunfo, Olindina, Oliveira dos Brejinhos, Ouriçangas, Ourolândia, Palmeiras, Paratinga, Paripiranga, Pau Brasil, Paulo Afonso, Pé de Serra, Pedrão, Pedro Alexandre, Piatã, Pilão Arcado, Pindobaçu, Pintadas, Piraí do Norte, Piritiba, Planaltino, Planalto, Poções, Pojuca, Ponto Novo, Porto Seguro, Potiraguá, Presidente Dutra, Queimadas, Quijingue, Quixabeira, Rafael Jambeiro, Remanso, Retirolândia, Riachão das Neves, Riachão do Jacuípe, Ribeira do Amparo, Ribeira do Pombal, Ribeirão do Largo, Rio do Pires, Rio Real, Rodelas, Ruy Barbosa, Salinas da Margarida, Salvador, Santa Bárbara, Santa Brígida, Santa Cruz Cabrália, Santa Cruz da Vitória, Santa Inês, Santa Luzia, Santa Maria da Vitória, Santa Rita de Cássia, Santa Terezinha, Santaluz, Santana, Santanópolis, Santo Amaro, Santo Antônio de Jesus, Santo Estêvão, São Desidério, São Domingos, São Felipe, São Félix, São Félix do Coribe, São Francisco do Conde, São Gabriel, São Gonçalo dos Campos, São José da Vitória, São José do Jacuípe, São Miguel das Matas, São Sebastião do Passé, Sapeaçu, Sátiro Dias, Saubara, Saúde, Seabra, Senhor do Bonfim, Sento Sé, Serra do Ramalho, Serra Dourada, Serra Preta, Serrinha, Serrolândia, Simões Filho, Sítio do Mato, Sítio do Quinto, Sobradinho, Souto Soares, Tabocas do Brejo Velho, Tanquinho, Tapiramutá, Teodoro Sampaio, Teofilândia, Teolândia, Terra Nova, Tucano, Uauá, Ubaíra, Ubaitaba, Ubatã, Uibaí, Umburanas, Una, Uruçuca, Utinga, Valente, Várzea da Roça, Várzea do Poço, Várzea Nova, Varzedo, Vera Cruz, Vitória da Conquista, Wagner, Wanderley, Wenceslau Guimarães e Xique-Xique.",Endereço 366,Centro,40.020-056,Salvador/BA,366email@emailfalso.com
+Empresa 367,Empresa 367,Trabalhador,Categoria 367,*Mato Grosso do Sul*: Camapuã.,Endereço 367,Parque dos Ipês,79.420-000,Camapuã/MS,367email@emailfalso.com
+Empresa 368,Empresa 368,Trabalhador,Categoria 368,*São Paulo*: Santana de Parnaíba.,Endereço 368,Centro,06.501-050,Santana de Parnaíba/SP,368email@emailfalso.com
+Empresa 369,Empresa 369,Trabalhador,Categoria 369,*Rondônia*.,Endereço 369,Pedrinhas,76.801-492,Porto Velho/RO,369email@emailfalso.com
+Empresa 370,Empresa 370,Trabalhador,Categoria 370,*Goiás*: Planaltina.,Endereço 370,Setor Norte,73.751-070,Planaltina de Goiás/GO,370email@emailfalso.com
+Empresa 371,Empresa 371,Trabalhador,Categoria 371,*Paraná*.,Endereço 371,Centro,80.010-010,Curitiba/PR,371email@emailfalso.com
+Empresa 372,Empresa 372,Trabalhador,Categoria 372,*Alagoas*.,Endereço 372,Jaraguá,57.022-080,Maceió/AL,372email@emailfalso.com
+Empresa 373,Empresa 373,Trabalhador,Categoria 373,*Paraná*: Toledo.,Endereço 373,Centro,85.900-050,Toledo/PR,373email@emailfalso.com
+Empresa 374,Empresa 374,Trabalhador,Categoria 374,*Ceará*.,Endereço 374,Centro,60.020-000,Fortaleza/CE,374email@emailfalso.com
+Empresa 375,Empresa 375,Trabalhador,Categoria 375,*Piauí*: Teresina.,Endereço 375,Matinha,64.002-180,Teresina/PI,375email@emailfalso.com
+Empresa 376,Empresa 376,Trabalhador,Categoria 376,"*Rondônia*: Alta Floresta D'Oeste, Alto Alegre dos Parecis, Nova Brasilândia D'Oeste, Novo Horizonte do Oeste, Parecis, Rolim de Moura e Santa Luzia D'Oeste.",Endereço 376,CENTRO,76.940-000,Rolim de Moura/RO,376email@emailfalso.com
+Empresa 377,Empresa 377,Trabalhador,Categoria 377,*Rio Grande do Sul*: Vale Verde.,Endereço 377,centro,95.833-000,Vale Verde/RS,377email@emailfalso.com
+Empresa 378,Empresa 378,Trabalhador,Categoria 378,*Maranhão*: São Benedito do Rio Preto.,Endereço 378,Centro,65.440-000,São Benedito do Rio Preto/MA,378email@emailfalso.com
+Empresa 379,Empresa 379,Trabalhador,Categoria 379,*São Paulo*: Santa Mercedes.,Endereço 379,Centro,17.940-000,Santa Mercedes/SP,379email@emailfalso.com
+Empresa 380,Empresa 380,Trabalhador,Categoria 380,*São Paulo*: Monte Azul Paulista.,Endereço 380,Bairro São Francisco,14.730-000,Monte Azul Paulista/SP,380email@emailfalso.com
+Empresa 381,Empresa 381,Trabalhador,Categoria 381,*Rio Grande do Sul*.,Endereço 381,Cidade Baixa,90.160-070,Porto Alegre/RS,381email@emailfalso.com
+Empresa 382,Empresa 382,Trabalhador,Categoria 382,*Rio Grande do Sul*: Canoas.,Endereço 382,Centro,92.010-300,Canoas/RS,382email@emailfalso.com
+Empresa 383,Empresa 383,Trabalhador,Categoria 383,*Santa Catarina*: Videira.,Endereço 383,Alvorada,89.560-000,Videira/SC,383email@emailfalso.com
+Empresa 384,Empresa 384,Trabalhador,Categoria 384,"*Santa Catarina*: Armazém, Capivari de Baixo, Pedras Grandes, Sangão, Treze de Maio e Tubarão.",Endereço 384,Centro,88.701-150,Tubarão/SC,384email@emailfalso.com
+Empresa 385,Empresa 385,Trabalhador,Categoria 385,*Santa Catarina*: São João Batista.,Endereço 385,centro,88.240-000,São João Batista/SC,385email@emailfalso.com
+Empresa 386,Empresa 386,Trabalhador,Categoria 386,*Paraná*: Assis Chateaubriand.,Endereço 386,CENTRO,85.935-000,Assis Chateaubriand/PR,386email@emailfalso.com
+Empresa 387,Empresa 387,Trabalhador,Categoria 387,*Paraná*: Nova Aurora.,Endereço 387,CENTRO,85.410-000,Nova Aurora/PR,387email@emailfalso.com
+Empresa 388,Empresa 388,Trabalhador,Categoria 388,*Rio Grande do Sul*.,Endereço 388,Centro,90.020-005,Porto Alegre/RS,388email@emailfalso.com
+Empresa 389,Empresa 389,Trabalhador,Categoria 389,*Rio Grande do Sul*.,Endereço 389,Centro,90.010-080,Porto Alegre/RS,389email@emailfalso.com
+Empresa 390,Empresa 390,Trabalhador,Categoria 390,*Rio Grande do Sul*: Portão.,Endereço 390,Centro,93.180-000,Portão/RS,390email@emailfalso.com
+Empresa 391,Empresa 391,Trabalhador,Categoria 391,*Rio Grande do Sul*: Sobradinho.,Endereço 391,centro,96.900-000,Sobradinho/RS,391email@emailfalso.com
+Empresa 392,Empresa 392,Trabalhador,Categoria 392,*Rio Grande do Sul*: Panambi.,Endereço 392,Centro,98.280-000,Panambi/RS,392email@emailfalso.com
+Empresa 393,Empresa 393,Trabalhador,Categoria 393,*Rio Grande do Sul*: Ijuí.,Endereço 393,CENTRO,98.700-000,Ijuí/RS,393email@emailfalso.com
+Empresa 394,Empresa 394,Trabalhador,Categoria 394,*Rio Grande do Sul*: São Gabriel.,Endereço 394,centro,97.300-000,São Gabriel/RS,394email@emailfalso.com
+Empresa 395,Empresa 395,Trabalhador,Categoria 395,*Rio Grande do Sul*: Bento Gonçalves.,Endereço 395,Centro,95.700-000,Bento Gonçalves/RS,395email@emailfalso.com
+Empresa 396,Empresa 396,Trabalhador,Categoria 396,*Rio Grande do Sul*: São Borja.,Endereço 396,Centro,97.670-000,São Borja/RS,396email@emailfalso.com
+Empresa 397,Empresa 397,Trabalhador,Categoria 397,*Rio Grande do Sul*: Gravataí.,Endereço 397,Centro,94.035-250,Gravataí/RS,397email@emailfalso.com
+Empresa 398,Empresa 398,Trabalhador,Categoria 398,*Rio Grande do Sul*: Santa Maria.,Endereço 398,Medianeira,97.070-000,Santa Maria/RS,398email@emailfalso.com
+Empresa 399,Empresa 399,Trabalhador,Categoria 399,*Santa Catarina*: Florianópolis.,Endereço 399,Córrego Grande,88.037-000,Florianópolis/SC,399email@emailfalso.com
+Empresa 400,Empresa 400,Trabalhador,Categoria 400,"*Santa Catarina*: Cocal do Sul, Criciúma, Nova Veneza, Siderópolis, Treviso e Urussanga.",Endereço 400,Pinheirinho,88.804-440,Criciúma/SC,400email@emailfalso.com
+Empresa 401,Empresa 401,Trabalhador,Categoria 401,*Santa Catarina*: Pomerode.,Endereço 401,Centro,89.107-000,Pomerode/SC,401email@emailfalso.com
+Empresa 402,Empresa 402,Trabalhador,Categoria 402,*Santa Catarina*.,Endereço 402,Boa Vista,89.012-340,Blumenau/SC,402email@emailfalso.com
+Empresa 403,Empresa 403,Trabalhador,Categoria 403,*Santa Catarina*: Agronômica.,Endereço 403,Centro,89.188-000,Agronômica/SC,403email@emailfalso.com
+Empresa 404,Empresa 404,Trabalhador,Categoria 404,*Paraná*: Irati.,Endereço 404,Rio Bonito,84.500-000,Irati/PR,404email@emailfalso.com
+Empresa 405,Empresa 405,Trabalhador,Categoria 405,"*São Paulo*: Barueri, Carapicuíba, Itapevi, Jandira, Osasco e Santana de Parnaíba.",Endereço 405,Jardim Silveira,06.433-000,Barueri/SP,405email@emailfalso.com
+Empresa 406,Empresa 406,Trabalhador,Categoria 406,*São Paulo*: Barra Bonita.,Endereço 406,centro,17.340-000,Barra Bonita/SP,406email@emailfalso.com
+Empresa 407,Empresa 407,Trabalhador,Categoria 407,*Minas Gerais*.,Endereço 407,Floresta,31.015-180,Belo Horizonte/MG,407email@emailfalso.com
+Empresa 408,Empresa 408,Trabalhador,Categoria 408,*Minas Gerais*: Ribeirão das Neves.,Endereço 408,Cerejeira (Justinópolis),33.902-012,Ribeirão das Neves/MG,408email@emailfalso.com
+Empresa 409,Empresa 409,Trabalhador,Categoria 409,*São Paulo*: Paraguaçu Paulista.,Endereço 409,Vila Affine,19.700-000,Paraguaçu Paulista/SP,409email@emailfalso.com
+Empresa 410,Empresa 410,Trabalhador,Categoria 410,"*São Paulo*: Assis, Cruzália, Pedrinhas Paulista, Platina e Tarumã.",Endereço 410,Centro,19.800-080,Assis/SP,410email@emailfalso.com
+Empresa 411,Empresa 411,Trabalhador,Categoria 411,*Distrito Federal*.,Endereço 411,Asa Sul,70.393-904,Brasília/DF,411email@emailfalso.com
+Empresa 412,Empresa 412,Trabalhador,Categoria 412,*São Paulo*: Dourado e São Carlos.,Endereço 412,Vila Prado,13.572-200,São Carlos/SP,412email@emailfalso.com
+Empresa 413,Empresa 413,Trabalhador,Categoria 413,*Goiás*.,Endereço 413,Setor Sul,74.083-060,Goiânia/GO,413email@emailfalso.com
+Empresa 414,Empresa 414,Trabalhador,Categoria 414,*Goiás*.,Endereço 414,Jardim Goiás,74.805-350,Goiânia/GO,414email@emailfalso.com
+Empresa 415,Empresa 415,Trabalhador,Categoria 415,*Mato Grosso do Sul*.,Endereço 415,Jardim Veraneio,79.031-902,Campo Grande/MS,415email@emailfalso.com
+Empresa 416,Empresa 416,Trabalhador,Categoria 416,*Mato Grosso do Sul*.,Endereço 416,Amambaí,79.005-360,Campo Grande/MS,416email@emailfalso.com
+Empresa 417,Empresa 417,Trabalhador,Categoria 417,*Mato Grosso do Sul*.,Endereço 417,Amambaí,79.005-380,Campo Grande/MS,417email@emailfalso.com
+Empresa 418,Empresa 418,Trabalhador,Categoria 418,*Mato Grosso do Sul*.,Endereço 418,Vila Bandeirante,79.006-450,Campo Grande/MS,418email@emailfalso.com
+Empresa 419,Empresa 419,Trabalhador,Categoria 419,*Mato Grosso do Sul*: Rochedo.,Endereço 419,Centro,79.450-000,Rochedo/MS,419email@emailfalso.com
+Empresa 420,Empresa 420,Trabalhador,Categoria 420,*Mato Grosso*.,Endereço 420,Centro Sul,78.020-170,Cuiabá/MT,420email@emailfalso.com
+Empresa 421,Empresa 421,Trabalhador,Categoria 421,"*Acre*, *Amapá*, *Distrito Federal*, *Goiás*, *Mato Grosso*, *Mato Grosso do Sul*, *Rondônia*, *Roraima* e *Tocantins*.",Endereço 421,Zona Industrial,70.610-430,Brasília/DF,421email@emailfalso.com
+Empresa 422,Empresa 422,Trabalhador,Categoria 422,*Mato Grosso do Sul*.,Endereço 422,Vila Alba,79.100-410,Campo Grande/MS,422email@emailfalso.com
+Empresa 423,Empresa 423,Trabalhador,Categoria 423,*Espírito Santo*: Baixo Guandu.,Endereço 423,Centro,29.730-000,Baixo Guandu/ES,423email@emailfalso.com
+Empresa 424,Empresa 424,Trabalhador,Categoria 424,*Espírito Santo*: Linhares.,Endereço 424,Três Barras,29.907-080,Linhares/ES,424email@emailfalso.com
+Empresa 425,Empresa 425,Trabalhador,Categoria 425,*Espírito Santo*: Piúma.,Endereço 425,Acaiaca,29.285-000,Piúma/ES,425email@emailfalso.com
+Empresa 426,Empresa 426,Trabalhador,Categoria 426,*Rio de Janeiro*.,Endereço 426,Centro,20.031-007,Rio de Janeiro/RJ,426email@emailfalso.com
+Empresa 427,Empresa 427,Trabalhador,Categoria 427,*Mato Grosso do Sul*.,Endereço 427,Vila Taquarussu,79.006-070,Campo Grande/MS,427email@emailfalso.com
+Empresa 428,Empresa 428,Trabalhador,Categoria 428,*Mato Grosso*.,Endereço 428,Baú,78.008-000,Cuiabá/MT,428email@emailfalso.com
+Empresa 429,Empresa 429,Trabalhador,Categoria 429,*Goiás*.,Endereço 429,Setor Sul,74.083-300,Goiânia/GO,429email@emailfalso.com
+Empresa 430,Empresa 430,Trabalhador,Categoria 430,*Rio de Janeiro*: Angra dos Reis.,Endereço 430,Centro,23.900-211,Angra dos Reis/RJ,430email@emailfalso.com
+Empresa 431,Empresa 431,Trabalhador,Categoria 431,*Rio de Janeiro*.,Endereço 431,Centro,24.020-096,Niterói/RJ,431email@emailfalso.com
+Empresa 432,Empresa 432,Trabalhador,Categoria 432,*São Paulo*: Araraquara.,Endereço 432,Centro,14.801-290,Araraquara/SP,432email@emailfalso.com
+Empresa 433,Empresa 433,Trabalhador,Categoria 433,*Espírito Santo*: Colatina.,Endereço 433,Vila Nova,29.702-130,Colatina/ES,433email@emailfalso.com
+Empresa 434,Empresa 434,Trabalhador,Categoria 434,*Espírito Santo*.,Endereço 434,do Moscoso,29.020-755,Vitória/ES,434email@emailfalso.com
+Empresa 435,Empresa 435,Trabalhador,Categoria 435,*Rio de Janeiro*: Maricá.,Endereço 435,Saco das Flores,24.900-000,Maricá/RJ,435email@emailfalso.com
+Empresa 436,Empresa 436,Trabalhador,Categoria 436,*Mato Grosso do Sul*: Dourados.,Endereço 436,Vila Industrial,79.840-150,Dourados/MS,436email@emailfalso.com
+Empresa 437,Empresa 437,Trabalhador,Categoria 437,*Mato Grosso do Sul*: Ribas do Rio Pardo.,Endereço 437,Jardim Vista Alegre,79.180-000,Ribas do Rio Pardo/MS,437email@emailfalso.com
+Empresa 438,Empresa 438,Trabalhador,Categoria 438,*Mato Grosso do Sul*: Bataguassu.,Endereço 438,centro,79.780-000,Bataguassu/MS,438email@emailfalso.com
+Empresa 439,Empresa 439,Trabalhador,Categoria 439,*Mato Grosso do Sul*: Ivinhema.,Endereço 439,Itapoã,79.740-000,Ivinhema/MS,439email@emailfalso.com
+Empresa 440,Empresa 440,Trabalhador,Categoria 440,*Pernambuco*: Olinda.,Endereço 440,Varadouro,53.020-490,Olinda/PE,440email@emailfalso.com
+Empresa 441,Empresa 441,Trabalhador,Categoria 441,*Paraíba*.,Endereço 441,Centro,58.013-290,João Pessoa/PB,441email@emailfalso.com
+Empresa 442,Empresa 442,Trabalhador,Categoria 442,*Paraíba*.,Endereço 442,Centro,58.010-180,João Pessoa/PB,442email@emailfalso.com
+Empresa 443,Empresa 443,Trabalhador,Categoria 443,*Paraíba*.,Endereço 443,Torre,58.040-030,João Pessoa/PB,443email@emailfalso.com
+Empresa 444,Empresa 444,Trabalhador,Categoria 444,*Paraíba*.,Endereço 444,Estados,58.030-000,João Pessoa/PB,444email@emailfalso.com
+Empresa 445,Empresa 445,Trabalhador,Categoria 445,*Rio Grande do Norte*.,Endereço 445,Cidade Alta,59.025-003,Natal/RN,445email@emailfalso.com
+Empresa 446,Empresa 446,Trabalhador,Categoria 446,*Rio Grande do Norte*.,Endereço 446,Lagoa Seca,59.022-220,Natal/RN,446email@emailfalso.com
+Empresa 447,Empresa 447,Trabalhador,Categoria 447,*Pernambuco*: Paulista.,Endereço 447,Nobre,53.404-020,Paulista/PE,447email@emailfalso.com
+Empresa 448,Empresa 448,Trabalhador,Categoria 448,*Pernambuco*.,Endereço 448,Santo Antônio,50.010-310,Recife/PE,448email@emailfalso.com
+Empresa 449,Empresa 449,Trabalhador,Categoria 449,*Pernambuco*.,Endereço 449,Cordeiro,50.711-280,Recife/PE,449email@emailfalso.com
+Empresa 450,Empresa 450,Trabalhador,Categoria 450,*Pernambuco*: São Bento do Una.,Endereço 450,Centro,55.370-000,São Bento do Una/PE,450email@emailfalso.com
+Empresa 451,Empresa 451,Trabalhador,Categoria 451,*Alagoas*.,Endereço 451,Farol,57.051-150,Maceió/AL,451email@emailfalso.com
+Empresa 452,Empresa 452,Trabalhador,Categoria 452,*Alagoas*.,Endereço 452,Poço,57.025-040,Maceió/AL,452email@emailfalso.com
+Empresa 453,Empresa 453,Trabalhador,Categoria 453,*Pernambuco*.,Endereço 453,Boa Vista,50.050-200,Recife/PE,453email@emailfalso.com
+Empresa 454,Empresa 454,Trabalhador,Categoria 454,*Pernambuco*: Recife.,Endereço 454,Santo Amaro,50.050-150,Recife/PE,454email@emailfalso.com
+Empresa 455,Empresa 455,Trabalhador,Categoria 455,*Pernambuco*.,Endereço 455,Ilha do Retiro,50.750-380,Recife/PE,455email@emailfalso.com
+Empresa 456,Empresa 456,Trabalhador,Categoria 456,*Minas Gerais*: Juiz de Fora.,Endereço 456,Centro,36.015-410,Juiz de Fora/MG,456email@emailfalso.com
+Empresa 457,Empresa 457,Trabalhador,Categoria 457,*Minas Gerais*: Itaúna.,Endereço 457,Centro,35.680-253,Itaúna/MG,457email@emailfalso.com
+Empresa 458,Empresa 458,Trabalhador,Categoria 458,*Minas Gerais*: Passos.,Endereço 458,Centro,37.900-062,Passos/MG,458email@emailfalso.com
+Empresa 459,Empresa 459,Trabalhador,Categoria 459,*Minas Gerais*: Passos.,Endereço 459,Novo Horizonte,37.901-502,Passos/MG,459email@emailfalso.com
+Empresa 460,Empresa 460,Trabalhador,Categoria 460,"*Minas Gerais*: Araújos, Bambuí, Bom Despacho, Camacho, Candeias, Carmo da Mata, Carmo do Cajuru, Cláudio, Conceição do Pará, Córrego Danta, Divinópolis, Doresópolis, Igarapé, Igaratinga, Iguatama, Itapecerica, Itatiaiuçu, Japaraíba, Lagoa da Prata, Leandro Ferreira, Luz, Mateus Leme, Moema, Onça de Pitangui, Pains, Pedra do Indaiá, Pequi, Perdigão, Pimenta, Piumhi, Santo Antônio do Monte, São Francisco de Paula, São Gonçalo do Pará, São José da Varginha, São Sebastião do Oeste e Tapiraí.",Endereço 460,Centro,35.500-024,Divinópolis/MG,460email@emailfalso.com
+Empresa 461,Empresa 461,Trabalhador,Categoria 461,*Minas Gerais*.,Endereço 461,Santa Efigênia,30.240-380,Belo Horizonte/MG,461email@emailfalso.com
+Empresa 462,Empresa 462,Trabalhador,Categoria 462,*Minas Gerais*: Nova Lima.,Endereço 462,Centro,34.000-000,Nova Lima/MG,462email@emailfalso.com
+Empresa 463,Empresa 463,Trabalhador,Categoria 463,*Rio de Janeiro*: Natividade.,Endereço 463,Centro,28.380-000,Natividade/RJ,463email@emailfalso.com
+Empresa 464,Empresa 464,Trabalhador,Categoria 464,*Espírito Santo*.,Endereço 464,Centro,29.010-002,Vitória/ES,464email@emailfalso.com
+Empresa 465,Empresa 465,Trabalhador,Categoria 465,*Espírito Santo*.,Endereço 465,Parque Moscoso,29.018-900,Vitória/ES,465email@emailfalso.com
+Empresa 466,Empresa 466,Trabalhador,Categoria 466,*Rio de Janeiro*.,Endereço 466,Centro,20.011-030,Rio de Janeiro/RJ,466email@emailfalso.com
+Empresa 467,Empresa 467,Trabalhador,Categoria 467,*Minas Gerais*.,Endereço 467,Gutierrez,30.441-070,Belo Horizonte/MG,467email@emailfalso.com
+Empresa 468,Empresa 468,Trabalhador,Categoria 468,*Minas Gerais*: Belo Horizonte.,Endereço 468,Centro,30.130-003,Belo Horizonte/MG,468email@emailfalso.com
+Empresa 469,Empresa 469,Trabalhador,Categoria 469,*Goiás*: Goiatuba.,Endereço 469,Vila Betânia,75.600-000,Goiatuba/GO,469email@emailfalso.com
+Empresa 470,Empresa 470,Trabalhador,Categoria 470,*Mato Grosso*: Tangará da Serra.,Endereço 470,Centro,78.300-000,Tangará da Serra/MT,470email@emailfalso.com
+Empresa 471,Empresa 471,Trabalhador,Categoria 471,,Endereço 471,,,Brasília/DF,471email@emailfalso.com
+Empresa 472,Empresa 472,Trabalhador,Categoria 472,*Amazonas*.,Endereço 472,Centro,69.010-120,Manaus/AM,472email@emailfalso.com
+Empresa 473,Empresa 473,Trabalhador,Categoria 473,*Amazonas*.,Endereço 473,São Francisco,69.079-210,Manaus/AM,473email@emailfalso.com
+Empresa 474,Empresa 474,Trabalhador,Categoria 474,*Bahia*.,Endereço 474,Horto Florestal,40.295-050,Salvador/BA,474email@emailfalso.com
+Empresa 475,Empresa 475,Trabalhador,Categoria 475,*Rio de Janeiro*: Campos dos Goytacazes.,Endereço 475,Parque Rosário,28.025-496,Campos dos Goytacazes/RJ,475email@emailfalso.com
+Empresa 476,Empresa 476,Trabalhador,Categoria 476,*Espírito Santo*: Cachoeiro de Itapemirim.,Endereço 476,Gilberto Machado,29.303-200,Cachoeiro de Itapemirim/ES,476email@emailfalso.com
+Empresa 477,Empresa 477,Trabalhador,Categoria 477,*Rio de Janeiro*: Laje do Muriaé.,Endereço 477,Centro,28.350-000,Laje do Muriaé/RJ,477email@emailfalso.com
+Empresa 478,Empresa 478,Trabalhador,Categoria 478,*Rio de Janeiro*: Santo Antônio de Pádua.,Endereço 478,Centro,28.470-000,Santo Antônio de Pádua/RJ,478email@emailfalso.com
+Empresa 479,Empresa 479,Trabalhador,Categoria 479,*Rio de Janeiro*.,Endereço 479,Centro,20.011-030,Rio de Janeiro/RJ,479email@emailfalso.com
+Empresa 480,Empresa 480,Trabalhador,Categoria 480,*Rio de Janeiro*.,Endereço 480,Centro,20.010-170,Rio de Janeiro/RJ,480email@emailfalso.com
+Empresa 481,Empresa 481,Trabalhador,Categoria 481,*Minas Gerais*: Três Pontas.,Endereço 481,Centro,37.190-000,Três Pontas/MG,481email@emailfalso.com
+Empresa 482,Empresa 482,Trabalhador,Categoria 482,*Minas Gerais*.,Endereço 482,Prado,30.411-170,Belo Horizonte/MG,482email@emailfalso.com
+Empresa 483,Empresa 483,Trabalhador,Categoria 483,"*Minas Gerais*: Baldim, Capim Branco, Conceição do Mato Dentro, Confins, Funilândia, Jaboticatubas, Lagoa Santa, Matozinhos, Pedro Leopoldo, Santa Luzia, São José da Lapa e Vespasiano.",Endereço 483,Centro,33.400-000,Lagoa Santa/MG,483email@emailfalso.com
+Empresa 484,Empresa 484,Trabalhador,Categoria 484,"*Goiás*: Abadia de Goiás, Abadiânia, Acreúna, Adelândia, Água Fria de Goiás, Água Limpa, Águas Lindas de Goiás, Alexânia, Aloândia, Alto Horizonte, Alto Paraíso de Goiás, Alvorada do Norte, Amaralina, Americano do Brasil, Amorinópolis, Anápolis, Anhanguera, Anicuns, Aparecida de Goiânia, Aparecida do Rio Doce, Aporé, Araçu, Aragarças, Aragoiânia, Araguapaz, Arenópolis, Aruanã, Aurilândia, Avelinópolis, Baliza, Barro Alto, Bela Vista de Goiás, Bom Jardim de Goiás, Bom Jesus de Goiás, Bonfinópolis, Bonópolis, Brazabrantes, Britânia, Buriti Alegre, Buriti de Goiás, Buritinópolis, Cabeceiras, Cachoeira Alta, Cachoeira de Goiás, Cachoeira Dourada, Caçu, Caiapônia, Caldas Novas, Caldazinha, Campestre de Goiás, Campinaçu, Campinorte, Campo Alegre de Goiás, Campo Limpo de Goiás, Campos Belos, Campos Verdes, Carmo do Rio Verde, Castelândia, Catalão, Caturaí, Cavalcante, Cezarina, Chapadão do Céu, Cidade Ocidental, Cocalzinho de Goiás, Colinas do Sul, Córrego do Ouro, Corumbá de Goiás, Corumbaíba, Cristalina, Cristianópolis, Crixás, Cromínia, Cumari, Damianópolis, Damolândia, Davinópolis, Diorama, Divinópolis de Goiás, Doverlândia, Edealina, Edéia, Estrela do Norte, Faina, Fazenda Nova, Firminópolis, Flores de Goiás, Formosa, Formoso, Gameleira de Goiás, Goianápolis, Goiandira, Goianésia, Goiânia, Goianira, Goiás, Goiatuba, Gouvelândia, Guapó, Guaraíta, Guarani de Goiás, Guarinos, Heitoraí, Hidrolândia, Hidrolina, Iaciara, Inaciolândia, Indiara, Inhumas, Ipameri, Ipiranga de Goiás, Iporá, Israelândia, Itaberaí, Itaguari, Itaguaru, Itajá, Itapaci, Itapirapuã, Itapuranga, Itarumã, Itauçu, Itumbiara, Ivolândia, Jandaia, Jaraguá, Jataí, Jaupaci, Jesúpolis, Joviânia, Jussara, Lagoa Santa, Leopoldo de Bulhões, Luziânia, Mairipotaba, Mambaí, Mara Rosa, Marzagão, Matrinchã, Maurilândia, Mimoso de Goiás, Minaçu, Mineiros, Moiporá, Monte Alegre de Goiás, Montes Claros de Goiás, Montividiu, Montividiu do Norte, Morrinhos, Morro Agudo de Goiás, Mozarlândia, Mundo Novo, Mutunópolis, Nazário, Nerópolis, Niquelândia, Nova América, Nova Aurora, Nova Crixás, Nova Glória, Nova Iguaçu de Goiás, Nova Roma, Nova Veneza, Novo Brasil, Novo Gama, Novo Planalto, Orizona, Ouro Verde de Goiás, Ouvidor, Padre Bernardo, Palestina de Goiás, Palmeiras de Goiás, Palmelo, Palminópolis, Panamá, Paranaiguara, Paraúna, Perolândia, Petrolina de Goiás, Pilar de Goiás, Piracanjuba, Piranhas, Pirenópolis, Pires do Rio, Planaltina, Pontalina, Porangatu, Porteirão, Portelândia, Posse, Professor Jamil, Quirinópolis, Rialma, Rianápolis, Rio Quente, Rio Verde, Rubiataba, Sanclerlândia, Santa Bárbara de Goiás, Santa Cruz de Goiás, Santa Fé de Goiás, Santa Helena de Goiás, Santa Isabel, Santa Rita do Araguaia, Santa Rita do Novo Destino, Santa Rosa de Goiás, Santa Tereza de Goiás, Santa Terezinha de Goiás, Santo Antônio da Barra, Santo Antônio de Goiás, Santo Antônio do Descoberto, São Domingos, São Francisco de Goiás, São João da Paraúna, São João d'Aliança, São Luís de Montes Belos, São Luiz do Norte, São Miguel do Araguaia, São Miguel do Passa Quatro, São Patrício, São Simão, Senador Canedo, Serranópolis, Silvânia, Simolândia, Sítio d'Abadia, Taquaral de Goiás, Teresina de Goiás, Terezópolis de Goiás, Três Ranchos, Trindade, Trombas, Turvânia, Turvelândia, Uirapuru, Uruaçu, Uruana, Urutaí, Valparaíso de Goiás, Varjão, Vianópolis, Vicentinópolis, Vila Boa e Vila Propício.",Endereço 484,Jardim Goiás,74.805-310,Goiânia/GO,484email@emailfalso.com
+Empresa 485,Empresa 485,Trabalhador,Categoria 485,*Goiás*.,Endereço 485,Setor Sul,74.080-100,Goiânia/GO,485email@emailfalso.com
+Empresa 486,Empresa 486,Trabalhador,Categoria 486,*Tocantins*.,Endereço 486,Plano Diretor Norte,77.002-018,Palmas/TO,486email@emailfalso.com
+Empresa 487,Empresa 487,Trabalhador,Categoria 487,*Amapá*: Macapá.,Endereço 487,Santa Rita,68.901-257,Macapá/AP,487email@emailfalso.com
+Empresa 488,Empresa 488,Trabalhador,Categoria 488,*Roraima*.,Endereço 488,Trinta e Um de Março,69.305-340,Boa Vista/RR,488email@emailfalso.com
+Empresa 489,Empresa 489,Trabalhador,Categoria 489,*Pará*: Igarapé-Miri.,Endereço 489,SÃO-PAULO,68.430-000,Igarapé-Miri/PA,489email@emailfalso.com
+Empresa 490,Empresa 490,Trabalhador,Categoria 490,*Minas Gerais*: Ipatinga.,Endereço 490,Centro,35.160-036,Ipatinga/MG,490email@emailfalso.com
+Empresa 491,Empresa 491,Trabalhador,Categoria 491,*Minas Gerais*: Governador Valadares.,Endereço 491,Centro,35.010-030,Governador Valadares/MG,491email@emailfalso.com
+Empresa 492,Empresa 492,Trabalhador,Categoria 492,*Minas Gerais*: Betim.,Endereço 492,Santa Fé,32.630-740,Betim/MG,492email@emailfalso.com
+Empresa 493,Empresa 493,Trabalhador,Categoria 493,*Minas Gerais*: Uberlândia.,Endereço 493,Nossa Senhora Aparecida,38.400-757,Uberlândia/MG,493email@emailfalso.com
+Empresa 494,Empresa 494,Trabalhador,Categoria 494,*Minas Gerais*: Patrocínio.,Endereço 494,Santo Antônio,38.740-318,Patrocínio/MG,494email@emailfalso.com
+Empresa 495,Empresa 495,Trabalhador,Categoria 495,*Minas Gerais*: Guaxupé.,Endereço 495,Centro,37.800-000,Guaxupé/MG,495email@emailfalso.com
+Empresa 496,Empresa 496,Trabalhador,Categoria 496,*Minas Gerais*: Andradas.,Endereço 496,Centro,37.795-000,Andradas/MG,496email@emailfalso.com
+Empresa 497,Empresa 497,Trabalhador,Categoria 497,*Mato Grosso do Sul*.,Endereço 497,Coronel Antonino,79.013-115,Campo Grande/MS,497email@emailfalso.com
+Empresa 498,Empresa 498,Trabalhador,Categoria 498,*Mato Grosso do Sul*: Angélica.,Endereço 498,Industrial,79.785-000,Angélica/MS,498email@emailfalso.com
+Empresa 499,Empresa 499,Trabalhador,Categoria 499,*Mato Grosso do Sul*: Mundo Novo.,Endereço 499,Centro,79.980-000,Mundo Novo/MS,499email@emailfalso.com
+Empresa 500,Empresa 500,Trabalhador,Categoria 500,*Mato Grosso do Sul*: Cassilândia.,Endereço 500,Izanopoliz,79.540-000,Cassilândia/MS,500email@emailfalso.com
+Empresa 501,Empresa 501,Trabalhador,Categoria 501,*Mato Grosso do Sul*.,Endereço 501,Vila Glória,79.004-400,Campo Grande/MS,501email@emailfalso.com
+Empresa 502,Empresa 502,Trabalhador,Categoria 502,*Piauí*.,Endereço 502,Centro,64.000-240,Teresina/PI,502email@emailfalso.com
+Empresa 503,Empresa 503,Trabalhador,Categoria 503,*Pernambuco*: Recife.,Endereço 503,Parnamirim,52.060-270,Recife/PE,503email@emailfalso.com
+Empresa 504,Empresa 504,Trabalhador,Categoria 504,*Pernambuco*.,Endereço 504,Boa Vista,50.050-010,Recife/PE,504email@emailfalso.com
+Empresa 505,Empresa 505,Trabalhador,Categoria 505,*Maranhão*.,Endereço 505,Centro,65.015-080,São Luís/MA,505email@emailfalso.com
+Empresa 506,Empresa 506,Trabalhador,Categoria 506,*Rio Grande do Norte*.,Endereço 506,Lagoa Nova,59.064-140,Natal/RN,506email@emailfalso.com
+Empresa 507,Empresa 507,Trabalhador,Categoria 507,*Rio Grande do Norte*.,Endereço 507,Cidade Alta,59.025-160,Natal/RN,507email@emailfalso.com
+Empresa 508,Empresa 508,Trabalhador,Categoria 508,"*São Paulo*: Cosmorama, Gastão Vidigal, Macaubal, Monte Aprazível, Neves Paulista, Nhandeara, Nipoã, Poloni, Sebastianópolis do Sul e União Paulista.",Endereço 508,CENTRO,15.150-000,Monte Aprazível/SP,508email@emailfalso.com
+Empresa 509,Empresa 509,Trabalhador,Categoria 509,*São Paulo*.,Endereço 509,República,01.045-000,São Paulo/SP,509email@emailfalso.com
+Empresa 510,Empresa 510,Trabalhador,Categoria 510,*Amazonas*.,Endereço 510,Centro,69.010-100,Manaus/AM,510email@emailfalso.com
+Empresa 511,Empresa 511,Trabalhador,Categoria 511,*Rondônia*.,Endereço 511,Olaria,76.801-316,Porto Velho/RO,511email@emailfalso.com
+Empresa 512,Empresa 512,Trabalhador,Categoria 512,*Rondônia*.,Endereço 512,Nossa Senhora das Graças,76.804-151,Porto Velho/RO,512email@emailfalso.com
+Empresa 513,Empresa 513,Trabalhador,Categoria 513,*Pará*.,Endereço 513,Castanheira,66.645-155,Belém/PA,513email@emailfalso.com
+Empresa 514,Empresa 514,Trabalhador,Categoria 514,*Rondônia*.,Endereço 514,Nova Porto Velho,78.906-710,Porto Velho/RO,514email@emailfalso.com
+Empresa 515,Empresa 515,Trabalhador,Categoria 515,*Amazonas*.,Endereço 515,São Francisco,69.079-200,Manaus/AM,515email@emailfalso.com
+Empresa 516,Empresa 516,Trabalhador,Categoria 516,*Amazonas*.,Endereço 516,Aleixo,69.060-040,Manaus/AM,516email@emailfalso.com
+Empresa 517,Empresa 517,Trabalhador,Categoria 517,*Ceará*: Baturité.,Endereço 517,CENTRO,62.760-000,Baturité/CE,517email@emailfalso.com
+Empresa 518,Empresa 518,Trabalhador,Categoria 518,*São Paulo*: Rincão.,Endereço 518,Jardim Nova Rincão,14.830-000,Rincão/SP,518email@emailfalso.com
+Empresa 519,Empresa 519,Trabalhador,Categoria 519,*São Paulo*.,Endereço 519,Centro,01.035-905,São Paulo/SP,519email@emailfalso.com
+Empresa 520,Empresa 520,Trabalhador,Categoria 520,*São Paulo*: Barretos.,Endereço 520,Exposição,14.783-040,Barretos/SP,520email@emailfalso.com
+Empresa 521,Empresa 521,Trabalhador,Categoria 521,*São Paulo*: Santo André.,Endereço 521,Vila Guiomar,09.090-401,Santo André/SP,521email@emailfalso.com
+Empresa 522,Empresa 522,Trabalhador,Categoria 522,*São Paulo*: Guarujá.,Endereço 522,Jardim Boa Esperança (Vicente de Carvalho),11.470-200,Guarujá/SP,522email@emailfalso.com
+Empresa 523,Empresa 523,Trabalhador,Categoria 523,*São Paulo*: São Vicente.,Endereço 523,Centro,11.310-441,São Vicente/SP,523email@emailfalso.com
+Empresa 524,Empresa 524,Trabalhador,Categoria 524,*São Paulo*: Santos.,Endereço 524,Vila Belmiro,11.075-350,Santos/SP,524email@emailfalso.com
+Empresa 525,Empresa 525,Trabalhador,Categoria 525,*São Paulo*: Jaboticabal.,Endereço 525,Centro,14.870-160,Jaboticabal/SP,525email@emailfalso.com
+Empresa 526,Empresa 526,Trabalhador,Categoria 526,,Endereço 526,Centro,13.015-080,Campinas/SP,526email@emailfalso.com
+Empresa 527,Empresa 527,Trabalhador,Categoria 527,*São Paulo*: São José dos Campos.,Endereço 527,Centro,12.209-580,São José dos Campos/SP,527email@emailfalso.com
+Empresa 528,Empresa 528,Trabalhador,Categoria 528,*São Paulo*: Botucatu.,Endereço 528,Centro,18.603-560,Botucatu/SP,528email@emailfalso.com
+Empresa 529,Empresa 529,Trabalhador,Categoria 529,*São Paulo*: Amparo.,Endereço 529,Centro,13.900-359,Amparo/SP,529email@emailfalso.com
+Empresa 530,Empresa 530,Trabalhador,Categoria 530,"*São Paulo*: Águas de São Pedro, Piracicaba, Saltinho e São Pedro.",Endereço 530,Centro,13.400-530,Piracicaba/SP,530email@emailfalso.com
+Empresa 531,Empresa 531,Trabalhador,Categoria 531,*São Paulo*: Jaú.,Endereço 531,Centro,17.201-080,Jaú/SP,531email@emailfalso.com
+Empresa 532,Empresa 532,Trabalhador,Categoria 532,*São Paulo*: Americana.,Endereço 532,Conserva,13.466-260,Americana/SP,532email@emailfalso.com
+Empresa 533,Empresa 533,Trabalhador,Categoria 533,*São Paulo*: Limeira.,Endereço 533,Centro,13.480-140,Limeira/SP,533email@emailfalso.com
+Empresa 534,Empresa 534,Trabalhador,Categoria 534,*São Paulo*.,Endereço 534,Vila Firmiano Pinto,04.273-100,São Paulo/SP,534email@emailfalso.com
+Empresa 535,Empresa 535,Trabalhador,Categoria 535,*São Paulo*: Sorocaba.,Endereço 535,Vila Santa Rita,18.080-000,Sorocaba/SP,535email@emailfalso.com
+Empresa 536,Empresa 536,Trabalhador,Categoria 536,*São Paulo*.,Endereço 536,República,01.046-925,São Paulo/SP,536email@emailfalso.com
+Empresa 537,Empresa 537,Trabalhador,Categoria 537,,Endereço 537,Centro,01.032-001,São Paulo/SP,537email@emailfalso.com
+Empresa 538,Empresa 538,Trabalhador,Categoria 538,*São Paulo*.,Endereço 538,República,01.045-000,São Paulo/SP,538email@emailfalso.com
+Empresa 539,Empresa 539,Trabalhador,Categoria 539,*Minas Gerais*.,Endereço 539,Centro,30.130-001,Belo Horizonte/MG,539email@emailfalso.com
+Empresa 540,Empresa 540,Trabalhador,Categoria 540,*Minas Gerais*.,Endereço 540,Barro Preto,30.170-040,Belo Horizonte/MG,540email@emailfalso.com
+Empresa 541,Empresa 541,Trabalhador,Categoria 541,*Minas Gerais*: Belo Horizonte.,Endereço 541,Pampulha,31.270-901,Belo Horizonte/MG,541email@emailfalso.com
+Empresa 542,Empresa 542,Trabalhador,Categoria 542,*Rio de Janeiro*.,Endereço 542,Centro,20.061-015,Rio de Janeiro/RJ,542email@emailfalso.com
+Empresa 543,Empresa 543,Trabalhador,Categoria 543,*São Paulo*: Cajuru.,Endereço 543,Centro,14.240-000,Cajuru/SP,543email@emailfalso.com
+Empresa 544,Empresa 544,Trabalhador,Categoria 544,*Bahia*: Uibaí.,Endereço 544,Centro,44.950-000,Uibaí/BA,544email@emailfalso.com
+Empresa 545,Empresa 545,Trabalhador,Categoria 545,*Espírito Santo* e *Rio de Janeiro*.,Endereço 545,Centro,20.071-003,Rio de Janeiro/RJ,545email@emailfalso.com
+Empresa 546,Empresa 546,Trabalhador,Categoria 546,*Espírito Santo*.,Endereço 546,Praia do Suá,29.052-280,Vitória/ES,546email@emailfalso.com
+Empresa 547,Empresa 547,Trabalhador,Categoria 547,*Espírito Santo*.,Endereço 547,Centro,29.010-901,Vitória/ES,547email@emailfalso.com
+Empresa 548,Empresa 548,Trabalhador,Categoria 548,*Paraíba*: João Pessoa.,Endereço 548,Roger,58.020-100,João Pessoa/PB,548email@emailfalso.com
+Empresa 549,Empresa 549,Trabalhador,Categoria 549,*Alagoas*.,Endereço 549,Gruta de Lourdes,57.052-484,Maceió/AL,549email@emailfalso.com
+Empresa 550,Empresa 550,Trabalhador,Categoria 550,*Rio Grande do Norte*.,Endereço 550,Candelária,59.064-390,Natal/RN,550email@emailfalso.com
+Empresa 551,Empresa 551,Trabalhador,Categoria 551,*Rio Grande do Norte*.,Endereço 551,Lagoa Nova,59.075-300,Natal/RN,551email@emailfalso.com
+Empresa 552,Empresa 552,Trabalhador,Categoria 552,*Ceará*.,Endereço 552,Vila União,60.416-230,Fortaleza/CE,552email@emailfalso.com
+Empresa 553,Empresa 553,Trabalhador,Categoria 553,*Maranhão*.,Endereço 553,Monte Castelo,65.035-430,São Luís/MA,553email@emailfalso.com
+Empresa 554,Empresa 554,Trabalhador,Categoria 554,*Ceará*.,Endereço 554,Fátima,60.040-480,Fortaleza/CE,554email@emailfalso.com
+Empresa 555,Empresa 555,Trabalhador,Categoria 555,*Amapá*.,Endereço 555,Santa Rita,68.901-335,Macapá/AP,555email@emailfalso.com
+Empresa 556,Empresa 556,Trabalhador,Categoria 556,*Piauí*.,Endereço 556,Centro,64.000-330,Teresina/PI,556email@emailfalso.com
+Empresa 557,Empresa 557,Trabalhador,Categoria 557,*Rondônia*.,Endereço 557,Nossa Senhora das Graças,76.804-129,Porto Velho/RO,557email@emailfalso.com
+Empresa 558,Empresa 558,Trabalhador,Categoria 558,*Amazonas*.,Endereço 558,São Francisco,69.079-210,Manaus/AM,558email@emailfalso.com
+Empresa 559,Empresa 559,Trabalhador,Categoria 559,*Amazonas*.,Endereço 559,Centro,69.010-100,Manaus/AM,559email@emailfalso.com
+Empresa 560,Empresa 560,Trabalhador,Categoria 560,*Bahia*.,Endereço 560,Nazaré,40.040-465,Salvador/BA,560email@emailfalso.com
+Empresa 561,Empresa 561,Trabalhador,Categoria 561,*Mato Grosso do Sul*: Vicentina.,Endereço 561,CENTRO,79.710-000,Vicentina/MS,561email@emailfalso.com
+Empresa 562,Empresa 562,Trabalhador,Categoria 562,*Distrito Federal*.,Endereço 562,Asa Norte,70.719-900,Brasília/DF,562email@emailfalso.com
+Empresa 563,Empresa 563,Trabalhador,Categoria 563,*Mato Grosso*: Guiratinga.,Endereço 563,Tancredo Neves,78.760-000,Guiratinga/MT,563email@emailfalso.com
+Empresa 564,Empresa 564,Trabalhador,Categoria 564,*Mato Grosso*.,Endereço 564,Morada do Ouro - Setor Oeste,78.053-030,Cuiabá/MT,564email@emailfalso.com
+Empresa 565,Empresa 565,Trabalhador,Categoria 565,*Sergipe*.,Endereço 565,Coroa do Meio,49.035-430,Aracaju/SE,565email@emailfalso.com
+Empresa 566,Empresa 566,Trabalhador,Categoria 566,*Sergipe*.,Endereço 566,Suíssa,49.052-430,Aracaju/SE,566email@emailfalso.com
+Empresa 567,Empresa 567,Trabalhador,Categoria 567,*Sergipe*.,Endereço 567,Getúlio Vargas,49.055-540,Aracaju/SE,567email@emailfalso.com
+Empresa 568,Empresa 568,Trabalhador,Categoria 568,*Sergipe*.,Endereço 568,Centro,49.010-170,Aracaju/SE,568email@emailfalso.com
+Empresa 569,Empresa 569,Trabalhador,Categoria 569,*Bahia*.,Endereço 569,Nazaré,40.040-465,Salvador/BA,569email@emailfalso.com
+Empresa 570,Empresa 570,Trabalhador,Categoria 570,*Espírito Santo*: Serra.,Endereço 570,Centro,29.176-050,Serra/ES,570email@emailfalso.com
+Empresa 571,Empresa 571,Trabalhador,Categoria 571,*Espírito Santo*: Aracruz.,Endereço 571,De Carli,29.194-074,Aracruz/ES,571email@emailfalso.com
+Empresa 572,Empresa 572,Trabalhador,Categoria 572,*Espírito Santo*.,Endereço 572,Centro,29.015-100,Vitória/ES,572email@emailfalso.com
+Empresa 573,Empresa 573,Trabalhador,Categoria 573,*Rio de Janeiro*: Petrópolis.,Endereço 573,Centro,25.620-000,Petrópolis/RJ,573email@emailfalso.com
+Empresa 574,Empresa 574,Trabalhador,Categoria 574,*Rio de Janeiro*: Três Rios.,Endereço 574,Centro,25.802-210,Três Rios/RJ,574email@emailfalso.com
+Empresa 575,Empresa 575,Trabalhador,Categoria 575,*Espírito Santo*: Vila Velha.,Endereço 575,Praia de Itaparica,29.102-041,Vila Velha/ES,575email@emailfalso.com
+Empresa 576,Empresa 576,Trabalhador,Categoria 576,*Espírito Santo*.,Endereço 576,Centro,29.010-365,Vitória/ES,576email@emailfalso.com
+Empresa 577,Empresa 577,Trabalhador,Categoria 577,*Espírito Santo*.,Endereço 577,Praia do Suá,29.052-280,Vitória/ES,577email@emailfalso.com
+Empresa 578,Empresa 578,Trabalhador,Categoria 578,*Espírito Santo*.,Endereço 578,Enseada do Suá,29.050-335,Vitória/ES,578email@emailfalso.com
+Empresa 579,Empresa 579,Trabalhador,Categoria 579,,Endereço 579,,,Brasília/DF,579email@emailfalso.com
+Empresa 580,Empresa 580,Trabalhador,Categoria 580,,Endereço 580,,,Brasília/DF,580email@emailfalso.com
+Empresa 581,Empresa 581,Trabalhador,Categoria 581,*Mato Grosso do Sul*: Jateí.,Endereço 581,CENTRO,79.720-000,Jateí/MS,581email@emailfalso.com
+Empresa 582,Empresa 582,Trabalhador,Categoria 582,*Goiás*.,Endereço 582,Setor Sul,74.085-325,Goiânia/GO,582email@emailfalso.com
+Empresa 583,Empresa 583,Trabalhador,Categoria 583,*Goiás*.,Endereço 583,Setor Coimbra,74.530-170,Goiânia/GO,583email@emailfalso.com
+Empresa 584,Empresa 584,Trabalhador,Categoria 584,*Tocantins*.,Endereço 584,Plano Diretor Sul,77.021-634,Palmas/TO,584email@emailfalso.com
+Empresa 585,Empresa 585,Trabalhador,Categoria 585,*Tocantins*.,Endereço 585,Plano Diretor Sul,77.015-028,Palmas/TO,585email@emailfalso.com
+Empresa 586,Empresa 586,Trabalhador,Categoria 586,*Distrito Federal*.,Endereço 586,Asa Norte,70.040-905,Brasília/DF,586email@emailfalso.com
+Empresa 587,Empresa 587,Trabalhador,Categoria 587,*Distrito Federal*.,Endereço 587,Zona Industrial,70.610-440,Brasília/DF,587email@emailfalso.com
+Empresa 588,Empresa 588,Trabalhador,Categoria 588,*Minas Gerais*.,Endereço 588,Centro,30.190-050,Belo Horizonte/MG,588email@emailfalso.com
+Empresa 589,Empresa 589,Trabalhador,Categoria 589,"*Minas Gerais*: Antônio Prado de Minas, Barão de Monte Alto, Espera Feliz, Eugenópolis, Fervedouro, Laranjal, Leopoldina, Miradouro, Miraí, Muriaé, Patrocínio do Muriaé, Pedra Dourada, Rosário da Limeira, São Francisco do Glória, São Sebastião da Vargem Alegre, Tombos e Vieiras.",Endereço 589,Centro,36.880-000,Muriaé/MG,589email@emailfalso.com
+Empresa 590,Empresa 590,Trabalhador,Categoria 590,*Minas Gerais*: São João del Rei.,Endereço 590,Centro,36.300-116,São João Del Rei/MG,590email@emailfalso.com
+Empresa 591,Empresa 591,Trabalhador,Categoria 591,*Minas Gerais*: Barroso.,Endereço 591,CENTRO,36.212-000,Barroso/MG,591email@emailfalso.com
+Empresa 592,Empresa 592,Trabalhador,Categoria 592,*Minas Gerais*: Alfenas.,Endereço 592,centro,37.130-000,Alfenas/MG,592email@emailfalso.com
+Empresa 593,Empresa 593,Trabalhador,Categoria 593,*Minas Gerais*: Piranga.,Endereço 593,centro,36.480-000,Piranga/MG,593email@emailfalso.com
+Empresa 594,Empresa 594,Trabalhador,Categoria 594,*Minas Gerais*.,Endereço 594,Centro,30.170-120,Belo Horizonte/MG,594email@emailfalso.com
+Empresa 595,Empresa 595,Trabalhador,Categoria 595,*Minas Gerais*: Contagem.,Endereço 595,Santa Cruz Industrial,32.340-580,Contagem/MG,595email@emailfalso.com
+Empresa 596,Empresa 596,Trabalhador,Categoria 596,"*Acre*, *Alagoas*, *Amapá*, *Amazonas*, *Bahia*, *Maranhão*, *Minas Gerais*, *Paraná*, *Piauí*, *Roraima*, *Sergipe* e *Tocantins*.",Endereço 596,Centro,30.160-906,Belo Horizonte/MG,596email@emailfalso.com
+Empresa 597,Empresa 597,Trabalhador,Categoria 597,*Minas Gerais*: Ibiraci.,Endereço 597,centro,37.990-000,Ibiraci/MG,597email@emailfalso.com
+Empresa 598,Empresa 598,Trabalhador,Categoria 598,*Minas Gerais*: Claraval.,Endereço 598,Centro,37.997-000,Claraval/MG,598email@emailfalso.com
+Empresa 599,Empresa 599,Trabalhador,Categoria 599,*Minas Gerais*: Formiga.,Endereço 599,centro,35.570-000,Formiga/MG,599email@emailfalso.com
+Empresa 600,Empresa 600,Trabalhador,Categoria 600,*Minas Gerais*: Monte Santo de Minas.,Endereço 600,Jardim Santa Clara,37.958-000,Monte Santo de Minas/MG,600email@emailfalso.com
+Empresa 601,Empresa 601,Trabalhador,Categoria 601,*Minas Gerais*: Alpinópolis.,Endereço 601,Centro,37.940-000,Alpinópolis/MG,601email@emailfalso.com
+Empresa 602,Empresa 602,Trabalhador,Categoria 602,*Minas Gerais*: Pará de Minas.,Endereço 602,Vila Sinhô,35.660-084,Pará de Minas/MG,602email@emailfalso.com
+Empresa 603,Empresa 603,Trabalhador,Categoria 603,*Ceará*.,Endereço 603,Centro,60.020-000,Fortaleza/CE,603email@emailfalso.com
+Empresa 604,Empresa 604,Trabalhador,Categoria 604,*Ceará*.,Endereço 604,Centro,60.015-060,Fortaleza/CE,604email@emailfalso.com
+Empresa 605,Empresa 605,Trabalhador,Categoria 605,*Ceará*: Fortaleza.,Endereço 605,Centro,60.020-001,Fortaleza/CE,605email@emailfalso.com
+Empresa 606,Empresa 606,Trabalhador,Categoria 606,*Ceará*.,Endereço 606,Centro,60.010-250,Fortaleza/CE,606email@emailfalso.com
+Empresa 607,Empresa 607,Trabalhador,Categoria 607,*Maranhão*: Imperatriz.,Endereço 607,Centro,65.900-550,Imperatriz/MA,607email@emailfalso.com
+Empresa 608,Empresa 608,Trabalhador,Categoria 608,*Piauí*.,Endereço 608,Primavera,64.006-160,Teresina/PI,608email@emailfalso.com
+Empresa 609,Empresa 609,Trabalhador,Categoria 609,*Minas Gerais*.,Endereço 609,Centro,30.130-180,Belo Horizonte/MG,609email@emailfalso.com
+Empresa 610,Empresa 610,Trabalhador,Categoria 610,*Sergipe*.,Endereço 610,Centro,49.010-130,Aracaju/SE,610email@emailfalso.com
+Empresa 611,Empresa 611,Trabalhador,Categoria 611,*Rondônia*.,Endereço 611,jardim Tropical,78.950-000,Ouro Preto do Oeste/RO,611email@emailfalso.com
+Empresa 612,Empresa 612,Trabalhador,Categoria 612,*Ceará*.,Endereço 612,Centro,60.030-100,Fortaleza/CE,612email@emailfalso.com
+Empresa 613,Empresa 613,Trabalhador,Categoria 613,"*Ceará*: Abaiara, Acarape, Acaraú, Acopiara, Altaneira, Alto Santo, Amontada, Apuiarés, Aquiraz, Aracoiaba, Ararendá, Araripe, Aratuba, Assaré, Aurora, Baixio, Banabuiú, Barbalha, Barreira, Barro, Barroquinha, Baturité, Beberibe, Bela Cruz, Boa Viagem, Brejo Santo, Camocim, Campos Sales, Canindé, Capistrano, Caridade, Cariré, Caririaçu, Cariús, Carnaubal, Cascavel, Catarina, Catunda, Caucaia, Cedro, Chaval, Choró, Chorozinho, Coreaú, Crateús, Crato, Croatá, Cruz, Deputado Irapuan Pinheiro, Ererê, Eusébio, Farias Brito, Forquilha, Fortaleza, Fortim, Frecheirinha, General Sampaio, Graça, Granja, Granjeiro, Groaíras, Guaiúba, Guaraciaba do Norte, Guaramiranga, Hidrolândia, Horizonte, Ibaretama, Ibiapina, Ibicuitinga, Icapuí, Icó, Iguatu, Independência, Ipaporanga, Ipaumirim, Ipu, Ipueiras, Iracema, Irauçuba, Itaiçaba, Itaitinga, Itapajé, Itapipoca, Itapiúna, Itarema, Itatira, Jaguaretama, Jaguaribara, Jaguaribe, Jaguaruana, Jardim, Jati, Jijoca de Jericoacoara, Juazeiro do Norte, Jucás, Lavras da Mangabeira, Limoeiro do Norte, Madalena, Maracanaú, Maranguape, Marco, Martinópole, Massapê, Mauriti, Meruoca, Milagres, Milhã, Miraíma, Missão Velha, Mombaça, Monsenhor Tabosa, Morada Nova, Moraújo, Morrinhos, Mucambo, Mulungu, Nova Olinda, Nova Russas, Novo Oriente, Ocara, Orós, Pacajus, Pacatuba, Pacoti, Pacujá, Palhano, Palmácia, Paracuru, Paraipaba, Parambu, Paramoti, Pedra Branca, Penaforte, Pentecoste, Pereiro, Pindoretama, Piquet Carneiro, Pires Ferreira, Poranga, Porteiras, Potengi, Potiretama, Quiterianópolis, Quixadá, Quixelô, Quixeramobim, Quixeré, Redenção, Reriutaba, Russas, Salitre, Santa Quitéria, Santana do Acaraú, Santana do Cariri, São Benedito, São Gonçalo do Amarante, São João do Jaguaribe, São Luís do Curu, Senador Pompeu, Senador Sá, Sobral, Solonópole, Tabuleiro do Norte, Tamboril, Tarrafas, Tauá, Tejuçuoca, Tianguá, Trairi, Tururu, Ubajara, Umari, Umirim, Uruburetama, Uruoca, Varjota, Várzea Alegre e Viçosa do Ceará.",Endereço 613,José Bonifácio,60.050-041,Fortaleza/CE,613email@emailfalso.com
+Empresa 614,Empresa 614,Trabalhador,Categoria 614,*São Paulo*: Charqueada.,Endereço 614,São Benedito,13.515-000,Charqueada/SP,614email@emailfalso.com
+Empresa 615,Empresa 615,Trabalhador,Categoria 615,*Espírito Santo*: Rio Bananal.,Endereço 615,SÃO SEBASTIÃO,29.920-000,Rio Bananal/ES,615email@emailfalso.com
+Empresa 616,Empresa 616,Trabalhador,Categoria 616,*Bahia*: Remanso.,Endereço 616,Quadra 04 Centro,47.200-000,Remanso/BA,616email@emailfalso.com
+Empresa 617,Empresa 617,Trabalhador,Categoria 617,*Rio Grande do Sul*: Imigrante.,Endereço 617,Centro,95.885-000,Imigrante/RS,617email@emailfalso.com
+Empresa 618,Empresa 618,Trabalhador,Categoria 618,*Minas Gerais*: Mata Verde.,Endereço 618,Centro,39.915-000,Mata Verde/MG,618email@emailfalso.com
+Empresa 619,Empresa 619,Trabalhador,Categoria 619,*Goiás*: Itaguaru.,Endereço 619,CENTRO,76.660-000,Itaguaru/GO,619email@emailfalso.com
+Empresa 620,Empresa 620,Trabalhador,Categoria 620,*Piauí*: Várzea Branca.,Endereço 620,Centro,64.773-000,Várzea Branca/PI,620email@emailfalso.com
+Empresa 621,Empresa 621,Trabalhador,Categoria 621,*Ceará*: Massapê.,Endereço 621,CENTRO,62.140-000,Massapê/CE,621email@emailfalso.com
+Empresa 622,Empresa 622,Trabalhador,Categoria 622,*Minas Gerais*: Várzea da Palma.,Endereço 622,Centro,39.260-000,Várzea da Palma/MG,622email@emailfalso.com
+Empresa 623,Empresa 623,Trabalhador,Categoria 623,*Minas Gerais*: Delfinópolis.,Endereço 623,Centro,37.910-000,Delfinópolis/MG,623email@emailfalso.com
+Empresa 624,Empresa 624,Trabalhador,Categoria 624,*Mato Grosso do Sul*: Dourados.,Endereço 624,Vila Industrial,79.840-230,Dourados/MS,624email@emailfalso.com
+Empresa 625,Empresa 625,Trabalhador,Categoria 625,*Espírito Santo*: Itarana.,Endereço 625,Centro,29.620-000,Itarana/ES,625email@emailfalso.com
+Empresa 626,Empresa 626,Trabalhador,Categoria 626,*Minas Gerais*: Presidente Bernardes.,Endereço 626,Centro,36.475-000,Presidente Bernardes/MG,626email@emailfalso.com
+Empresa 627,Empresa 627,Trabalhador,Categoria 627,*Distrito Federal*.,Endereço 627,Setor de Habitações Individuais Norte,71.503-511,Brasília/DF,627email@emailfalso.com
+Empresa 628,Empresa 628,Trabalhador,Categoria 628,*Rio Grande do Sul*: Jaguari.,Endereço 628,Centro,97.760-000,Jaguari/RS,628email@emailfalso.com
+Empresa 629,Empresa 629,Trabalhador,Categoria 629,*Paraná*: Mamborê.,Endereço 629,sub urbano,87.340-000,Mamborê/PR,629email@emailfalso.com
+Empresa 630,Empresa 630,Trabalhador,Categoria 630,*Alagoas*: Maceió.,Endereço 630,Centro,57.020-290,Maceió/AL,630email@emailfalso.com
+Empresa 631,Empresa 631,Trabalhador,Categoria 631,*Goiás*: Acreúna.,Endereço 631,Conjunto Paineiras,75.960-000,Acreúna/GO,631email@emailfalso.com
+Empresa 632,Empresa 632,Trabalhador,Categoria 632,*Goiás*: Inhumas.,Endereço 632,Anhanguera,75.400-000,Inhumas/GO,632email@emailfalso.com
+Empresa 633,Empresa 633,Trabalhador,Categoria 633,*Bahia*: Cachoeira.,Endereço 633,centro,44.300-000,Cachoeira/BA,633email@emailfalso.com
+Empresa 634,Empresa 634,Trabalhador,Categoria 634,*Santa Catarina*: Alfredo Wagner.,Endereço 634,Centro,88.450-000,Alfredo Wagner/SC,634email@emailfalso.com
+Empresa 635,Empresa 635,Trabalhador,Categoria 635,"*Paraná*: Adrianópolis, Agudos do Sul, Almirante Tamandaré, Antonina, Araucária, Balsa Nova, Bocaiúva do Sul, Campina do Simão, Campo Largo, Campo Magro, Cerro Azul, Colombo, Contenda, Curitiba, Doutor Ulysses, Fazenda Rio Grande, Guaraqueçaba, Guaratuba, Itaperuçu, Mandirituba, Matinhos, Morretes, Paranaguá, Pinhais, Piraquara, Pontal do Paraná, Quatro Barras, Quitandinha, Rio Branco do Sul, São José dos Pinhais, Tijucas do Sul e Tunas do Paraná.",Endereço 635,Centro,80.060-010,Curitiba/PR,635email@emailfalso.com
+Empresa 636,Empresa 636,Trabalhador,Categoria 636,*Paraná*.,Endereço 636,Centro,80.020-910,Curitiba/PR,636email@emailfalso.com
+Empresa 637,Empresa 637,Trabalhador,Categoria 637,*Rio Grande do Sul*: Quinze de Novembro.,Endereço 637,TRES PALMEIRAS,98.230-000,Quinze de Novembro/RS,637email@emailfalso.com
+Empresa 638,Empresa 638,Trabalhador,Categoria 638,"*Bahia*: Belmonte, Eunápolis, Guaratinga, Itabela, Porto Seguro e Santa Cruz Cabrália.",Endereço 638,Centro,45.810-000,Porto Seguro/BA,638email@emailfalso.com
+Empresa 639,Empresa 639,Trabalhador,Categoria 639,"*Pernambuco*: Aliança, Buenos Aires, Carpina, Itaquitinga, Lagoa do Carro, Macaparana, Paudalho, Tracunhaém e Vicência.",Endereço 639,São Sebastião,55.818-565,Carpina/PE,639email@emailfalso.com
+Empresa 640,Empresa 640,Trabalhador,Categoria 640,*Goiás*: Goiânia.,Endereço 640,Setor Sul,74.083-060,Goiânia/GO,640email@emailfalso.com
+Empresa 641,Empresa 641,Trabalhador,Categoria 641,*Paraíba*.,Endereço 641,Centro,58.011-000,João Pessoa/PB,641email@emailfalso.com
+Empresa 642,Empresa 642,Trabalhador,Categoria 642,*Paraíba*.,Endereço 642,Castelo Branco,58.051-900,João Pessoa/PB,642email@emailfalso.com
+Empresa 643,Empresa 643,Trabalhador,Categoria 643,*Goiás*: Anápolis.,Endereço 643,Setor Central,75.020-420,Anápolis/GO,643email@emailfalso.com
+Empresa 644,Empresa 644,Trabalhador,Categoria 644,*Ceará*.,Endereço 644,Centro,60.050-040,Fortaleza/CE,644email@emailfalso.com
+Empresa 645,Empresa 645,Trabalhador,Categoria 645,*Mato Grosso*: Brasnorte.,Endereço 645,CENTRO,78.350-000,Brasnorte/MT,645email@emailfalso.com
+Empresa 646,Empresa 646,Trabalhador,Categoria 646,*Minas Gerais*.,Endereço 646,Barro Preto,30.190-080,Belo Horizonte/MG,646email@emailfalso.com
+Empresa 647,Empresa 647,Trabalhador,Categoria 647,*Amazonas*: Manaus.,Endereço 647,Aparecida,69.010-300,Manaus/AM,647email@emailfalso.com
+Empresa 648,Empresa 648,Trabalhador,Categoria 648,*Paraná*: Peabiru.,Endereço 648,centro,87.250-000,Peabiru/PR,648email@emailfalso.com
+Empresa 649,Empresa 649,Trabalhador,Categoria 649,*Tocantins*.,Endereço 649,Plano Diretor Norte,77.006-214,Palmas/TO,649email@emailfalso.com
+Empresa 650,Empresa 650,Trabalhador,Categoria 650,*São Paulo*: Pindorama.,Endereço 650,Centro,15.830-000,Pindorama/SP,650email@emailfalso.com
+Empresa 651,Empresa 651,Trabalhador,Categoria 651,*Rio Grande do Sul*: Campo Bom.,Endereço 651,Centro,93.700-000,Campo Bom/RS,651email@emailfalso.com
+Empresa 652,Empresa 652,Trabalhador,Categoria 652,"*São Paulo*: Caconde, Divinolândia e Tapiratiba.",Endereço 652,Centro,13.770-000,Caconde/SP,652email@emailfalso.com
+Empresa 653,Empresa 653,Trabalhador,Categoria 653,*Rondônia*.,Endereço 653,Pedrinhas,78.903-040,Porto Velho/RO,653email@emailfalso.com
+Empresa 654,Empresa 654,Trabalhador,Categoria 654,*Bahia*: Camacan.,Endereço 654,Centro,45.880-000,Camacan/BA,654email@emailfalso.com
+Empresa 655,Empresa 655,Trabalhador,Categoria 655,*Minas Gerais*: Capelinha.,Endereço 655,CENTRO,39.680-000,Capelinha/MG,655email@emailfalso.com
+Empresa 656,Empresa 656,Trabalhador,Categoria 656,*Ceará*.,Endereço 656,Benfica,60.020-110,Fortaleza/CE,656email@emailfalso.com
+Empresa 657,Empresa 657,Trabalhador,Categoria 657,*Alagoas*: Marechal Deodoro.,Endereço 657,CENTRO,57.160-000,Marechal Deodoro/AL,657email@emailfalso.com
+Empresa 658,Empresa 658,Trabalhador,Categoria 658,*Maranhão*: São Luís.,Endereço 658,COHAB Anil III,65.050-270,São Luís/MA,658email@emailfalso.com
+Empresa 659,Empresa 659,Trabalhador,Categoria 659,"*Maranhão*: Açailândia, Afonso Cunha, Água Doce do Maranhão, Alcântara, Aldeias Altas, Altamira do Maranhão, Alto Alegre do Maranhão, Alto Alegre do Pindaré, Alto Parnaíba, Amapá do Maranhão, Amarante do Maranhão, Anajatuba, Anapurus, Apicum-Açu, Araguanã, Araioses, Arame, Arari, Axixá, Bacabal, Bacabeira, Bacuri, Bacurituba, Balsas, Barão de Grajaú, Barra do Corda, Barreirinhas, Bela Vista do Maranhão, Belágua, Benedito Leite, Bequimão, Bernardo do Mearim, Boa Vista do Gurupi, Bom Jardim, Bom Jesus das Selvas, Bom Lugar, Brejo, Brejo de Areia, Buriti, Buriti Bravo, Buriticupu, Buritirana, Cachoeira Grande, Cajapió, Cajari, Campestre do Maranhão, Cândido Mendes, Cantanhede, Capinzal do Norte, Carolina, Carutapera, Caxias, Cedral, Central do Maranhão, Centro do Guilherme, Centro Novo do Maranhão, Chapadinha, Cidelândia, Codó, Coelho Neto, Colinas, Conceição do Lago-Açu, Coroatá, Cururupu, Davinópolis, Dom Pedro, Duque Bacelar, Esperantinópolis, Estreito, Feira Nova do Maranhão, Fernando Falcão, Formosa da Serra Negra, Fortaleza dos Nogueiras, Fortuna, Godofredo Viana, Gonçalves Dias, Governador Archer, Governador Edison Lobão, Governador Eugênio Barros, Governador Luiz Rocha, Governador Newton Bello, Governador Nunes Freire, Graça Aranha, Grajaú, Guimarães, Humberto de Campos, Icatu, Igarapé do Meio, Igarapé Grande, Imperatriz, Itaipava do Grajaú, Itinga do Maranhão, Jatobá, Jenipapo dos Vieiras, João Lisboa, Joselândia, Junco do Maranhão, Lago da Pedra, Lago do Junco, Lago dos Rodrigues, Lago Verde, Lagoa do Mato, Lagoa Grande do Maranhão, Lajeado Novo, Lima Campos, Loreto, Luís Domingues, Magalhães de Almeida, Maracaçumé, Marajá do Sena, Maranhãozinho, Mata Roma, Matões, Matões do Norte, Milagres do Maranhão, Mirador, Miranda do Norte, Mirinzal, Monção, Montes Altos, Morros, Nina Rodrigues, Nova Colinas, Nova Olinda do Maranhão, Olho d'Água das Cunhãs, Olinda Nova do Maranhão, Paço do Lumiar, Palmeirândia, Paraibano, Parnarama, Passagem Franca, Paulino Neves, Paulo Ramos, Pedreiras, Pedro do Rosário, Penalva, Peri Mirim, Peritoró, Pindaré-Mirim, Pinheiro, Pio XII, Pirapemas, Poção de Pedras, Porto Franco, Porto Rico do Maranhão, Presidente Dutra, Presidente Juscelino, Presidente Médici, Presidente Sarney, Presidente Vargas, Primeira Cruz, Raposa, Riachão, Ribamar Fiquene, Rosário, Sambaíba, Santa Filomena do Maranhão, Santa Helena, Santa Inês, Santa Luzia do Paruá, Santa Quitéria do Maranhão, Santa Rita, Santana do Maranhão, Santo Amaro do Maranhão, Santo Antônio dos Lopes, São Benedito do Rio Preto, São Bento, São Bernardo, São Domingos do Azeitão, São Domingos do Maranhão, São Félix de Balsas, São Francisco do Brejão, São Francisco do Maranhão, São João Batista, São João do Carú, São João do Paraíso, São João do Soter, São José de Ribamar, São José dos Basílios, São Luís, São Luís Gonzaga do Maranhão, São Mateus do Maranhão, São Pedro da Água Branca, São Pedro dos Crentes, São Raimundo das Mangabeiras, São Raimundo do Doca Bezerra, São Roberto, São Vicente Ferrer, Satubinha, Senador Alexandre Costa, Senador La Rocque, Serrano do Maranhão, Sítio Novo, Sucupira do Riachão, Tasso Fragoso, Timbiras, Timon, Trizidela do Vale, Tufilândia, Tuntum, Turiaçu, Turilândia, Tutóia, Urbano Santos, Vargem Grande, Viana, Vila Nova dos Martírios, Vitória do Mearim, Vitorino Freire e Zé Doca.",Endereço 659,Centro,65.010-160,São Luís/MA,659email@emailfalso.com
+Empresa 660,Empresa 660,Trabalhador,Categoria 660,*Santa Catarina*: Bombinhas.,Endereço 660,José Amandio,88.215-000,Bombinhas/SC,660email@emailfalso.com
+Empresa 661,Empresa 661,Trabalhador,Categoria 661,*Alagoas*: Anadia.,Endereço 661,Centro,57.660-000,Anadia/AL,661email@emailfalso.com
+Empresa 662,Empresa 662,Trabalhador,Categoria 662,*Mato Grosso*: Paranatinga.,Endereço 662,JARDIM PRIMAVERA I,78.870-000,Paranatinga/MT,662email@emailfalso.com
+Empresa 663,Empresa 663,Trabalhador,Categoria 663,"*Ceará*: Aquiraz, Caucaia, Chorozinho, Eusébio, Fortaleza, Guaiúba, Horizonte, Itaitinga, Maracanaú, Maranguape, Pacajus, Pacatuba e São Gonçalo do Amarante.",Endereço 663,Montese,60.420-630,Fortaleza/CE,663email@emailfalso.com
+Empresa 664,Empresa 664,Trabalhador,Categoria 664,*Bahia*: Tucano.,Endereço 664,Centro,48.790-000,Tucano/BA,664email@emailfalso.com
+Empresa 665,Empresa 665,Trabalhador,Categoria 665,*Paraíba*: Alagoa Grande.,Endereço 665,centro,58.388-000,Alagoa Grande/PB,665email@emailfalso.com
+Empresa 666,Empresa 666,Trabalhador,Categoria 666,*Rio Grande do Sul*: Lagoa dos Três Cantos.,Endereço 666,CENTRO,99.495-000,Lagoa dos Três Cantos/RS,666email@emailfalso.com
+Empresa 667,Empresa 667,Trabalhador,Categoria 667,*Santa Catarina*: Porto Belo.,Endereço 667,Centro,88.210-000,Porto Belo/SC,667email@emailfalso.com
+Empresa 668,Empresa 668,Trabalhador,Categoria 668,*Rio de Janeiro*: São Francisco de Itabapoana.,Endereço 668,CENTRO,28.230-000,São Francisco de Itabapoana/RJ,668email@emailfalso.com
+Empresa 669,Empresa 669,Trabalhador,Categoria 669,*Bahia*: Sobradinho.,Endereço 669,São Francisco,48.925-000,Sobradinho/BA,669email@emailfalso.com
+Empresa 670,Empresa 670,Trabalhador,Categoria 670,*Santa Catarina*: Presidente Nereu.,Endereço 670,Centro,89.184-000,Presidente Nereu/SC,670email@emailfalso.com
+Empresa 671,Empresa 671,Trabalhador,Categoria 671,*São Paulo*: Barueri.,Endereço 671,Vila São Jorge,06.402-030,Barueri/SP,671email@emailfalso.com
+Empresa 672,Empresa 672,Trabalhador,Categoria 672,*Mato Grosso do Sul*: Terenos.,Endereço 672,centro,79.190-000,Terenos/MS,672email@emailfalso.com
+Empresa 673,Empresa 673,Trabalhador,Categoria 673,*Mato Grosso*.,Endereço 673,Grande Terceiro,78.065-590,Cuiabá/MT,673email@emailfalso.com
+Empresa 674,Empresa 674,Trabalhador,Categoria 674,*Bahia*.,Endereço 674,Nazaré,40.040-030,Salvador/BA,674email@emailfalso.com
+Empresa 675,Empresa 675,Trabalhador,Categoria 675,*Santa Catarina*: Lages.,Endereço 675,Centro,88.502-070,Lages/SC,675email@emailfalso.com
+Empresa 676,Empresa 676,Trabalhador,Categoria 676,*Goiás*: Águas Lindas de Goiás.,Endereço 676,setor 8,72.910-000,Águas Lindas de Goiás/GO,676email@emailfalso.com
+Empresa 677,Empresa 677,Trabalhador,Categoria 677,*Paraíba*.,Endereço 677,Brisamar,58.031-010,João Pessoa/PB,677email@emailfalso.com
+Empresa 678,Empresa 678,Trabalhador,Categoria 678,*Espírito Santo*: Santa Maria de Jetibá.,Endereço 678,Centro,29.645-000,Santa Maria de Jetibá/ES,678email@emailfalso.com
+Empresa 679,Empresa 679,Trabalhador,Categoria 679,*Pernambuco*: Camutanga.,Endereço 679,CENTRO,55.930-000,Camutanga/PE,679email@emailfalso.com
+Empresa 680,Empresa 680,Trabalhador,Categoria 680,,Endereço 680,,,Brasília/DF,680email@emailfalso.com
+Empresa 681,Empresa 681,Trabalhador,Categoria 681,*Ceará*: Fortaleza.,Endereço 681,Centro,60.020-031,Fortaleza/CE,681email@emailfalso.com
+Empresa 682,Empresa 682,Trabalhador,Categoria 682,*Minas Gerais*.,Endereço 682,Barro Preto,30.180-101,Belo Horizonte/MG,682email@emailfalso.com
+Empresa 683,Empresa 683,Trabalhador,Categoria 683,"*São Paulo*: Amparo, Indaiatuba, Louveira e Valinhos.",Endereço 683,Vila Olivo,13.276-020,Valinhos/SP,683email@emailfalso.com
+Empresa 684,Empresa 684,Trabalhador,Categoria 684,*Rio de Janeiro*.,Endereço 684,Centro,20.031-010,Rio de Janeiro/RJ,684email@emailfalso.com
+Empresa 685,Empresa 685,Trabalhador,Categoria 685,*Rio Grande do Sul*: Cachoeira do Sul.,Endereço 685,Santo Antônio,96.506-321,Cachoeira do Sul/RS,685email@emailfalso.com
+Empresa 686,Empresa 686,Trabalhador,Categoria 686,"*Mato Grosso do Sul*: Água Clara, Selvíria e Três Lagoas.",Endereço 686,Centro,79.602-080,Três Lagoas/MS,686email@emailfalso.com
+Empresa 687,Empresa 687,Trabalhador,Categoria 687,*São Paulo*: Itu.,Endereço 687,Jardim São José,13.310-311,Itu/SP,687email@emailfalso.com
+Empresa 688,Empresa 688,Trabalhador,Categoria 688,*Espírito Santo*: Jaguaré.,Endereço 688,Centro,29.950-000,Jaguaré/ES,688email@emailfalso.com
+Empresa 689,Empresa 689,Trabalhador,Categoria 689,*Ceará*: Ibiapina.,Endereço 689,São João,62.360-000,Ibiapina/CE,689email@emailfalso.com
+Empresa 690,Empresa 690,Trabalhador,Categoria 690,*Espírito Santo*: Castelo.,Endereço 690,Centro,29.360-000,Castelo/ES,690email@emailfalso.com
+Empresa 691,Empresa 691,Trabalhador,Categoria 691,*São Paulo*: Araçoiaba da Serra e Capela do Alto.,Endereço 691,Centro,18.190-000,Araçoiaba da Serra/SP,691email@emailfalso.com
+Empresa 692,Empresa 692,Trabalhador,Categoria 692,*Minas Gerais*.,Endereço 692,Barro Preto,30.180-109,Belo Horizonte/MG,692email@emailfalso.com
+Empresa 693,Empresa 693,Trabalhador,Categoria 693,*Minas Gerais*: Ponte Nova.,Endereço 693,Centro,35.430-001,Ponte Nova/MG,693email@emailfalso.com
+Empresa 694,Empresa 694,Trabalhador,Categoria 694,*Minas Gerais*: Barbacena.,Endereço 694,São Sebastião,36.202-338,Barbacena/MG,694email@emailfalso.com
+Empresa 695,Empresa 695,Trabalhador,Categoria 695,*Espírito Santo*: Atílio Vivacqua.,Endereço 695,centro,29.490-000,Atílio Vivácqua/ES,695email@emailfalso.com
+Empresa 696,Empresa 696,Trabalhador,Categoria 696,*Rio de Janeiro*: Barra Mansa.,Endereço 696,Centro,27.345-310,Barra Mansa/RJ,696email@emailfalso.com
+Empresa 697,Empresa 697,Trabalhador,Categoria 697,*Rio Grande do Sul*: Vale do Sol.,Endereço 697,Centro,96.878-000,Vale do Sol/RS,697email@emailfalso.com
+Empresa 698,Empresa 698,Trabalhador,Categoria 698,*São Paulo*: Hortolândia.,Endereço 698,Loteamento Remanso Campineiro,13.184-456,Hortolândia/SP,698email@emailfalso.com
+Empresa 699,Empresa 699,Trabalhador,Categoria 699,*Mato Grosso do Sul*: Camapuã.,Endereço 699,Centro,79.420-000,Camapuã/MS,699email@emailfalso.com
+Empresa 700,Empresa 700,Trabalhador,Categoria 700,,Endereço 700,Centro,96.400-350,Bagé/RS,700email@emailfalso.com
+Empresa 701,Empresa 701,Trabalhador,Categoria 701,*Mato Grosso*: Nova Xavantina.,Endereço 701,Flor de Liz,78.690-000,Nova Xavantina/MT,701email@emailfalso.com
+Empresa 702,Empresa 702,Trabalhador,Categoria 702,*Minas Gerais*.,Endereço 702,Floresta,31.110-010,Belo Horizonte/MG,702email@emailfalso.com
+Empresa 703,Empresa 703,Trabalhador,Categoria 703,*Bahia*: Jequié.,Endereço 703,Campo do América,45.203-011,Jequié/BA,703email@emailfalso.com
+Empresa 704,Empresa 704,Trabalhador,Categoria 704,*Bahia*: Vitória da Conquista.,Endereço 704,Centro,45.015-060,Vitória da Conquista/BA,704email@emailfalso.com
+Empresa 705,Empresa 705,Trabalhador,Categoria 705,*Alagoas*.,Endereço 705,Centro,57.020-600,Maceió/AL,705email@emailfalso.com
+Empresa 706,Empresa 706,Trabalhador,Categoria 706,*Alagoas*.,Endereço 706,Centro,57.020-260,Maceió/AL,706email@emailfalso.com
+Empresa 707,Empresa 707,Trabalhador,Categoria 707,*Ceará*.,Endereço 707,Centro,60.055-130,Fortaleza/CE,707email@emailfalso.com
+Empresa 708,Empresa 708,Trabalhador,Categoria 708,*Paraíba*.,Endereço 708,Centro,58.013-290,João Pessoa/PB,708email@emailfalso.com
+Empresa 709,Empresa 709,Trabalhador,Categoria 709,*Paraíba*.,Endereço 709,Torre,58.040-350,João Pessoa/PB,709email@emailfalso.com
+Empresa 710,Empresa 710,Trabalhador,Categoria 710,*Ceará*.,Endereço 710,Centro,60.020-001,Fortaleza/CE,710email@emailfalso.com
+Empresa 711,Empresa 711,Trabalhador,Categoria 711,*Rio Grande do Sul*.,Endereço 711,Menino Deus,90.150-001,Porto Alegre/RS,711email@emailfalso.com
+Empresa 712,Empresa 712,Trabalhador,Categoria 712,*São Paulo*: Igarapava.,Endereço 712,Centro,14.540-000,Igarapava/SP,712email@emailfalso.com
+Empresa 713,Empresa 713,Trabalhador,Categoria 713,*Paraíba*: Rio Tinto.,Endereço 713,CENTRO,58.297-000,Rio Tinto/PB,713email@emailfalso.com
+Empresa 714,Empresa 714,Trabalhador,Categoria 714,*São Paulo*.,Endereço 714,Brás,01.017-000,São Paulo/SP,714email@emailfalso.com
+Empresa 715,Empresa 715,Trabalhador,Categoria 715,*Pernambuco*: Ouricuri.,Endereço 715,CENTRO,56.200-000,Ouricuri/PE,715email@emailfalso.com
+Empresa 716,Empresa 716,Trabalhador,Categoria 716,*Ceará*: Penaforte.,Endereço 716,Centro,63.280-000,Penaforte/CE,716email@emailfalso.com
+Empresa 717,Empresa 717,Trabalhador,Categoria 717,*São Paulo*: Porto Feliz.,Endereço 717,centro,18.540-000,Porto Feliz/SP,717email@emailfalso.com
+Empresa 718,Empresa 718,Trabalhador,Categoria 718,*Sergipe*.,Endereço 718,Jabotiana,49.095-550,Aracaju/SE,718email@emailfalso.com
+Empresa 719,Empresa 719,Trabalhador,Categoria 719,*Rio Grande do Sul*: Porto Alegre.,Endereço 719,Floresta,90.220-130,Porto Alegre/RS,719email@emailfalso.com
+Empresa 720,Empresa 720,Trabalhador,Categoria 720,*São Paulo*: Cândido Rodrigues e Taquaritinga.,Endereço 720,CENTRO,15.900-000,Taquaritinga/SP,720email@emailfalso.com
+Empresa 721,Empresa 721,Trabalhador,Categoria 721,*Rio de Janeiro*: Queimados.,Endereço 721,Queimados,26.380-280,Queimados/RJ,721email@emailfalso.com
+Empresa 722,Empresa 722,Trabalhador,Categoria 722,,Endereço 722,Dom Aquino,78.015-050,Cuiabá/MT,722email@emailfalso.com
+Empresa 723,Empresa 723,Trabalhador,Categoria 723,*Ceará*: Redenção.,Endereço 723,centro,62.790-000,Redenção/CE,723email@emailfalso.com
+Empresa 724,Empresa 724,Trabalhador,Categoria 724,*Pernambuco*: Calçado.,Endereço 724,Centro,55.375-000,Calçado/PE,724email@emailfalso.com
+Empresa 725,Empresa 725,Trabalhador,Categoria 725,*Maranhão*: Vargem Grande.,Endereço 725,Baixa Grande,65.430-000,Vargem Grande/MA,725email@emailfalso.com
+Empresa 726,Empresa 726,Trabalhador,Categoria 726,*Piauí*: Jatobá do Piauí.,Endereço 726,Centro,64.275-000,Jatobá do Piauí/PI,726email@emailfalso.com
+Empresa 727,Empresa 727,Trabalhador,Categoria 727,*Alagoas*.,Endereço 727,Trapiche da Barra,57.010-376,Maceió/AL,727email@emailfalso.com
+Empresa 728,Empresa 728,Trabalhador,Categoria 728,*Rio de Janeiro*.,Endereço 728,Centro,20.231-014,Rio de Janeiro/RJ,728email@emailfalso.com
+Empresa 729,Empresa 729,Trabalhador,Categoria 729,*Bahia*: Gavião.,Endereço 729,Centro,44.650-000,Gavião/BA,729email@emailfalso.com
+Empresa 730,Empresa 730,Trabalhador,Categoria 730,*Pernambuco*: Salgueiro.,Endereço 730,Nossa Senhora Aparecida,56.000-000,Salgueiro/PE,730email@emailfalso.com
+Empresa 731,Empresa 731,Trabalhador,Categoria 731,*Goiás*: Mairipotaba.,Endereço 731,Centro II,75.630-000,Mairipotaba/GO,731email@emailfalso.com
+Empresa 732,Empresa 732,Trabalhador,Categoria 732,*Santa Catarina*: Itapema.,Endereço 732,Vargea,88.220-000,Itapema/SC,732email@emailfalso.com
+Empresa 733,Empresa 733,Trabalhador,Categoria 733,*Ceará*.,Endereço 733,Cajazeiras,60.864-245,Fortaleza/CE,733email@emailfalso.com
+Empresa 734,Empresa 734,Trabalhador,Categoria 734,*Piauí*: Santa Luz.,Endereço 734,Centro,64.910-000,Santa Luz/PI,734email@emailfalso.com
+Empresa 735,Empresa 735,Trabalhador,Categoria 735,*Rio de Janeiro*: Maricá.,Endereço 735,Centro,24.900-440,Maricá/RJ,735email@emailfalso.com
+Empresa 736,Empresa 736,Trabalhador,Categoria 736,*Piauí*: Demerval Lobão.,Endereço 736,CENTRO,64.390-000,Demerval Lobão/PI,736email@emailfalso.com
+Empresa 737,Empresa 737,Trabalhador,Categoria 737,*Paraná*: Pinhão.,Endereço 737,CENTRO,85.170-000,Pinhão/PR,737email@emailfalso.com
+Empresa 738,Empresa 738,Trabalhador,Categoria 738,*Goiás*.,Endereço 738,Setor Leste Vila Nova,74.643-010,Goiânia/GO,738email@emailfalso.com
+Empresa 739,Empresa 739,Trabalhador,Categoria 739,*Mato Grosso do Sul*: Amambai.,Endereço 739,VIL CASSIANO MARCELO,79.990-000,Amambaí/MS,739email@emailfalso.com
+Empresa 740,Empresa 740,Trabalhador,Categoria 740,*Mato Grosso do Sul*: Campo Grande.,Endereço 740,Centro,79.004-431,Campo Grande/MS,740email@emailfalso.com
+Empresa 741,Empresa 741,Trabalhador,Categoria 741,*Minas Gerais*: Campestre.,Endereço 741,CENTRO,37.730-000,Campestre/MG,741email@emailfalso.com
+Empresa 742,Empresa 742,Trabalhador,Categoria 742,*Mato Grosso do Sul*.,Endereço 742,Monte Castelo,79.011-190,Campo Grande/MS,742email@emailfalso.com
+Empresa 743,Empresa 743,Trabalhador,Categoria 743,*Bahia*.,Endereço 743,Ondina,40.170-130,Salvador/BA,743email@emailfalso.com
+Empresa 744,Empresa 744,Trabalhador,Categoria 744,*Paraná*: Santa Terezinha de Itaipu.,Endereço 744,Centro,85.875-000,Santa Terezinha de Itaipu/PR,744email@emailfalso.com
+Empresa 745,Empresa 745,Trabalhador,Categoria 745,*Paraná*: Morretes.,Endereço 745,Centro,83.350-000,Morretes/PR,745email@emailfalso.com
+Empresa 746,Empresa 746,Trabalhador,Categoria 746,*Rio Grande do Sul*: Bossoroca.,Endereço 746,CENTRO,97.850-000,Bossoroca/RS,746email@emailfalso.com
+Empresa 747,Empresa 747,Trabalhador,Categoria 747,*São Paulo*: Bertioga.,Endereço 747,Itapanhaú,11.250-000,Bertioga/SP,747email@emailfalso.com
+Empresa 748,Empresa 748,Trabalhador,Categoria 748,*Paraná*: Palmas.,Endereço 748,Centro,85.555-000,Palmas/PR,748email@emailfalso.com
+Empresa 749,Empresa 749,Trabalhador,Categoria 749,*Tocantins*.,Endereço 749,Plano Diretor Sul,77.020-490,Palmas/TO,749email@emailfalso.com
+Empresa 750,Empresa 750,Trabalhador,Categoria 750,*São Paulo*.,Endereço 750,Parque Ibirapuera,04.097-900,São Paulo/SP,750email@emailfalso.com
+Empresa 751,Empresa 751,Trabalhador,Categoria 751,*Pará*: Parauapebas.,Endereço 751,Cidade Nova,68.515-000,Parauapebas/PA,751email@emailfalso.com
+Empresa 752,Empresa 752,Trabalhador,Categoria 752,*Paraná*: Almirante Tamandaré.,Endereço 752,Vila Alto Pinheiros,83.503-040,Almirante Tamandaré/PR,752email@emailfalso.com
+Empresa 753,Empresa 753,Trabalhador,Categoria 753,*Paraná*.,Endereço 753,Hugo Lange,80.040-450,Curitiba/PR,753email@emailfalso.com
+Empresa 754,Empresa 754,Trabalhador,Categoria 754,*Rio de Janeiro*: Niterói.,Endereço 754,Centro,24.020-105,Niterói/RJ,754email@emailfalso.com
+Empresa 755,Empresa 755,Trabalhador,Categoria 755,,Endereço 755,República,01.039-000,São Paulo/SP,755email@emailfalso.com
+Empresa 756,Empresa 756,Trabalhador,Categoria 756,*Minas Gerais*: Pirapora.,Endereço 756,CICERO PASSOS,39.270-000,Pirapora/MG,756email@emailfalso.com
+Empresa 757,Empresa 757,Trabalhador,Categoria 757,*Paraná*: São José dos Pinhais.,Endereço 757,Carioca,83.005-050,São José dos Pinhais/PR,757email@emailfalso.com
+Empresa 758,Empresa 758,Trabalhador,Categoria 758,*Pernambuco*.,Endereço 758,Santo Amaro,50.040-080,Recife/PE,758email@emailfalso.com
+Empresa 759,Empresa 759,Trabalhador,Categoria 759,*São Paulo*: Presidente Epitácio.,Endereço 759,CRUZEIRO DO SUL,19.470-000,Presidente Epitácio/SP,759email@emailfalso.com
+Empresa 760,Empresa 760,Trabalhador,Categoria 760,*Rio Grande do Sul*.,Endereço 760,Centro,90.020-020,Porto Alegre/RS,760email@emailfalso.com
+Empresa 761,Empresa 761,Trabalhador,Categoria 761,*São Paulo*: Colômbia.,Endereço 761,centro,14.795-000,Colômbia/SP,761email@emailfalso.com
+Empresa 762,Empresa 762,Trabalhador,Categoria 762,*Paraná*.,Endereço 762,Cidade Industrial,81.270-150,Curitiba/PR,762email@emailfalso.com
+Empresa 763,Empresa 763,Trabalhador,Categoria 763,*Rio de Janeiro*: Mangaratiba.,Endereço 763,Centro,23.860-000,Mangaratiba/RJ,763email@emailfalso.com
+Empresa 764,Empresa 764,Trabalhador,Categoria 764,*Ceará*: Bela Cruz.,Endereço 764,Centro,62.570-000,Bela Cruz/CE,764email@emailfalso.com
+Empresa 765,Empresa 765,Trabalhador,Categoria 765,*Rio Grande do Sul*: Ivoti.,Endereço 765,FARROUPILHA,93.900-000,Ivoti/RS,765email@emailfalso.com
+Empresa 766,Empresa 766,Trabalhador,Categoria 766,*Rio Grande do Sul*: São João da Urtiga.,Endereço 766,CENTRO,99.855-000,São João da Urtiga/RS,766email@emailfalso.com
+Empresa 767,Empresa 767,Trabalhador,Categoria 767,*Mato Grosso*: Primavera do Leste.,Endereço 767,PRIMAVERA II,78.850-000,Primavera do Leste/MT,767email@emailfalso.com
+Empresa 768,Empresa 768,Trabalhador,Categoria 768,*Mato Grosso do Sul*.,Endereço 768,Centro,79.002-100,Campo Grande/MS,768email@emailfalso.com
+Empresa 769,Empresa 769,Trabalhador,Categoria 769,*Pará*: Ipixuna do Pará.,Endereço 769,Centro,68.637-000,Ipixuna do Pará/PA,769email@emailfalso.com
+Empresa 770,Empresa 770,Trabalhador,Categoria 770,*Espírito Santo*: Bom Jesus do Norte.,Endereço 770,centro,29.460-000,Bom Jesus do Norte/ES,770email@emailfalso.com
+Empresa 771,Empresa 771,Trabalhador,Categoria 771,*Piauí*: Buriti dos Lopes.,Endereço 771,CENTRO,64.230-000,Buriti dos Lopes/PI,771email@emailfalso.com
+Empresa 772,Empresa 772,Trabalhador,Categoria 772,*Paraná*: Sertaneja.,Endereço 772,Centro,86.340-000,Sertaneja/PR,772email@emailfalso.com
+Empresa 773,Empresa 773,Trabalhador,Categoria 773,*Minas Gerais*: São João do Paraíso.,Endereço 773,CENTRO,39.540-000,São João do Paraíso/MG,773email@emailfalso.com
+Empresa 774,Empresa 774,Trabalhador,Categoria 774,*Rio Grande do Sul*: Entre-Ijuís.,Endereço 774,centro,98.855-000,Entre-Ijuís/RS,774email@emailfalso.com
+Empresa 775,Empresa 775,Trabalhador,Categoria 775,*Rio Grande do Sul*: Capão do Cipó.,Endereço 775,CENTRO,97.753-000,Capão do Cipó/RS,775email@emailfalso.com
+Empresa 776,Empresa 776,Trabalhador,Categoria 776,*São Paulo*: Quadra.,Endereço 776,Centro,18.255-000,Quadra/SP,776email@emailfalso.com
+Empresa 777,Empresa 777,Trabalhador,Categoria 777,*Santa Catarina*: Chapecó.,Endereço 777,Centro,89.801-014,Chapecó/SC,777email@emailfalso.com
+Empresa 778,Empresa 778,Trabalhador,Categoria 778,*Alagoas*: Joaquim Gomes.,Endereço 778,ASPLANA,57.980-000,Joaquim Gomes/AL,778email@emailfalso.com
+Empresa 779,Empresa 779,Trabalhador,Categoria 779,*Rio Grande do Sul*: Guaporé.,Endereço 779,PLANALTO,99.200-000,Guaporé/RS,779email@emailfalso.com
+Empresa 780,Empresa 780,Trabalhador,Categoria 780,*Amazonas*.,Endereço 780,Centro,69.010-100,Manaus/AM,780email@emailfalso.com
+Empresa 781,Empresa 781,Trabalhador,Categoria 781,*Minas Gerais*: Alfenas.,Endereço 781,CENTRO,37.130-000,Alfenas/MG,781email@emailfalso.com
+Empresa 782,Empresa 782,Trabalhador,Categoria 782,*Alagoas*: Santana do Mundaú.,Endereço 782,CENTRO,57.840-000,Santana do Mundaú/AL,782email@emailfalso.com
+Empresa 783,Empresa 783,Trabalhador,Categoria 783,*São Paulo*: Luís Antônio.,Endereço 783,Jardim Jatay,14.210-000,Luís Antônio/SP,783email@emailfalso.com
+Empresa 784,Empresa 784,Trabalhador,Categoria 784,*Minas Gerais*: Ouro Preto.,Endereço 784,SÃO CRISTOVÃO,35.400-000,Ouro Preto/MG,784email@emailfalso.com
+Empresa 785,Empresa 785,Trabalhador,Categoria 785,*Mato Grosso*: Mirassol d'Oeste.,Endereço 785,Centro,78.280-000,Mirassol D`Oeste/MT,785email@emailfalso.com
+Empresa 786,Empresa 786,Trabalhador,Categoria 786,"*Ceará*: Itapipoca, Tururu e Uruburetama.",Endereço 786,,62.500-000,Itapipoca/CE,786email@emailfalso.com
+Empresa 787,Empresa 787,Trabalhador,Categoria 787,*São Paulo*: Guarulhos.,Endereço 787,Centro,07.095-005,Guarulhos/SP,787email@emailfalso.com
+Empresa 788,Empresa 788,Trabalhador,Categoria 788,*Mato Grosso do Sul*: Coxim.,Endereço 788,Vila Antonina,79.400-000,Coxim/MS,788email@emailfalso.com
+Empresa 789,Empresa 789,Trabalhador,Categoria 789,*Acre*: Rio Branco.,Endereço 789,Vila Acre,69.909-732,Rio Branco/AC,789email@emailfalso.com
+Empresa 790,Empresa 790,Trabalhador,Categoria 790,"*Paraíba*: Araçagi, Araruna, Bananeiras, Belém, Borborema, Cacimba de Dentro, Caiçara, Cuitegi, Dona Inês, Duas Estradas, Guarabira, Lagoa de Dentro, Mari, Pilõezinhos, Pirpirituba, Serra da Raiz, Serraria, Solânea e Tacima.",Endereço 790,centro,58.200-000,Guarabira/PB,790email@emailfalso.com
+Empresa 791,Empresa 791,Trabalhador,Categoria 791,"*Minas Gerais*: Bom Repouso, Bueno Brandão, Cambuí, Córrego do Bom Jesus, Estiva, Extrema, Itapeva, Munhoz, Senador Amaral e Toledo.",Endereço 791,centro,37.600-000,Cambuí/MG,791email@emailfalso.com
+Empresa 792,Empresa 792,Trabalhador,Categoria 792,*Mato Grosso*: Vera.,Endereço 792,Centro,78.880-000,Vera/MT,792email@emailfalso.com
+Empresa 793,Empresa 793,Trabalhador,Categoria 793,*São Paulo*: Rosana.,Endereço 793,Centro,19.273-000,Rosana/SP,793email@emailfalso.com
+Empresa 794,Empresa 794,Trabalhador,Categoria 794,*Rio Grande do Sul*: São Leopoldo.,Endereço 794,Centro,93.010-010,São Leopoldo/RS,794email@emailfalso.com
+Empresa 795,Empresa 795,Trabalhador,Categoria 795,*Mato Grosso do Sul*: Caracol.,Endereço 795,Centro,79.270-000,Caracol/MS,795email@emailfalso.com
+Empresa 796,Empresa 796,Trabalhador,Categoria 796,*Mato Grosso do Sul*.,Endereço 796,Vila Piratininga,79.081-220,Campo Grande/MS,796email@emailfalso.com
+Empresa 797,Empresa 797,Trabalhador,Categoria 797,*Pernambuco*.,Endereço 797,Santo Amaro,50.050-130,Recife/PE,797email@emailfalso.com
+Empresa 798,Empresa 798,Trabalhador,Categoria 798,*Bahia*: Itabuna.,Endereço 798,Centro,45.600-171,Itabuna/BA,798email@emailfalso.com
+Empresa 799,Empresa 799,Trabalhador,Categoria 799,*São Paulo*.,Endereço 799,Centro,01.012-010,São Paulo/SP,799email@emailfalso.com
+Empresa 800,Empresa 800,Trabalhador,Categoria 800,*Roraima*.,Endereço 800,Treze de Setembro,69.308-155,Boa Vista/RR,800email@emailfalso.com
+Empresa 801,Empresa 801,Trabalhador,Categoria 801,*Bahia*: Saúde.,Endereço 801,Vila Lelinha,44.740-000,Saúde/BA,801email@emailfalso.com
+Empresa 802,Empresa 802,Trabalhador,Categoria 802,*Goiás*: Cidade Ocidental.,Endereço 802,CENTRO,72.880-000,Cidade Ocidental/GO,802email@emailfalso.com
+Empresa 803,Empresa 803,Trabalhador,Categoria 803,*Pernambuco*: Ibirajuba.,Endereço 803,CENTRO,55.390-000,Ibirajuba/PE,803email@emailfalso.com
+Empresa 804,Empresa 804,Trabalhador,Categoria 804,*São Paulo*: Ilhabela.,Endereço 804,pereque,11.630-000,Ilhabela/SP,804email@emailfalso.com
+Empresa 805,Empresa 805,Trabalhador,Categoria 805,"*Paraíba*: Areia de Baraúnas, Cacimba de Areia, Cacimbas, Catingueira, Condado, Desterro, Emas, Junco do Seridó, Livramento, Mãe d'Água, Malta, Maturéia, Passagem, Patos, Quixaba, Salgadinho, Santa Luzia, Santa Teresinha, São José de Espinharas, São José do Bonfim, São José do Sabugi, São Mamede, Taperoá, Teixeira, Várzea e Vista Serrana.",Endereço 805,Centro,58.700-550,Patos/PB,805email@emailfalso.com
+Empresa 806,Empresa 806,Trabalhador,Categoria 806,*São Paulo*: Marília.,Endereço 806,Centro,17.501-030,Marília/SP,806email@emailfalso.com
+Empresa 807,Empresa 807,Trabalhador,Categoria 807,*Minas Gerais*: Oliveira.,Endereço 807,Graças,35.540-000,Oliveira/MG,807email@emailfalso.com
+Empresa 808,Empresa 808,Trabalhador,Categoria 808,*São Paulo*: Castilho.,Endereço 808,Centro,16.920-000,Castilho/SP,808email@emailfalso.com
+Empresa 809,Empresa 809,Trabalhador,Categoria 809,*Rio Grande do Sul*: Rio Grande.,Endereço 809,Vila São Jorge,96.203-280,Rio Grande/RS,809email@emailfalso.com
+Empresa 810,Empresa 810,Trabalhador,Categoria 810,*Paraná*.,Endereço 810,Bacacheri,82.510-060,Curitiba/PR,810email@emailfalso.com
+Empresa 811,Empresa 811,Trabalhador,Categoria 811,,Endereço 811,,,Campo Grande/MS,811email@emailfalso.com
+Empresa 812,Empresa 812,Trabalhador,Categoria 812,*Paraná*: Curitiba.,Endereço 812,Centro,80.060-120,Curitiba/PR,812email@emailfalso.com
+Empresa 813,Empresa 813,Trabalhador,Categoria 813,*Pará*: Tucuruí.,Endereço 813,Santa Isabel,68.458-400,Tucuruí/PA,813email@emailfalso.com
+Empresa 814,Empresa 814,Trabalhador,Categoria 814,*Rio Grande do Sul*: Candelária.,Endereço 814,CENTRO,96.930-000,Candelária/RS,814email@emailfalso.com
+Empresa 815,Empresa 815,Trabalhador,Categoria 815,"*Maranhão*: Água Doce do Maranhão, Anapurus, Araioses, Brejo, Buriti, Chapadinha, Duque Bacelar, Magalhães de Almeida, Mata Roma, Milagres do Maranhão, Paulino Neves, Santa Quitéria do Maranhão, Santana do Maranhão, São Bernardo e Tutóia.",Endereço 815,CENTRO,65.510-000,Mata Roma/MA,815email@emailfalso.com
+Empresa 816,Empresa 816,Trabalhador,Categoria 816,*São Paulo*: Cachoeira Paulista.,Endereço 816,centro,12.630-000,Cachoeira Paulista/SP,816email@emailfalso.com
+Empresa 817,Empresa 817,Trabalhador,Categoria 817,*Minas Gerais*: Santa Rita de Jacutinga.,Endereço 817,Bairro Boa Vista,36.135-000,Santa Rita de Jacutinga/MG,817email@emailfalso.com
+Empresa 818,Empresa 818,Trabalhador,Categoria 818,*São Paulo*: Santo Antônio de Posse.,Endereço 818,Jardim Progresso,13.830-000,Santo Antônio de Posse/SP,818email@emailfalso.com
+Empresa 819,Empresa 819,Trabalhador,Categoria 819,*Minas Gerais*: Salinas.,Endereço 819,São Fidelis,39.560-000,Salinas/MG,819email@emailfalso.com
+Empresa 820,Empresa 820,Trabalhador,Categoria 820,*Alagoas*: Jequiá da Praia.,Endereço 820,Centro,57.244-000,Jequiá da Praia/AL,820email@emailfalso.com
+Empresa 821,Empresa 821,Trabalhador,Categoria 821,*Goiás*: Mineiros.,Endereço 821,BOA VISTA,75.830-000,Mineiros/GO,821email@emailfalso.com
+Empresa 822,Empresa 822,Trabalhador,Categoria 822,*Rondônia*: Ji-Paraná.,Endereço 822,Jardim dos Migrantes,76.900-673,Ji-Paraná/RO,822email@emailfalso.com
+Empresa 823,Empresa 823,Trabalhador,Categoria 823,*Pernambuco*.,Endereço 823,Sítio dos Pintos,52.171-030,Recife/PE,823email@emailfalso.com
+Empresa 824,Empresa 824,Trabalhador,Categoria 824,*Tocantins*.,Endereço 824,Plano Diretor Norte,77.006-028,Palmas/TO,824email@emailfalso.com
+Empresa 825,Empresa 825,Trabalhador,Categoria 825,*Goiás*: Aparecida de Goiânia.,Endereço 825,Setor Oeste,74.980-100,Aparecida de Goiânia/GO,825email@emailfalso.com
+Empresa 826,Empresa 826,Trabalhador,Categoria 826,*Paraná*: Araucária.,Endereço 826,Iguaçu,83.701-090,Araucária/PR,826email@emailfalso.com
+Empresa 827,Empresa 827,Trabalhador,Categoria 827,*São Paulo*: Olímpia.,Endereço 827,CENTRO,15.400-000,Olímpia/SP,827email@emailfalso.com
+Empresa 828,Empresa 828,Trabalhador,Categoria 828,*São Paulo*.,Endereço 828,Vila Mariana,04.120-050,São Paulo/SP,828email@emailfalso.com
+Empresa 829,Empresa 829,Trabalhador,Categoria 829,*São Paulo*: Itapira.,Endereço 829,Santa Cruz,13.974-345,Itapira/SP,829email@emailfalso.com
+Empresa 830,Empresa 830,Trabalhador,Categoria 830,*São Paulo*: Regente Feijó.,Endereço 830,Vila Nova,19.570-000,Regente Feijó/SP,830email@emailfalso.com
+Empresa 831,Empresa 831,Trabalhador,Categoria 831,*Paraná*: Jaguariaíva.,Endereço 831,Matarazzo II,84.200-000,Jaguariaíva/PR,831email@emailfalso.com
+Empresa 832,Empresa 832,Trabalhador,Categoria 832,*Paraná*: Carambeí.,Endereço 832,Centro,84.145-000,Carambeí/PR,832email@emailfalso.com
+Empresa 833,Empresa 833,Trabalhador,Categoria 833,*Mato Grosso*: Sorriso.,Endereço 833,Benjamin Raiser,78.890-000,Sorriso/MT,833email@emailfalso.com
+Empresa 834,Empresa 834,Trabalhador,Categoria 834,"*São Paulo*: Barra do Turvo, Cajati, Cananéia, Eldorado, Ilha Comprida, Iporanga, Itariri, Jacupiranga, Juquiá, Miracatu, Pariquera-Açu, Pedro de Toledo, Registro e Sete Barras.",Endereço 834,centro,11.900-000,Registro/SP,834email@emailfalso.com
+Empresa 835,Empresa 835,Trabalhador,Categoria 835,*Bahia*: Simões Filho.,Endereço 835,Estrada de Candeias,43.700-000,Simões Filho/BA,835email@emailfalso.com
+Empresa 836,Empresa 836,Trabalhador,Categoria 836,*São Paulo*: Presidente Prudente.,Endereço 836,Vila Nova,19.010-062,Presidente Prudente/SP,836email@emailfalso.com
+Empresa 837,Empresa 837,Trabalhador,Categoria 837,*Mato Grosso*: Glória D'Oeste.,Endereço 837,Centro,78.293-000,Glória D`Oeste/MT,837email@emailfalso.com
+Empresa 838,Empresa 838,Trabalhador,Categoria 838,*Mato Grosso*: Várzea Grande.,Endereço 838,Jardim Imperador,78.125-760,Várzea Grande/MT,838email@emailfalso.com
+Empresa 839,Empresa 839,Trabalhador,Categoria 839,*Minas Gerais*: Resplendor.,Endereço 839,centro,35.230-000,Resplendor/MG,839email@emailfalso.com
+Empresa 840,Empresa 840,Trabalhador,Categoria 840,*Minas Gerais*: Ijaci.,Endereço 840,Centro,37.205-000,Ijaci/MG,840email@emailfalso.com
+Empresa 841,Empresa 841,Trabalhador,Categoria 841,*Sergipe*: Santa Luzia do Itanhy.,Endereço 841,CENTRO,49.230-000,Santa Luzia do Itanhy/SE,841email@emailfalso.com
+Empresa 842,Empresa 842,Trabalhador,Categoria 842,*Goiás*: Anápolis.,Endereço 842,Vila Nossa Senhora D`Abadia,75.120-652,Anápolis/GO,842email@emailfalso.com
+Empresa 843,Empresa 843,Trabalhador,Categoria 843,*Acre*.,Endereço 843,Ivete Vargas,69.906-000,Rio Branco/AC,843email@emailfalso.com
+Empresa 844,Empresa 844,Trabalhador,Categoria 844,*Acre* e *Rondônia*.,Endereço 844,Centro,76.801-036,Porto Velho/RO,844email@emailfalso.com
+Empresa 845,Empresa 845,Trabalhador,Categoria 845,,Endereço 845,,,Brasília/DF,845email@emailfalso.com
+Empresa 846,Empresa 846,Trabalhador,Categoria 846,*Mato Grosso*.,Endereço 846,Centro Político Administrativo,78.049-080,Cuiabá/MT,846email@emailfalso.com
+Empresa 847,Empresa 847,Trabalhador,Categoria 847,*Mato Grosso*: São José dos Quatro Marcos.,Endereço 847,ZEFERINO II,78.285-000,São José dos Quatro Marcos/MT,847email@emailfalso.com
+Empresa 848,Empresa 848,Trabalhador,Categoria 848,*Rio Grande do Sul*: Palmeira das Missões.,Endereço 848,centro,98.300-000,Palmeira das Missões/RS,848email@emailfalso.com
+Empresa 849,Empresa 849,Trabalhador,Categoria 849,*Mato Grosso*.,Endereço 849,Bandeirantes,78.010-170,Cuiabá/MT,849email@emailfalso.com
+Empresa 850,Empresa 850,Trabalhador,Categoria 850,*Rondônia*: Jaru.,Endereço 850,SETOR 02,76.890-000,Jaru/RO,850email@emailfalso.com
+Empresa 851,Empresa 851,Trabalhador,Categoria 851,"*Santa Catarina*: Campo Alegre, Major Vieira, Rio Negrinho e São Bento do Sul.",Endereço 851,Centro,89.290-000,São Bento do Sul/SC,851email@emailfalso.com
+Empresa 852,Empresa 852,Trabalhador,Categoria 852,*Paraíba*: Bom Sucesso.,Endereço 852,Centro,58.887-000,Bom Sucesso/PB,852email@emailfalso.com
+Empresa 853,Empresa 853,Trabalhador,Categoria 853,"*Tocantins*: Abreulândia, Aguiarnópolis, Aliança do Tocantins, Almas, Alvorada, Ananás, Angico, Aparecida do Rio Negro, Aragominas, Araguacema, Araguaçu, Araguaína, Araguanã, Araguatins, Arapoema, Arraias, Augustinópolis, Aurora do Tocantins, Axixá do Tocantins, Babaçulândia, Bandeirantes do Tocantins, Barra do Ouro, Barrolândia, Bernardo Sayão, Bom Jesus do Tocantins, Brasilândia do Tocantins, Brejinho de Nazaré, Buriti do Tocantins, Cachoeirinha, Campos Lindos, Cariri do Tocantins, Carmolândia, Carrasco Bonito, Caseara, Centenário, Chapada da Natividade, Chapada de Areia, Colinas do Tocantins, Colméia, Combinado, Conceição do Tocantins, Couto Magalhães, Cristalândia, Crixás do Tocantins, Darcinópolis, Dianópolis, Divinópolis do Tocantins, Dois Irmãos do Tocantins, Dueré, Esperantina, Fátima, Figueirópolis, Filadélfia, Formoso do Araguaia, Fortaleza do Tabocão, Goianorte, Goiatins, Guaraí, Gurupi, Ipueiras, Itacajá, Itaguatins, Itapiratins, Itaporã do Tocantins, Jaú do Tocantins, Juarina, Lagoa da Confusão, Lagoa do Tocantins, Lajeado, Lavandeira, Lizarda, Luzinópolis, Marianópolis do Tocantins, Mateiros, Maurilândia do Tocantins, Miracema do Tocantins, Miranorte, Monte do Carmo, Monte Santo do Tocantins, Muricilândia, Natividade, Nazaré, Nova Olinda, Nova Rosalândia, Novo Acordo, Novo Alegre, Novo Jardim, Oliveira de Fátima, Palmas, Palmeirante, Palmeiras do Tocantins, Palmeirópolis, Paranã, Pau D'Arco, Pedro Afonso, Peixe, Pequizeiro, Pindorama do Tocantins, Piraquê, Pium, Ponte Alta do Bom Jesus, Ponte Alta do Tocantins, Porto Alegre do Tocantins, Porto Nacional, Praia Norte, Presidente Kennedy, Pugmil, Recursolândia, Riachinho, Rio da Conceição, Rio dos Bois, Rio Sono, Sampaio, Sandolândia, Santa Fé do Araguaia, Santa Maria do Tocantins, Santa Rita do Tocantins, Santa Rosa do Tocantins, Santa Tereza do Tocantins, Santa Terezinha do Tocantins, São Bento do Tocantins, São Félix do Tocantins, São Miguel do Tocantins, São Salvador do Tocantins, São Sebastião do Tocantins, São Valério, Silvanópolis, Sítio Novo do Tocantins, Sucupira, Taguatinga, Taipas do Tocantins, Talismã, Tocantínia, Tocantinópolis, Tupirama, Tupiratins, Wanderlândia e Xambioá.",Endereço 853,Plano Diretor Norte,77.001-014,Palmas/TO,853email@emailfalso.com
+Empresa 854,Empresa 854,Trabalhador,Categoria 854,*Pernambuco*: São João.,Endereço 854,Centro,55.435-000,São João/PE,854email@emailfalso.com
+Empresa 855,Empresa 855,Trabalhador,Categoria 855,*Espírito Santo*.,Endereço 855,Ilha do Príncipe,29.020-240,Vitória/ES,855email@emailfalso.com
+Empresa 856,Empresa 856,Trabalhador,Categoria 856,,Endereço 856,,,Brasília/DF,856email@emailfalso.com
+Empresa 857,Empresa 857,Trabalhador,Categoria 857,*Roraima*.,Endereço 857,São Francisco,69.305-050,Boa Vista/RR,857email@emailfalso.com
+Empresa 858,Empresa 858,Trabalhador,Categoria 858,*Distrito Federal*.,Endereço 858,Asa Sul,70.390-055,Brasília/DF,858email@emailfalso.com
+Empresa 859,Empresa 859,Trabalhador,Categoria 859,*Rio Grande do Norte*: São Gonçalo do Amarante.,Endereço 859,Centro,59.290-000,São Gonçalo do Amarante/RN,859email@emailfalso.com
+Empresa 860,Empresa 860,Trabalhador,Categoria 860,*São Paulo*: Ipuã.,Endereço 860,Centro,14.610-000,Ipuã/SP,860email@emailfalso.com
+Empresa 861,Empresa 861,Trabalhador,Categoria 861,*Pernambuco*: Amaraji.,Endereço 861,Centro,55.515-000,Amaraji/PE,861email@emailfalso.com
+Empresa 862,Empresa 862,Trabalhador,Categoria 862,*Bahia*.,Endereço 862,Mares,40.445-201,Salvador/BA,862email@emailfalso.com
+Empresa 863,Empresa 863,Trabalhador,Categoria 863,*Roraima*.,Endereço 863,Mecejana,69.304-470,Boa Vista/RR,863email@emailfalso.com
+Empresa 864,Empresa 864,Trabalhador,Categoria 864,*Rio de Janeiro*.,Endereço 864,Madureira,21.351-100,Rio de Janeiro/RJ,864email@emailfalso.com
+Empresa 865,Empresa 865,Trabalhador,Categoria 865,*Minas Gerais*.,Endereço 865,Santa Efigênia,30.150-330,Belo Horizonte/MG,865email@emailfalso.com
+Empresa 866,Empresa 866,Trabalhador,Categoria 866,*Rio Grande do Sul*.,Endereço 866,Santana,90.620-100,Porto Alegre/RS,866email@emailfalso.com
+Empresa 867,Empresa 867,Trabalhador,Categoria 867,*Espírito Santo*.,Endereço 867,Centro,29.010-120,Vitória/ES,867email@emailfalso.com
+Empresa 868,Empresa 868,Trabalhador,Categoria 868,*Minas Gerais*: Dores do Indaiá.,Endereço 868,São Sebastião,35.610-000,Dores do Indaiá/MG,868email@emailfalso.com
+Empresa 869,Empresa 869,Trabalhador,Categoria 869,*Rio Grande do Sul*: Santa Vitória do Palmar.,Endereço 869,centro,96.230-000,Santa Vitória do Palmar/RS,869email@emailfalso.com
+Empresa 870,Empresa 870,Trabalhador,Categoria 870,*Goiás*: Valparaíso de Goiás.,Endereço 870,Valparaiso I - Etapa A,72.876-021,Valparaíso de Goiás/GO,870email@emailfalso.com
+Empresa 871,Empresa 871,Trabalhador,Categoria 871,*Rondônia*.,Endereço 871,Nova Porto Velho,76.820-100,Porto Velho/RO,871email@emailfalso.com
+Empresa 872,Empresa 872,Trabalhador,Categoria 872,*São Paulo*: Osasco.,Endereço 872,Vila Campesina,06.023-040,Osasco/SP,872email@emailfalso.com
+Empresa 873,Empresa 873,Trabalhador,Categoria 873,*Mato Grosso*.,Endereço 873,Centro Norte,78.005-430,Cuiabá/MT,873email@emailfalso.com
+Empresa 874,Empresa 874,Trabalhador,Categoria 874,*São Paulo*: Itápolis.,Endereço 874,centro,14.900-000,Itápolis/SP,874email@emailfalso.com
+Empresa 875,Empresa 875,Trabalhador,Categoria 875,*Maranhão*.,Endereço 875,Renascença II,65.075-441,São Luís/MA,875email@emailfalso.com
+Empresa 876,Empresa 876,Trabalhador,Categoria 876,*Minas Gerais*: Veríssimo.,Endereço 876,centro,38.150-000,Veríssimo/MG,876email@emailfalso.com
+Empresa 877,Empresa 877,Trabalhador,Categoria 877,*Mato Grosso*: Poconé.,Endereço 877,CENTRO,78.175-000,Poconé/MT,877email@emailfalso.com
+Empresa 878,Empresa 878,Trabalhador,Categoria 878,*Pará*.,Endereço 878,Campina,66.010-080,Belém/PA,878email@emailfalso.com
+Empresa 879,Empresa 879,Trabalhador,Categoria 879,"*Pernambuco*: Abreu e Lima, Afogados da Ingazeira, Afrânio, Agrestina, Água Preta, Alagoinha, Aliança, Altinho, Amaraji, Araçoiaba, Araripina, Barra de Guabiraba, Barreiros, Belém de Maria, Belém do São Francisco, Belo Jardim, Bezerros, Bodocó, Bom Jardim, Bonito, Brejinho, Brejo da Madre de Deus, Buenos Aires, Cabrobó, Cachoeirinha, Camaragibe, Camocim de São Félix, Camutanga, Carnaíba, Carpina, Caruaru, Casinhas, Catende, Cedro, Chã de Alegria, Chã Grande, Condado, Cortês, Cumaru, Cupira, Dormentes, Escada, Exu, Feira Nova, Fernando de Noronha, Ferreiros, Frei Miguelinho, Gameleira, Glória do Goitá, Goiana, Granito, Gravatá, Ibirajuba, Igarassu, Iguaracy, Ilha de Itamaracá, Ingazeira, Ipojuca, Ipubi, Itambé, Itapetim, Itapissuma, Itaquitinga, Jaboatão dos Guararapes, Jaqueira, Jataúba, João Alfredo, Joaquim Nabuco, Jurema, Lagoa de Itaenga, Lagoa do Carro, Lagoa dos Gatos, Lagoa Grande, Limoeiro, Macaparana, Machados, Maraial, Mirandiba, Moreilândia, Moreno, Nazaré da Mata, Olinda, Orobó, Orocó, Ouricuri, Palmares, Panelas, Parnamirim, Passira, Paudalho, Paulista, Pesqueira, Petrolina, Poção, Pombos, Primavera, Quipapá, Quixaba, Recife, Riacho das Almas, Ribeirão, Rio Formoso, Sairé, Salgadinho, Salgueiro, Sanharó, Santa Cruz, Santa Cruz do Capibaribe, Santa Filomena, Santa Maria da Boa Vista, Santa Maria do Cambucá, Santa Terezinha, São Benedito do Sul, São Bento do Una, São Caitano, São Joaquim do Monte, São José da Coroa Grande, São José do Egito, São Lourenço da Mata, São Vicente Férrer, Serrita, Sirinhaém, Solidão, Surubim, Tabira, Tacaimbó, Tamandaré, Taquaritinga do Norte, Terra Nova, Timbaúba, Toritama, Tracunhaém, Trindade, Tuparetama, Verdejante, Vertente do Lério, Vertentes, Vicência, Vitória de Santo Antão e Xexéu.",Endereço 879,Ilha do Leite,50.070-330,Recife/PE,879email@emailfalso.com
+Empresa 880,Empresa 880,Trabalhador,Categoria 880,*Maranhão*: São João do Carú.,Endereço 880,CENTRO,65.385-000,São João do Carú/MA,880email@emailfalso.com
+Empresa 881,Empresa 881,Trabalhador,Categoria 881,*Goiás*.,Endereço 881,Setor Leste Universitário,74.603-010,Goiânia/GO,881email@emailfalso.com
+Empresa 882,Empresa 882,Trabalhador,Categoria 882,"*Paraíba*: Curral de Cima, Jacaraú, Logradouro e Pedro Régis.",Endereço 882,CENTRO,58.278-000,Jacaraú/PB,882email@emailfalso.com
+Empresa 883,Empresa 883,Trabalhador,Categoria 883,*São Paulo*: Colina.,Endereço 883,Centro,14.770-000,Colina/SP,883email@emailfalso.com
+Empresa 884,Empresa 884,Trabalhador,Categoria 884,*Bahia*: Madre de Deus.,Endereço 884,Suape,42.600-000,Madre de Deus/BA,884email@emailfalso.com
+Empresa 885,Empresa 885,Trabalhador,Categoria 885,*Rio Grande do Sul*: Dom Feliciano.,Endereço 885,centro,96.190-000,Dom Feliciano/RS,885email@emailfalso.com
+Empresa 886,Empresa 886,Trabalhador,Categoria 886,*Minas Gerais*: Delta.,Endereço 886,CENTRO,38.108-000,Delta/MG,886email@emailfalso.com
+Empresa 887,Empresa 887,Trabalhador,Categoria 887,*Minas Gerais*: Itamogi.,Endereço 887,Centro,37.955-000,Itamogi/MG,887email@emailfalso.com
+Empresa 888,Empresa 888,Trabalhador,Categoria 888,*Minas Gerais*: Jacutinga.,Endereço 888,Centro,37.590-000,Jacutinga/MG,888email@emailfalso.com
+Empresa 889,Empresa 889,Trabalhador,Categoria 889,*Amazonas*: Lábrea.,Endereço 889,centro,69.830-000,Lábrea/AM,889email@emailfalso.com
+Empresa 890,Empresa 890,Trabalhador,Categoria 890,*Bahia*: Itaju do Colônia.,Endereço 890,CENTRO,45.730-000,Itaju do Colônia/BA,890email@emailfalso.com
+Empresa 891,Empresa 891,Trabalhador,Categoria 891,*Paraíba*: Bonito de Santa Fé.,Endereço 891,Centro,58.960-000,Bonito de Santa Fé/PB,891email@emailfalso.com
+Empresa 892,Empresa 892,Trabalhador,Categoria 892,*Rio Grande do Sul*: Canela.,Endereço 892,Centro,95.680-000,Canela/RS,892email@emailfalso.com
+Empresa 893,Empresa 893,Trabalhador,Categoria 893,*Santa Catarina*.,Endereço 893,Barreiros,88.110-400,São José/SC,893email@emailfalso.com
+Empresa 894,Empresa 894,Trabalhador,Categoria 894,*Distrito Federal*.,Endereço 894,Asa Norte,70.719-900,Brasília/DF,894email@emailfalso.com
+Empresa 895,Empresa 895,Trabalhador,Categoria 895,*São Paulo*: Rio Claro.,Endereço 895,Centro,13.500-153,Rio Claro/SP,895email@emailfalso.com
+Empresa 896,Empresa 896,Trabalhador,Categoria 896,"*Santa Catarina*: Bom Jesus do Oeste, Campo Erê, Saltinho, Santa Terezinha do Progresso e São Bernardino.",Endereço 896,Centro,89.980-000,Campo Erê/SC,896email@emailfalso.com
+Empresa 897,Empresa 897,Trabalhador,Categoria 897,*Mato Grosso do Sul*: Sete Quedas.,Endereço 897,centro,79.935-000,Sete Quedas/MS,897email@emailfalso.com
+Empresa 898,Empresa 898,Trabalhador,Categoria 898,*Bahia*: Sítio do Quinto.,Endereço 898,Centro,48.565-000,Sítio do Quinto/BA,898email@emailfalso.com
+Empresa 899,Empresa 899,Trabalhador,Categoria 899,*Goiás*.,Endereço 899,Conjunto Vera Cruz,74.495-280,Goiânia/GO,899email@emailfalso.com
+Empresa 900,Empresa 900,Trabalhador,Categoria 900,"*Maranhão*: Gonçalves Dias, Santa Filomena do Maranhão e São José dos Basílios.",Endereço 900,Vila Militar,65.760-000,Presidente Dutra/MA,900email@emailfalso.com
+Empresa 901,Empresa 901,Trabalhador,Categoria 901,*Rondônia*.,Endereço 901,Pedrinhas,76.801-460,Porto Velho/RO,901email@emailfalso.com
+Empresa 902,Empresa 902,Trabalhador,Categoria 902,*Minas Gerais*: Abre Campo.,Endereço 902,CENTRO,35.365-000,Abre Campo/MG,902email@emailfalso.com
+Empresa 903,Empresa 903,Trabalhador,Categoria 903,*Espírito Santo*.,Endereço 903,Centro,29.010-250,Vitória/ES,903email@emailfalso.com
+Empresa 904,Empresa 904,Trabalhador,Categoria 904,*Paraná*: Umuarama.,Endereço 904,Zona I-A,87.501-040,Umuarama/PR,904email@emailfalso.com
+Empresa 905,Empresa 905,Trabalhador,Categoria 905,*Rio Grande do Sul*: Nova Palma.,Endereço 905,centro,97.250-000,Nova Palma/RS,905email@emailfalso.com
+Empresa 906,Empresa 906,Trabalhador,Categoria 906,*Amapá*.,Endereço 906,Julião Ramos,68.908-194,Macapá/AP,906email@emailfalso.com
+Empresa 907,Empresa 907,Trabalhador,Categoria 907,*Paraíba*: Uiraúna.,Endereço 907,Garrafão,58.915-000,Uiraúna/PB,907email@emailfalso.com
+Empresa 908,Empresa 908,Trabalhador,Categoria 908,*Paraíba*.,Endereço 908,Jaguaribe,58.015-050,João Pessoa/PB,908email@emailfalso.com
+Empresa 909,Empresa 909,Trabalhador,Categoria 909,*Rio Grande do Sul*.,Endereço 909,Centro,90.040-000,Porto Alegre/RS,909email@emailfalso.com
+Empresa 910,Empresa 910,Trabalhador,Categoria 910,*Mato Grosso*.,Endereço 910,CPA I,78.055-010,Cuiabá/MT,910email@emailfalso.com
+Empresa 911,Empresa 911,Trabalhador,Categoria 911,*Minas Gerais*: Coronel Fabriciano.,Endereço 911,Centro,35.170-008,Coronel Fabriciano/MG,911email@emailfalso.com
+Empresa 912,Empresa 912,Trabalhador,Categoria 912,*São Paulo*: Guararema e Mogi das Cruzes.,Endereço 912,Centro,08.710-690,Mogi das Cruzes/SP,912email@emailfalso.com
+Empresa 913,Empresa 913,Trabalhador,Categoria 913,*Bahia*: Feira de Santana.,Endereço 913,Centro,44.002-152,Feira de Santana/BA,913email@emailfalso.com
+Empresa 914,Empresa 914,Trabalhador,Categoria 914,*Rio Grande do Sul*: Viamão.,Endereço 914,Centro,94.410-233,Viamão/RS,914email@emailfalso.com
+Empresa 915,Empresa 915,Trabalhador,Categoria 915,*Paraná*: Cambé.,Endereço 915,Centro,86.181-090,Cambé/PR,915email@emailfalso.com
+Empresa 916,Empresa 916,Trabalhador,Categoria 916,,Endereço 916,,,Brasília/DF,916email@emailfalso.com
+Empresa 917,Empresa 917,Trabalhador,Categoria 917,*Ceará*.,Endereço 917,Maraponga,60.711-150,Fortaleza/CE,917email@emailfalso.com
+Empresa 918,Empresa 918,Trabalhador,Categoria 918,*São Paulo*: Águas de Lindóia.,Endereço 918,Vila Beatriz,13.940-000,Águas de Lindóia/SP,918email@emailfalso.com
+Empresa 919,Empresa 919,Trabalhador,Categoria 919,*Minas Gerais*: Nepomuceno.,Endereço 919,Vila Ester,37.250-000,Nepomuceno/MG,919email@emailfalso.com
+Empresa 920,Empresa 920,Trabalhador,Categoria 920,*Paraná*: Jacarezinho.,Endereço 920,Vila prestes,86.400-000,Jacarezinho/PR,920email@emailfalso.com
+Empresa 921,Empresa 921,Trabalhador,Categoria 921,*Mato Grosso do Sul*.,Endereço 921,Carandá Bosque,79.032-050,Campo Grande/MS,921email@emailfalso.com
+Empresa 922,Empresa 922,Trabalhador,Categoria 922,*Bahia*.,Endereço 922,Caminho das Árvores,41.820-770,Salvador/BA,922email@emailfalso.com
+Empresa 923,Empresa 923,Trabalhador,Categoria 923,*Rio Grande do Sul*: Cruz Alta.,Endereço 923,São Miguel,98.025-220,Cruz Alta/RS,923email@emailfalso.com
+Empresa 924,Empresa 924,Trabalhador,Categoria 924,*Maranhão*.,Endereço 924,Jardim Renascença,65.075-740,São Luís/MA,924email@emailfalso.com
+Empresa 925,Empresa 925,Trabalhador,Categoria 925,"*Bahia*: Cravolândia, Elísio Medrado, Itiruçu, Jiquiriçá, Laje, Lajedo do Tabocal, Maracás, Mutuípe, Santa Inês, São Miguel das Matas e Ubaíra.",Endereço 925,SANTO ANTONIO,45.480-000,Mutuípe/BA,925email@emailfalso.com
+Empresa 926,Empresa 926,Trabalhador,Categoria 926,*São Paulo*: Casa Branca.,Endereço 926,Centro,13.700-000,Casa Branca/SP,926email@emailfalso.com
+Empresa 927,Empresa 927,Trabalhador,Categoria 927,"*Maranhão*: Dom Pedro, Joselândia, Santo Antônio dos Lopes e Senador Alexandre Costa.",Endereço 927,CENTRO,65.765-000,Dom Pedro/MA,927email@emailfalso.com
+Empresa 928,Empresa 928,Trabalhador,Categoria 928,*São Paulo*: Campinas.,Endereço 928,Centro,13.015-140,Campinas/SP,928email@emailfalso.com
+Empresa 929,Empresa 929,Trabalhador,Categoria 929,"*Maranhão*: Arame, Barra do Corda, Fernando Falcão, Formosa da Serra Negra, Grajaú, Itaipava do Grajaú, Jenipapo dos Vieiras, Sítio Novo e Tuntum.",Endereço 929,Canadá,65.950-000,Barra do Corda/MA,929email@emailfalso.com
+Empresa 930,Empresa 930,Trabalhador,Categoria 930,*Alagoas*.,Endereço 930,Trapiche da Barra,57.010-384,Maceió/AL,930email@emailfalso.com
+Empresa 931,Empresa 931,Trabalhador,Categoria 931,*São Paulo*: São Paulo.,Endereço 931,República,01.048-000,São Paulo/SP,931email@emailfalso.com
+Empresa 932,Empresa 932,Trabalhador,Categoria 932,*São Paulo*: Araçatuba.,Endereço 932,Centro,16.010-030,Araçatuba/SP,932email@emailfalso.com
+Empresa 933,Empresa 933,Trabalhador,Categoria 933,*Minas Gerais*: Timóteo.,Endereço 933,Timirim,35.180-328,Timóteo/MG,933email@emailfalso.com
+Empresa 934,Empresa 934,Trabalhador,Categoria 934,*Rio de Janeiro*: Rio de Janeiro.,Endereço 934,São Cristóvão,20.921-440,Rio de Janeiro/RJ,934email@emailfalso.com
+Empresa 935,Empresa 935,Trabalhador,Categoria 935,"*Sergipe*: Aquidabã, Canhoba, Cedro de São João, Japaratuba, Japoatã, Muribeca, Propriá e Telha.",Endereço 935,Aquidaba,49.790-000,Aquidabã/SE,935email@emailfalso.com
+Empresa 936,Empresa 936,Trabalhador,Categoria 936,*Mato Grosso do Sul*: Bodoquena.,Endereço 936,Vila Memorial,79.390-000,Bodoquena/MS,936email@emailfalso.com
+Empresa 937,Empresa 937,Trabalhador,Categoria 937,*Ceará*: Maranguape.,Endereço 937,Centro,61.940-005,Maranguape/CE,937email@emailfalso.com
+Empresa 938,Empresa 938,Trabalhador,Categoria 938,*Piauí*: Nova Santa Rita.,Endereço 938,CENTRO,64.764-000,Nova Santa Rita/PI,938email@emailfalso.com
+Empresa 939,Empresa 939,Trabalhador,Categoria 939,*Ceará*: Cedro e Icó.,Endereço 939,Centro,63.430-000,Icó/CE,939email@emailfalso.com
+Empresa 940,Empresa 940,Trabalhador,Categoria 940,*Santa Catarina*: Mafra.,Endereço 940,BUENOS AIRES,89.300-000,Mafra/SC,940email@emailfalso.com
+Empresa 941,Empresa 941,Trabalhador,Categoria 941,*Paraná*: Santa Mariana.,Endereço 941,CENTRO,86.350-000,Santa Mariana/PR,941email@emailfalso.com
+Empresa 942,Empresa 942,Trabalhador,Categoria 942,*Ceará*.,Endereço 942,Edson Queiroz,60.811-650,Fortaleza/CE,942email@emailfalso.com
+Empresa 943,Empresa 943,Trabalhador,Categoria 943,*São Paulo*: Pirassununga.,Endereço 943,Centro,13.630-136,Pirassununga/SP,943email@emailfalso.com
+Empresa 944,Empresa 944,Trabalhador,Categoria 944,*Ceará*: Chaval.,Endereço 944,CENTRO,62.420-000,Chaval/CE,944email@emailfalso.com
+Empresa 945,Empresa 945,Trabalhador,Categoria 945,*Paraíba*: Cajazeiras.,Endereço 945,Centro,58.900-000,Cajazeiras/PB,945email@emailfalso.com
+Empresa 946,Empresa 946,Trabalhador,Categoria 946,*São Paulo*: Salto.,Endereço 946,Centro,13.320-100,Salto/SP,946email@emailfalso.com
+Empresa 947,Empresa 947,Trabalhador,Categoria 947,*Rio Grande do Sul*: Chapada.,Endereço 947,Centro,99.530-000,Chapada/RS,947email@emailfalso.com
+Empresa 948,Empresa 948,Trabalhador,Categoria 948,*Bahia*: Santo Amaro.,Endereço 948,,44.200-000,Santo Amaro/BA,948email@emailfalso.com
+Empresa 949,Empresa 949,Trabalhador,Categoria 949,*Minas Gerais*: Itaipé.,Endereço 949,Sao Pedro,39.815-000,Itaipé/MG,949email@emailfalso.com
+Empresa 950,Empresa 950,Trabalhador,Categoria 950,*Alagoas*.,Endereço 950,Farol,57.051-110,Maceió/AL,950email@emailfalso.com
+Empresa 951,Empresa 951,Trabalhador,Categoria 951,*Rio Grande do Sul*: Sarandi.,Endereço 951,Centro,99.560-000,Sarandi/RS,951email@emailfalso.com
+Empresa 952,Empresa 952,Trabalhador,Categoria 952,*São Paulo*: Peruíbe.,Endereço 952,Estação,11.750-000,Peruíbe/SP,952email@emailfalso.com
+Empresa 953,Empresa 953,Trabalhador,Categoria 953,*Goiás*.,Endereço 953,Setor Leste Universitário,74.605-040,Goiânia/GO,953email@emailfalso.com
+Empresa 954,Empresa 954,Trabalhador,Categoria 954,*Distrito Federal*: Brasília.,Endereço 954,Asa Sul,70.200-002,Brasília/DF,954email@emailfalso.com
+Empresa 955,Empresa 955,Trabalhador,Categoria 955,*Pará*.,Endereço 955,Reduto,66.053-330,Belém/PA,955email@emailfalso.com
+Empresa 956,Empresa 956,Trabalhador,Categoria 956,*Mato Grosso do Sul*: Miranda.,Endereço 956,Centro,79.380-000,Miranda/MS,956email@emailfalso.com
+Empresa 957,Empresa 957,Trabalhador,Categoria 957,*São Paulo*: Serrana.,Endereço 957,Jd. Boa Vista,14.150-000,Serrana/SP,957email@emailfalso.com
+Empresa 958,Empresa 958,Trabalhador,Categoria 958,*São Paulo*: Campinas.,Endereço 958,Vila Maria,13.041-790,Campinas/SP,958email@emailfalso.com
+Empresa 959,Empresa 959,Trabalhador,Categoria 959,*Rio Grande do Sul*: Formigueiro.,Endereço 959,CENTRO,97.210-000,Formigueiro/RS,959email@emailfalso.com
+Empresa 960,Empresa 960,Trabalhador,Categoria 960,*Goiás*: Jataí.,Endereço 960,Setor Epaminondas II,75.805-124,Jataí/GO,960email@emailfalso.com
+Empresa 961,Empresa 961,Trabalhador,Categoria 961,*Piauí*.,Endereço 961,Catarina,64.023-760,Teresina/PI,961email@emailfalso.com
+Empresa 962,Empresa 962,Trabalhador,Categoria 962,*Mato Grosso do Sul*: Deodápolis.,Endereço 962,CENTRO,79.790-000,Deodápolis/MS,962email@emailfalso.com
+Empresa 963,Empresa 963,Trabalhador,Categoria 963,*Rio de Janeiro*: Mesquita e Nova Iguaçu.,Endereço 963,Centro,26.215-220,Nova Iguaçu/RJ,963email@emailfalso.com
+Empresa 964,Empresa 964,Trabalhador,Categoria 964,*Ceará*: Coreaú.,Endereço 964,Alto São José,62.160-000,Coreaú/CE,964email@emailfalso.com
+Empresa 965,Empresa 965,Trabalhador,Categoria 965,*Alagoas*.,Endereço 965,Centro,57.020-340,Maceió/AL,965email@emailfalso.com
+Empresa 966,Empresa 966,Trabalhador,Categoria 966,*Ceará*: Pedra Branca.,Endereço 966,CENTRO,63.630-000,Pedra Branca/CE,966email@emailfalso.com
+Empresa 967,Empresa 967,Trabalhador,Categoria 967,*Minas Gerais*: Bandeira.,Endereço 967,Centro,39.917-000,Bandeira/MG,967email@emailfalso.com
+Empresa 968,Empresa 968,Trabalhador,Categoria 968,*São Paulo*: Guareí.,Endereço 968,Floresta,18.250-000,Guareí/SP,968email@emailfalso.com
+Empresa 969,Empresa 969,Trabalhador,Categoria 969,*Espírito Santo*: Brejetuba.,Endereço 969,TRABALHISTA,29.630-000,Brejetuba/ES,969email@emailfalso.com
+Empresa 970,Empresa 970,Trabalhador,Categoria 970,*Mato Grosso*.,Endereço 970,Lixeira,78.008-465,Cuiabá/MT,970email@emailfalso.com
+Empresa 971,Empresa 971,Trabalhador,Categoria 971,*Mato Grosso do Sul*: Naviraí.,Endereço 971,centro,79.950-000,Naviraí/MS,971email@emailfalso.com
+Empresa 972,Empresa 972,Trabalhador,Categoria 972,"*Minas Gerais*: Angelândia, Franciscópolis, Malacacheta e Setubinha.",Endereço 972,Centro,39.690-000,Malacacheta/MG,972email@emailfalso.com
+Empresa 973,Empresa 973,Trabalhador,Categoria 973,*Tocantins*.,Endereço 973,Plano Diretor Norte,77.006-148,Palmas/TO,973email@emailfalso.com
+Empresa 974,Empresa 974,Trabalhador,Categoria 974,*Mato Grosso*.,Endereço 974,Duque de Caxias II,78.043-395,Cuiabá/MT,974email@emailfalso.com
+Empresa 975,Empresa 975,Trabalhador,Categoria 975,*São Paulo*: Santa Rosa de Viterbo.,Endereço 975,Centro,14.270-000,Santa Rosa de Viterbo/SP,975email@emailfalso.com
+Empresa 976,Empresa 976,Trabalhador,Categoria 976,*Santa Catarina*.,Endereço 976,Centro,89.010-002,Blumenau/SC,976email@emailfalso.com
+Empresa 977,Empresa 977,Trabalhador,Categoria 977,*Distrito Federal*.,Endereço 977,Asa Sul,70.093-900,Brasília/DF,977email@emailfalso.com
+Empresa 978,Empresa 978,Trabalhador,Categoria 978,*Distrito Federal*.,Endereço 978,Asa Sul,70.394-901,Brasília/DF,978email@emailfalso.com
+Empresa 979,Empresa 979,Trabalhador,Categoria 979,,Endereço 979,,,Brasília/DF,979email@emailfalso.com
+Empresa 980,Empresa 980,Trabalhador,Categoria 980,,Endereço 980,,,Brasília/DF,980email@emailfalso.com
+Empresa 981,Empresa 981,Trabalhador,Categoria 981,*Goiás*.,Endereço 981,Valparaiso I - Etapa A,72.876-054,Valparaíso de Goiás/GO,981email@emailfalso.com
+Empresa 982,Empresa 982,Trabalhador,Categoria 982,*Minas Gerais*: Pouso Alto.,Endereço 982,CENTRO,37.468-000,Pouso Alto/MG,982email@emailfalso.com
+Empresa 983,Empresa 983,Trabalhador,Categoria 983,*Mato Grosso do Sul*: Terenos.,Endereço 983,Centro,79.190-000,Terenos/MS,983email@emailfalso.com
+Empresa 984,Empresa 984,Trabalhador,Categoria 984,,Endereço 984,Centro,29.130-065,Viana/ES,984email@emailfalso.com
+Empresa 985,Empresa 985,Trabalhador,Categoria 985,,Endereço 985,Marambaia,66.615-850,Belém/PA,985email@emailfalso.com
+Empresa 986,Empresa 986,Trabalhador,Categoria 986,*Rio de Janeiro*: Italva.,Endereço 986,São Caetano,28.250-000,Italva/RJ,986email@emailfalso.com
+Empresa 987,Empresa 987,Trabalhador,Categoria 987,"*Rio Grande do Sul*: Cachoeira do Sul, Pelotas, Porto Alegre e Triunfo.",Endereço 987,Menino Deus,90.150-004,Porto Alegre/RS,987email@emailfalso.com
+Empresa 988,Empresa 988,Trabalhador,Categoria 988,*Paraná*: Rosário do Ivaí.,Endereço 988,Centro,86.850-000,Rosário do Ivaí/PR,988email@emailfalso.com
+Empresa 989,Empresa 989,Trabalhador,Categoria 989,*Minas Gerais*: Ouro Fino.,Endereço 989,Centro,37.570-000,Ouro Fino/MG,989email@emailfalso.com
+Empresa 990,Empresa 990,Trabalhador,Categoria 990,*Distrito Federal*.,Endereço 990,Asa Sul,70.393-900,Brasília/DF,990email@emailfalso.com
+Empresa 991,Empresa 991,Trabalhador,Categoria 991,*Tocantins*.,Endereço 991,Plano Diretor Sul,77.020-480,Palmas/TO,991email@emailfalso.com
+Empresa 992,Empresa 992,Trabalhador,Categoria 992,*Mato Grosso do Sul*: Caarapó.,Endereço 992,CENTRO,79.940-000,Caarapó/MS,992email@emailfalso.com
+Empresa 993,Empresa 993,Trabalhador,Categoria 993,*São Paulo*: Pirapozinho.,Endereço 993,Centro,19.200-000,Pirapozinho/SP,993email@emailfalso.com
+Empresa 994,Empresa 994,Trabalhador,Categoria 994,*São Paulo*.,Endereço 994,Bela Vista,01.306-001,São Paulo/SP,994email@emailfalso.com
+Empresa 995,Empresa 995,Trabalhador,Categoria 995,*Santa Catarina*: Mirim Doce.,Endereço 995,centro,89.194-000,Mirim Doce/SC,995email@emailfalso.com
+Empresa 996,Empresa 996,Trabalhador,Categoria 996,*Distrito Federal*.,Endereço 996,Asa Sul,70.393-900,Brasília/DF,996email@emailfalso.com
+Empresa 997,Empresa 997,Trabalhador,Categoria 997,*Rio Grande do Sul*: São José do Norte.,Endereço 997,CENTRO,96.225-000,São José do Norte/RS,997email@emailfalso.com
+Empresa 998,Empresa 998,Trabalhador,Categoria 998,*Tocantins*.,Endereço 998,Plano Diretor Norte,77.001-036,Palmas/TO,998email@emailfalso.com
+Empresa 999,Empresa 999,Trabalhador,Categoria 999,*Distrito Federal*.,Endereço 999,Asa Norte,70.750-504,Brasília/DF,999email@emailfalso.com
